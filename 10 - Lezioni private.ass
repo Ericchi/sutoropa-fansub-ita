@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 421
-Active Line: 427
-Video Position: 38292
+Scroll Position: 133
+Active Line: 137
+Video Position: 8658
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -288,8 +288,8 @@ Dialogue: 0,0:05:53.14,0:05:54.25,Shizuma Hanazono,,0,0,0,,Dici davvero?
 Dialogue: 0,0:05:54.50,0:05:58.36,Nagisa Aoi,,0,0,0,,Sto studiando francese il più possibile in questi giorni,
 Dialogue: 0,0:05:58.36,0:06:00.35,Nagisa Aoi,,0,0,0,,ma non riesco a ricordare nulla.
 Dialogue: 0,0:06:00.35,0:06:00.78,Nagisa Aoi,,0,0,0,,Ah-
-Dialogue: 0,0:06:01.11,0:06:04.21,Nagisa Aoi,,0,0,0,,Mi dispiace, mi sono praticamente lagnata di fronte a lei.
-Comment: 0,0:06:01.11,0:06:04.21,Note,,0,0,0,,Questa andrebbe cambiata.
+Dialogue: 0,0:06:01.11,0:06:04.21,Nagisa Aoi,,0,0,0,,Mi dispiace, mi sono praticamente sfogata di fronte a lei.
+Comment: 0,0:06:01.11,0:06:04.21,Note,,0,0,0,,Questa andrebbe cambiata, è un tributo ai lagnini.
 Dialogue: 0,0:06:04.40,0:06:06.00,Nagisa Aoi,,0,0,0,,Mi perdoni.
 Dialogue: 0,0:06:08.89,0:06:09.68,Shizuma Hanazono,,0,0,0,,Aspetta.
 Dialogue: 0,0:06:11.46,0:06:12.90,Shizuma Hanazono,,0,0,0,,Te lo insegnerò io.

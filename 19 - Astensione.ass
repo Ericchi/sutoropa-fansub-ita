@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第19話 「リフレイン」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第19話 「リフレイン」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 218
-Active Line: 220
-Video Position: 16829
+Scroll Position: 200
+Active Line: 208
+Video Position: 10739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,6 @@ Style: Sorellina A,PT Serif,52,&H0098BCCE,&H000000FF,&H00222628,&H80000000,-1,0,
 Style: Sorellina B,PT Serif,52,&H00A9A0B2,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Titolo episodio,Bookman Old Style,52,&H00010058,&H000000FF,&H00000000,&H008692B7,-1,0,0,0,100,100,0,0,1,0,3,2,10,10,250,1
 Style: Traduzioni bordate,Bookman Old Style,30,&H00F5F7FB,&H000000FF,&H00100E0A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
-Style: Scartoffie rosa,Bookman Old Style,30,&H00BD8ADD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Nagisa Aoi,PT Serif,52,&H00A5A0E8,&H000000FF,&H0025252C,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Nagisa - secondo piano,PT Serif,52,&H00A5A0E8,&H000000FF,&H0025252C,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,8,10,10,10,1
 Style: Tamao Suzumi,PT Serif,52,&H00F0D9A1,&H000000FF,&H002F2A28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
@@ -85,6 +84,7 @@ Style: Sorellina B-1,PT Serif,52,&H00C4AED9,&H000000FF,&H00222628,&H80000000,-1,
 Style: Portaombrelli,Bookman Old Style,30,&H00131E1F,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Scartoffie bianche,Bookman Old Style,30,&H00EFFEEE,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Scartoffie - mini,Bookman Old Style,30,&H00121D1D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,50,50,0,0,1,0,0,5,10,10,10,1
+Style: Scartoffie rosa,Bookman Old Style,30,&H00BD8ADD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -214,243 +214,86 @@ Dialogue: 0,0:01:13.31,0:01:18.30,Lyrics traduzione,,0,0,0,,Facciamoci una prome
 Comment: 0,0:01:18.68,0:01:21.84,Default,,0,0,0,karaoke,{\k23}Me{\k17}gu{\k19}ri{\k21}a{\k26}u {\k25}no {\k165}dream
 Dialogue: 0,0:01:18.68,0:01:21.84,Lyrics traduzione,,0,0,0,,Staremo insieme in questo sogno.
 Dialogue: 0,0:00:04.64,0:00:11.98,Copyright Sutoropa,,0,0,0,,{\fad(1200,1200}Fansub: EricchiYukia
-Dialogue: 0,0:01:30.83,0:01:36.44,Lyrics traduzione canti,,0,0,0,,Come i bianchi
-Dialogue: 0,0:01:56.10,0:01:57.11,Nagisa Aoi,,0,0,0,,Ecco,
-Dialogue: 0,0:01:57.34,0:01:58.76,Nagisa Aoi,,0,0,0,,è ancora lontana?
-Dialogue: 0,0:01:59.56,0:02:00.52,Nagisa Aoi,,0,0,0,,La villa.
-Dialogue: 0,0:02:01.17,0:02:01.98,Shizuma Hanazono,,0,0,0,,No,
-Dialogue: 0,0:02:02.41,0:02:03.86,Shizuma Hanazono,,0,0,0,,tra poco la vedrai.
-Dialogue: 0,0:02:06.99,0:02:09.32,Shizuma Hanazono,,0,0,0,,Ancora un piccolo sforzo.
-Dialogue: 0,0:02:13.04,0:02:14.44,Nagisa Aoi,,0,0,0,,Non sono bellissime?
-Dialogue: 0,0:02:14.92,0:02:15.89,Shizuma Hanazono,,0,0,0,,Già.
-Dialogue: 0,0:02:20.97,0:02:22.39,Nagisa Aoi,,0,0,0,,Passo dopo passo,
-Dialogue: 0,0:02:22.63,0:02:25.46,Nagisa Aoi,,0,0,0,,ci stiamo avvicinando alla villa di Shizuma-sama.
-Dialogue: 0,0:02:26.06,0:02:28.05,Nagisa Aoi,,0,0,0,,Voglio che Shizuma-sama mi parli
-Dialogue: 0,0:02:28.05,0:02:31.88,Nagisa Aoi,,0,0,0,,e voglio ascoltare cos'ha da dire sull'altra Étoile.
-Dialogue: 0,0:02:32.54,0:02:33.37,Nagisa Aoi,,0,0,0,,Però...
-Dialogue: 0,0:02:33.81,0:02:38.81,Titolo episodio,,0,0,0,,Tempesta d'amore
-Dialogue: 0,0:03:03.20,0:03:04.58,Shizuma Hanazono,,0,0,0,,Mangiamo?
-Dialogue: 0,0:03:07.33,0:03:09.22,Shizuma Hanazono,,0,0,0,,Il pranzo di Tamao-chan.
-Dialogue: 0,0:03:15.26,0:03:16.52,Shizuma Hanazono,,0,0,0,,È buono, non trovi?
-Dialogue: 0,0:03:17.76,0:03:19.68,Nagisa Aoi,,0,0,0,,Sì, è buono.
-Dialogue: 0,0:03:19.92,0:03:21.81,Shizuma Hanazono,,0,0,0,,Quando torneremo al dormitorio Ichigo,
-Dialogue: 0,0:03:21.81,0:03:23.93,Shizuma Hanazono,,0,0,0,,ringrazieremo Tamao-san.
-Dialogue: 0,0:03:27.54,0:03:29.28,Nagisa Aoi,,0,0,0,,Mi dispiace davvero!
-Dialogue: 0,0:03:29.28,0:03:32.53,Nagisa Aoi,,0,0,0,,Ti avevo promesso che sarei andata con te a vedere le foglie che cadono.
-Dialogue: 0,0:03:33.76,0:03:38.33,Tamao Suzumi,,0,0,0,,Nagisa-chan, tu vuoi ascoltare ciò che ha da dirti Shizuma-sama, no?
-Dialogue: 0,0:03:46.31,0:03:48.47,Shizuma Hanazono,,0,0,0,,Questo posto mi fa venire in mente lei e
-Dialogue: 0,0:03:49.19,0:03:51.09,Shizuma Hanazono,,0,0,0,,tutte le giornate estive che abbiamo trascorso.
-Dialogue: 0,0:03:52.88,0:03:53.74,Shizuma Hanazono,,0,0,0,,Però,
-Dialogue: 0,0:03:54.69,0:03:56.47,Shizuma Hanazono,,0,0,0,,i miei ricordi di lei saranno eternamente...
-Dialogue: 0,0:03:59.29,0:04:01.31,Shizuma Hanazono,,0,0,0,,come delle foglie che cadono.
-Dialogue: 0,0:04:08.81,0:04:10.51,Nagisa Aoi,,0,0,0,,È tutto molto calmo, non trova?
-Dialogue: 0,0:04:11.13,0:04:12.64,Shizuma Hanazono,,0,0,0,,È perché non c'è nessuno.
-Dialogue: 0,0:04:13.55,0:04:14.62,Nagisa Aoi,,0,0,0,,Nessuno?
-Dialogue: 0,0:04:16.36,0:04:17.84,Shizuma Hanazono,,0,0,0,,Tutta questa zona
-Dialogue: 0,0:04:17.84,0:04:19.83,Shizuma Hanazono,,0,0,0,,è territorio della villa.
-Dialogue: 0,0:04:21.37,0:04:23.07,Shizuma Hanazono,,0,0,0,,Qui ci siamo solo io e te.
-Dialogue: 0,0:04:23.64,0:04:24.99,Shizuma Hanazono,,0,0,0,,Questo paesaggio,
-Dialogue: 0,0:04:24.99,0:04:26.36,Shizuma Hanazono,,0,0,0,,appartiene solo a noi due.
-Dialogue: 0,0:04:33.09,0:04:35.27,Nagisa Aoi,,0,0,0,,Lei e l'altra Étoile
-Dialogue: 0,0:04:35.78,0:04:37.48,Nagisa Aoi,,0,0,0,,sono state qui insieme.
-Dialogue: 0,0:04:42.17,0:04:43.17,Shizuma Hanazono,,0,0,0,,Non va bene.
-Dialogue: 0,0:04:47.20,0:04:48.26,Shizuma Hanazono,,0,0,0,,Dobbiamo correre.
-Dialogue: 0,0:05:00.14,0:05:01.04,Shizuma Hanazono,,0,0,0,,Eccola.
-Dialogue: 0,0:05:23.72,0:05:24.94,Shizuma Hanazono,,0,0,0,,Vuoi aprire tu?
-Dialogue: 0,0:05:28.00,0:05:28.87,Nagisa Aoi,,0,0,0,,Va bene.
-Dialogue: 0,0:05:35.58,0:05:37.08,Shizuma Hanazono,,0,0,0,,Sono passati due anni.
-Dialogue: 0,0:05:59.11,0:06:00.64,Shizuma Hanazono,,0,0,0,,Aspetta un momento.
-Dialogue: 0,0:06:00.94,0:06:02.68,Shizuma Hanazono,,0,0,0,,Vado a preparare la doccia.
-Dialogue: 0,0:06:37.13,0:06:38.33,Shizuma Hanazono,,0,0,0,,Prendi questi.
-Dialogue: 0,0:06:38.64,0:06:39.44,Nagisa Aoi,,0,0,0,,Ma...
-Dialogue: 0,0:06:39.68,0:06:41.20,Nagisa Aoi,,0,0,0,,e lei?
-Dialogue: 0,0:06:42.52,0:06:43.64,Nagisa Aoi,,0,0,0,,Per la doccia...
-Dialogue: 0,0:06:44.28,0:06:46.81,Shizuma Hanazono,,0,0,0,,Grazie per esserti preoccupata, Nagisa.
-Dialogue: 0,0:06:48.93,0:06:50.12,Shizuma Hanazono,,0,0,0,,Va tutto bene.
-Dialogue: 0,0:06:50.71,0:06:53.08,Shizuma Hanazono,,0,0,0,,Userò la doccia al secondo piano.
-Dialogue: 0,0:06:53.76,0:06:55.86,Shizuma Hanazono,,0,0,0,,Fai la tua doccia con comodo.
-Dialogue: 0,0:06:57.71,0:06:58.80,Shizuma Hanazono,,0,0,0,,Dopodiché,
-Dialogue: 0,0:06:59.05,0:07:00.08,Shizuma Hanazono,,0,0,0,,te ne parlerò.
-Dialogue: 0,0:07:44.03,0:07:46.41,Shizuma Hanazono,,0,0,0,,Certo che ne è passato di tempo.
-Dialogue: 0,0:07:51.03,0:07:52.12,Shizuma Hanazono,,0,0,0,,Perdonami.
-Dialogue: 0,0:08:10.87,0:08:11.88,Shizuma Hanazono,,0,0,0,,Nagisa.
-Dialogue: 0,0:08:12.24,0:08:13.66,Shizuma Hanazono,,0,0,0,,Ti andrebbe del caffè?
-Dialogue: 0,0:08:14.50,0:08:15.44,Nagisa Aoi,,0,0,0,,Sì.
-Dialogue: 0,0:08:20.75,0:08:21.94,Nagisa Aoi,,0,0,0,,Che bella.
-Dialogue: 0,0:08:45.77,0:08:47.20,Nagisa Aoi,,0,0,0,,Shizuma-sama.
-Dialogue: 0,0:08:48.34,0:08:49.36,Nagisa Aoi,,0,0,0,,Ecco,
-Dialogue: 0,0:08:49.95,0:08:51.73,Nagisa Aoi,,0,0,0,,pensavo che fosse strano.
-Dialogue: 0,0:08:53.09,0:08:54.57,Nagisa Aoi,,0,0,0,,Perché proprio io?
-Dialogue: 0,0:08:56.72,0:08:58.99,Shizuma Hanazono,,0,0,0,,È perché sei tu, Nagisa.
-Dialogue: 0,0:08:59.51,0:09:00.99,Nagisa Aoi,,0,0,0,,Shizuma-sama...
-Dialogue: 0,0:09:12.24,0:09:13.43,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:09:14.32,0:09:15.48,Tamao Suzumi,,0,0,0,,Sei in ritardo.
-Dialogue: 0,0:09:19.92,0:09:21.05,Miyuki Rokujou,,0,0,0,,Shizuma.
-Dialogue: 0,0:09:35.82,0:09:37.33,Shizuma Hanazono,,0,0,0,,Che brutta tempesta.
-Dialogue: 0,0:09:38.02,0:09:39.68,Shizuma Hanazono,,0,0,0,,Sembra che non potremo rientrare.
-Dialogue: 0,0:09:42.69,0:09:44.84,Shizuma Hanazono,,0,0,0,,Rimarremo qui stanotte.
-Dialogue: 0,0:09:44.84,0:09:46.03,Nagisa Aoi,,0,0,0,,Rimarremo...
-Dialogue: 0,0:09:46.03,0:09:47.04,Nagisa Aoi,,0,0,0,,qui?
-Dialogue: 0,0:09:49.66,0:09:51.30,Shizuma Hanazono,,0,0,0,,Rientreremo domani.
-Dialogue: 0,0:09:51.87,0:09:54.22,Shizuma Hanazono,,0,0,0,,Domani mattina la tempesta sarà passata.
-Dialogue: 0,0:09:55.17,0:09:56.55,Nagisa Aoi,,0,0,0,,Speriamo.
-Dialogue: 0,0:09:57.39,0:10:00.44,Nagisa Aoi,,0,0,0,,Ma Tamao-chan sarà preoccupata.
-Dialogue: 0,0:10:00.44,0:10:03.05,Nagisa Aoi,,0,0,0,,E poi non abbiamo il permesso.
-Comment: 0,0:10:00.44,0:10:03.05,Nagisa Aoi,,0,0,0,,Sidenote: Che strano modo di dirlo. "L'autorizzazione è nella zona grigia".
-Dialogue: 0,0:10:03.92,0:10:05.79,Shizuma Hanazono,,0,0,0,,Contatterò Miyuki.
-Dialogue: 0,0:10:09.17,0:10:10.98,Nagisa Aoi,,0,0,0,,Shizuma-sama e...
-Dialogue: 0,0:10:10.98,0:10:12.82,Nagisa Aoi,,0,0,0,,me, da sole.
-Dialogue: 0,0:10:31.73,0:10:33.24,Miyuki Rokujou,,0,0,0,,Grazie infinite.
-Dialogue: 0,0:10:44.52,0:10:46.20,Miyuki Rokujou,,0,0,0,,A quanto pare non torneranno oggi.
-Dialogue: 0,0:10:46.60,0:10:48.10,Tamao Suzumi,,0,0,0,,Oh, no.
-Dialogue: 0,0:11:14.89,0:11:15.94,Shizuma Hanazono,,0,0,0,,Entra.
-Dialogue: 0,0:11:21.58,0:11:22.96,Nagisa Aoi,,0,0,0,,Questa stanza...
-Dialogue: 0,0:11:23.32,0:11:25.74,Shizuma Hanazono,,0,0,0,,Adesso non è di nessuno.
-Dialogue: 0,0:11:27.13,0:11:28.69,Shizuma Hanazono,,0,0,0,,Era la stanza
-Dialogue: 0,0:11:28.69,0:11:30.00,Shizuma Hanazono,,0,0,0,,di quella ragazza.
-Dialogue: 0,0:11:31.72,0:11:32.90,Nagisa Aoi,,0,0,0,,Quella ragazza è...
-Dialogue: 0,0:11:33.48,0:11:35.42,Nagisa Aoi,,0,0,0,,l'altra Étoile.
-Dialogue: 0,0:11:36.05,0:11:37.52,Shizuma Hanazono,,0,0,0,,Il suo nome è
-Dialogue: 0,0:11:38.48,0:11:39.23,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:11:39.23,0:11:45.88,Note,,0,0,0,,Nota: Shizuma pronuncia il nome di Kaori nel suo monologo all'inizio del primo episodio. Una delle traduzioni di "Kaori" è "fragranza". Shizuma dice di non riuscire più a percepire la fragranza dei fiori, riferendosi al fatto che le manca Kaori.
-Dialogue: 0,0:11:51.34,0:11:53.31,Nagisa Aoi,,0,0,0,,Kaori-san.
-Dialogue: 0,0:11:54.36,0:11:56.96,Shizuma Hanazono,,0,0,0,,Già, Sakuragi Kaori.
-Dialogue: 0,0:11:57.43,0:11:59.96,Nagisa Aoi,,0,0,0,,Sakuragi Kaori.
-Dialogue: 0,0:11:56.96,0:11:59.96,Note,,0,0,0,,Nota: La traduzione di "Sakuragi" è "ciliegio". Il primo episodio si intitola "La collina dei fiori di ciliegio" per questo motivo.
-Dialogue: 0,0:12:00.40,0:12:03.46,Shizuma Hanazono,,0,0,0,,Se fosse stata ancora viva, sarebbe stata una tua coetanea.
-Dialogue: 0,0:12:10.48,0:12:12.47,Shizuma Hanazono,,0,0,0,,Questa è la stanza di Kaori.
-Dialogue: 0,0:12:13.65,0:12:14.70,Shizuma Hanazono,,0,0,0,,Era.
-Dialogue: 0,0:12:16.49,0:12:18.73,Nagisa Aoi,,0,0,0,,La stanza di Kaori-san...
-Dialogue: 0,0:12:21.16,0:12:23.07,Shizuma Hanazono,,0,0,0,,Questo è il posto migliore
-Dialogue: 0,0:12:23.60,0:12:25.37,Shizuma Hanazono,,0,0,0,,per raccontare ciò che ho da dirti.
-Dialogue: 0,0:12:30.32,0:12:31.39,Shizuma Hanazono,,0,0,0,,Anche quella volta
-Dialogue: 0,0:12:31.83,0:12:33.49,Shizuma Hanazono,,0,0,0,,imperversava una tempesta.
-Dialogue: 0,0:12:34.00,0:12:35.29,Nagisa Aoi,,0,0,0,,«Quella volta»?
-Dialogue: 0,0:12:35.61,0:12:36.81,Shizuma Hanazono,,0,0,0,,La notte in cui
-Dialogue: 0,0:12:37.15,0:12:38.65,Shizuma Hanazono,,0,0,0,,ci siamo innamorate.
-Dialogue: 0,0:12:43.12,0:12:44.02,Shizuma Hanazono,,0,0,0,,No.
-Dialogue: 0,0:12:44.64,0:12:48.01,Shizuma Hanazono,,0,0,0,,"Innamorate" non è la parola giusta.
-Dialogue: 0,0:12:48.29,0:12:49.65,Shizuma Hanazono,,0,0,0,,Anche adesso
-Dialogue: 0,0:12:50.28,0:12:52.12,Shizuma Hanazono,,0,0,0,,non so se fosse amore
-Dialogue: 0,0:12:52.62,0:12:54.65,Shizuma Hanazono,,0,0,0,,o soltanto compassione.
-Dialogue: 0,0:12:56.04,0:12:57.63,Shizuma Hanazono,,0,0,0,,Io non lo so.
-Dialogue: 0,0:13:00.55,0:13:01.68,Shizuma Hanazono,,0,0,0,,Comunque sia,
-Dialogue: 0,0:13:02.09,0:13:04.09,Shizuma Hanazono,,0,0,0,,non c'è alcun dubbio.
-Dialogue: 0,0:13:04.74,0:13:06.96,Shizuma Hanazono,,0,0,0,,Avevamo bisogno l'una dell'altra.
-Dialogue: 0,0:13:16.70,0:13:18.23,Nagisa Aoi,,0,0,0,,Shizuma-sama.
-Dialogue: 0,0:13:18.52,0:13:20.41,Nagisa Aoi,,0,0,0,,Devo ascoltarla.
-Dialogue: 0,0:13:20.91,0:13:24.66,Nagisa Aoi,,0,0,0,,Shizuma-sama sta facendo del suo meglio per raccontare.
-Dialogue: 0,0:13:26.18,0:13:27.80,Shizuma Hanazono,,0,0,0,,Ma Kaori...
-Dialogue: 0,0:13:30.59,0:13:31.88,Shizuma Hanazono,,0,0,0,,Quella volta...
-Dialogue: 0,0:13:36.12,0:13:38.06,Shizuma Hanazono,,0,0,0,,il mio mondo ha perso i suoi colori.
-Dialogue: 0,0:13:39.88,0:13:41.98,Shizuma Hanazono,,0,0,0,,I colori sono tornati,
-Dialogue: 0,0:13:42.31,0:13:43.18,Shizuma Hanazono,,0,0,0,,Nagisa,
-Dialogue: 0,0:13:43.18,0:13:44.31,Shizuma Hanazono,,0,0,0,,grazie a te.
-Dialogue: 0,0:13:45.92,0:13:47.76,Shizuma Hanazono,,0,0,0,,Da quando tu sei arrivata,
-Dialogue: 0,0:13:48.04,0:13:50.28,Shizuma Hanazono,,0,0,0,,io ho trovato la forza di rialzarmi.
-Dialogue: 0,0:13:52.66,0:13:54.52,Shizuma Hanazono,,0,0,0,,Da quando tu sei arrivata,
-Dialogue: 0,0:13:55.44,0:13:57.32,Shizuma Hanazono,,0,0,0,,io sono riuscita a...
-Dialogue: 0,0:13:58.38,0:13:59.49,Nagisa Aoi,,0,0,0,,Anche io.
-Dialogue: 0,0:13:59.49,0:14:01.27,Nagisa Aoi,,0,0,0,,Da quando io l'ho incontrata...
-Dialogue: 0,0:14:04.95,0:14:06.28,Shizuma Hanazono,,0,0,0,,Vado a cambiarmi.
-Dialogue: 0,0:14:07.80,0:14:09.65,Shizuma Hanazono,,0,0,0,,Sarà una lunga storia.
-Dialogue: 0,0:14:10.03,0:14:11.08,Shizuma Hanazono,,0,0,0,,E poi,
-Dialogue: 0,0:14:11.08,0:14:13.80,Shizuma Hanazono,,0,0,0,,Non possiamo stare vestite così tutto il tempo.
-Dialogue: 0,0:14:14.09,0:14:16.34,Shizuma Hanazono,,0,0,0,,Porterò dei vestiti anche per te.
-Dialogue: 0,0:14:31.12,0:14:33.36,Shizuma Hanazono,,0,0,0,,Non c'è motivo di preoccuparsi.
-Dialogue: 0,0:14:33.93,0:14:35.94,Shizuma Hanazono,,0,0,0,,Adesso sto bene.
-Dialogue: 0,0:14:36.95,0:14:38.07,Shizuma Hanazono,,0,0,0,,Lei...
-Dialogue: 0,0:14:38.44,0:14:39.87,Shizuma Hanazono,,0,0,0,,Nagisa, sicuramente...
-Dialogue: 0,0:14:44.60,0:14:45.90,Shizuma Hanazono,,0,0,0,,Andrà tutto bene.
-Dialogue: 0,0:14:53.44,0:14:54.88,Nagisa Aoi,,0,0,0,,Shizuma-sama.
-Dialogue: 0,0:15:33.15,0:15:34.63,Shizuma Hanazono,,0,0,0,,Va tutto bene.
-Dialogue: 0,0:15:50.43,0:15:51.41,Shizuma Hanazono,,0,0,0,,Nagisa.
-Dialogue: 0,0:15:51.97,0:15:53.64,Nagisa Aoi,,0,0,0,,Shizuma-sama.
-Dialogue: 0,0:15:54.18,0:15:55.53,Shizuma Hanazono,,0,0,0,,Ora posso continuare.
-Dialogue: 0,0:16:06.35,0:16:07.44,Shizuma Hanazono,,0,0,0,,Nagisa.
-Dialogue: 0,0:16:09.72,0:16:11.27,Shizuma Hanazono,,0,0,0,,Ti ho portato i vestiti.
-Dialogue: 0,0:16:31.71,0:16:34.01,Kaori Sakuragi,,0,0,0,,{\fad(0,1000)}Shizuma.
-Dialogue: 0,0:16:54.56,0:16:56.10,Nagisa Aoi,,0,0,0,,Shizuma-sama?
-Dialogue: 0,0:17:03.71,0:17:04.80,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:17:11.88,0:17:13.72,Nagisa Aoi,,0,0,0,,Shizuma-sama.
-Dialogue: 0,0:17:15.22,0:17:16.20,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:17:17.05,0:17:18.24,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:17:18.85,0:17:20.63,Nagisa Aoi,,0,0,0,,Shizuma-sama...
-Dialogue: 0,0:17:22.55,0:17:23.74,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:18:24.92,0:18:25.98,Shizuma Hanazono,,0,0,0,,Nagisa.
-Dialogue: 0,0:19:27.68,0:19:29.10,Nagisa Aoi,,0,0,0,,Mi dispiace.
-Dialogue: 0,0:19:31.40,0:19:32.96,Nagisa Aoi,,0,0,0,,Io non vado bene,
-Dialogue: 0,0:19:33.50,0:19:34.80,Nagisa Aoi,,0,0,0,,è così?
-Dialogue: 0,0:19:36.68,0:19:37.81,Nagisa Aoi,,0,0,0,,Mi dispiace!
-Dialogue: 0,0:21:21.06,0:21:22.93,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:21:24.20,0:21:25.60,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:21:31.26,0:21:32.47,Miyuki Rokujou,,0,0,0,,E Shizuma?
-Dialogue: 0,0:21:36.61,0:21:38.00,Nagisa Aoi,,0,0,0,,Mi dispiace.
-Dialogue: 0,0:21:38.32,0:21:39.83,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:21:40.36,0:21:41.92,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:21:42.93,0:21:43.70,Miyuki Rokujou,,0,0,0,,Nagisa-san?
-Dialogue: 0,0:21:43.70,0:21:45.32,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:21:45.32,0:21:46.72,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:21:45.56,0:21:46.72,Miyuki Rokujou,,0,0,0,,Aspettatemi.
-Dialogue: 0,0:21:46.72,0:21:48.17,Miyuki Rokujou,,0,0,0,,Vado a chiamare qualcuno.
-Dialogue: 0,0:21:48.40,0:21:50.00,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:21:50.00,0:21:51.65,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:21:52.55,0:21:54.44,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:21:57.09,0:21:58.14,Miyuki Rokujou,,0,0,0,,Shizuma.
-Dialogue: 0,0:21:58.56,0:21:59.88,Miyuki Rokujou,,0,0,0,,Tu, ancora non...
-Comment: 0,0:22:33.05,0:22:36.47,Default,,0,0,0,karaoke,{\k31}So{\k23}ba {\k25}ni {\k37}ta{\k51}tta {\k45}wa{\k22}ta{\k34}shi {\k74}ni
-Dialogue: 0,0:22:33.05,0:22:36.47,Lyrics traduzione,,0,0,0,karaoke,Eri così vicina a me
-Comment: 0,0:22:36.91,0:22:39.59,Default,,0,0,0,karaoke,{\k25}Ki{\k29}zu {\k20}ka{\k42}na{\k31}i {\k24}ho{\k97}do
-Dialogue: 0,0:22:36.91,0:22:39.59,Lyrics traduzione,,0,0,0,karaoke,ma non riuscivo a farmi notare.
-Comment: 0,0:22:40.77,0:22:44.15,Default,,0,0,0,karaoke,{\k27}Kyo{\k24}u{\k23}mi{\k34}bu{\k39}ka{\k22}i {\k39}ho{\k34}n {\k24}na {\k72}no?
-Dialogue: 0,0:22:40.77,0:22:44.15,Lyrics traduzione,,0,0,0,karaoke,È un libro interessante?
-Comment: 0,0:22:44.63,0:22:47.02,Default,,0,0,0,karaoke,{\k19}No{\k28}zo{\k25}i{\k37}te {\k35}mi{\k25}ta{\k70}i
-Dialogue: 0,0:22:44.63,0:22:47.02,Lyrics traduzione,,0,0,0,karaoke,Vorrei darci un'occhiata.
-Comment: 0,0:22:48.47,0:22:51.83,Default,,0,0,0,karaoke,{\k23}Te {\k26}ga {\k23}to{\k38}ma{\k58}ri {\k28}ya{\k35}sa{\k32}shi{\k73}ku
-Dialogue: 0,0:22:48.47,0:22:51.83,Lyrics traduzione,,0,0,0,karaoke,La mia mano si ferma dolcemente.
-Comment: 0,0:22:52.31,0:22:54.87,Default,,0,0,0,karaoke,{\k23}yo{\k24}n{\k25}de {\k37}ku{\k35}re{\k24}ta{\k88}wa
-Dialogue: 0,0:22:52.31,0:22:54.87,Lyrics traduzione,,0,0,0,karaoke,Te lo leggerò.
-Comment: 0,0:22:56.15,0:22:59.50,Default,,0,0,0,karaoke,{\k24}Mi{\k24}ra{\k23}i {\k47}wa {\k49}ka{\k38}wa{\k34}ru {\k27}ka{\k69}ra
-Dialogue: 0,0:22:56.15,0:22:59.50,Lyrics traduzione,,0,0,0,karaoke,Cambierò il futuro
-Comment: 0,0:22:59.99,0:23:02.90,Default,,0,0,0,karaoke,{\k25}mu{\k12}ka{\k34}shi {\k38}he {\k36}yu{\k21}ko{\k125}u
-Dialogue: 0,0:22:59.99,0:23:02.90,Lyrics traduzione,,0,0,0,karaoke,in modo da rivivere il passato.
-Comment: 0,0:23:03.83,0:23:07.50,Default,,0,0,0,karaoke,{\k23}Ka{\k26}wa {\k24}no {\k40}ho{\k84}n, {\k20}a{\k23}no {\k25}ko{\k29}ro {\k73}no
-Dialogue: 0,0:23:03.83,0:23:07.50,Lyrics traduzione,,0,0,0,karaoke,Dentro alla pelle della copertina di quel libro,
-Comment: 0,0:23:07.67,0:23:11.29,Default,,0,0,0,karaoke,{\k20}a{\k31}ma{\k18}i {\k23}e{\k10}pi{\k42}so{\k26}de {\k48}mi{\k46}e{\k50}ta {\k48}no
-Dialogue: 0,0:23:07.67,0:23:11.29,Lyrics traduzione,,0,0,0,karaoke,potevo intravedere un dolce episodio del passato.
-Comment: 0,0:23:11.50,0:23:15.03,Default,,0,0,0,karaoke,{\k28}Ma{\k23}do{\k17}i {\k29}tsu{\k96}tsu, {\k24}o{\k23}bi{\k23}e {\k36}tsu{\k54}tsu
-Dialogue: 0,0:23:11.50,0:23:15.03,Lyrics traduzione,,0,0,0,karaoke,Nonostante i miei dubbi, nonostante le mie paure
-Comment: 0,0:23:15.13,0:23:18.11,Default,,0,0,0,karaoke,{\k47}fu{\k25}re {\k46}a-{\k24}a{\k25}tta {\k131}ne
-Dialogue: 0,0:23:15.13,0:23:18.11,Lyrics traduzione,,0,0,0,karaoke,entrai in contatto con te.
-Comment: 0,0:23:18.19,0:23:22.48,Default,,0,0,0,karaoke,{\k30}Shi{\k20}a{\k16}wa{\k58}se {\k24}da{\k76}to {\k24}i-{\k24}i{\k47}tte {\k25}mi{\k89}te?
-Dialogue: 0,0:23:18.19,0:23:22.48,Lyrics traduzione,,0,0,0,karaoke,Non eri tu a dirmi di essere felice?
-Comment: 0,0:23:22.76,0:23:25.67,Default,,0,0,0,karaoke,{\k49}Wa{\k26}ra{\k48}u {\k25}a{\k23}na{\k120}ta
-Dialogue: 0,0:23:22.76,0:23:25.67,Lyrics traduzione,,0,0,0,karaoke,Lo dicevi sorridendo.
-Comment: 0,0:23:25.89,0:23:30.38,Default,,0,0,0,karaoke,{\k20}Ha{\k30}zu{\k11}ka{\k63}shi{\k22}ku{\k95}te {\k24}ni{\k24}ge{\k15}da{\k34}shi{\k123}ta
-Dialogue: 0,0:23:25.89,0:23:30.38,Lyrics traduzione,,0,0,0,karaoke,Che imbarazzo, scappai via.
-Comment: 0,0:23:30.65,0:23:33.60,Default,,0,0,0,karaoke,{\k30}tsu{\k24}ka{\k23}ma{\k41}e {\k30}ni {\k25}ki{\k122}te
-Dialogue: 0,0:23:30.65,0:23:33.60,Lyrics traduzione,,0,0,0,karaoke,Vieni a prendermi.
-Comment: 0,0:23:34.29,0:23:37.79,Default,,0,0,0,karaoke,{\k32}Ho{\k16}n{\k26}tou {\k69}wa {\k27}na{\k25}ni {\k48}mo {\k23}ka {\k84}mo
-Dialogue: 0,0:23:34.29,0:23:37.79,Lyrics traduzione,,0,0,0,karaoke,Ti rendi davvero conto di tutto,
-Comment: 0,0:23:38.07,0:23:41.13,Default,,0,0,0,karaoke,{\k57}shi{\k24}tte{\k48}ru {\k14}ku{\k35}se {\k128}ni
-Dialogue: 0,0:23:38.07,0:23:41.13,Lyrics traduzione,,0,0,0,karaoke,ma nonostante ciò
-Comment: 0,0:23:41.28,0:23:45.70,Default,,0,0,0,karaoke,{\k21}Wa{\k12}ta{\k40}shi {\k45}no {\k27}ko{\k95}to {\k19}i{\k29}ji{\k23}me{\k23}te{\k108}ru
-Dialogue: 0,0:23:41.28,0:23:45.70,Lyrics traduzione,,0,0,0,karaoke,continui a provocarmi.
-Comment: 0,0:23:46.05,0:23:50.40,Default,,0,0,0,karaoke,{\k24}A{\k26}i {\k24}no {\k32}ba{\k66}tsu {\k44}u{\k47}ke{\k30}ta{\k19}i {\k24}no? {\k99}Kiss
-Dialogue: 0,0:23:46.05,0:23:50.40,Lyrics traduzione,,0,0,0,karaoke,Sarò punita per il mio amore? *Bacio*.
-Dialogue: 0,0:23:55.15,0:23:59.94,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
-Dialogue: 0,0:23:56.14,0:23:59.38,Tamao Suzumi,,0,0,0,,Un corpo freddo ha bisogno di una doccia calda,
-Dialogue: 0,0:23:59.37,0:24:02.78,Tamao Suzumi,,0,0,0,,una bevanda calda e un letto caldo.
-Dialogue: 0,0:24:02.78,0:24:05.49,Tamao Suzumi,,0,0,0,,Nagisa-chan, c'è qualcosa che vorresti bere?
-Dialogue: 0,0:24:05.49,0:24:06.48,Nagisa Aoi,,0,0,0,,Ehi, Tamao-chan.
-Dialogue: 0,0:24:06.48,0:24:09.13,Tamao Suzumi,,0,0,0,,Allora stasera berremo la cioccolata calda,
-Dialogue: 0,0:24:09.13,0:24:10.87,Tamao Suzumi,,0,0,0,,così poi dormirai bene.
-Dialogue: 0,0:24:10.87,0:24:12.39,Nagisa Aoi,,0,0,0,,Ehi, Tamao-chan.
-Dialogue: 0,0:24:11.80,0:24:14.68,Tamao Suzumi,,0,0,0,,E poi aggiungerò delle coperte al tuo letto,
-Dialogue: 0,0:24:14.68,0:24:17.12,Tamao Suzumi,,0,0,0,,così non prenderai un raffreddore.
-Dialogue: 0,0:24:17.51,0:24:19.42,Nagisa Aoi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
-Dialogue: 0,0:24:17.51,0:24:19.42,Tamao Suzumi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
-Dialogue: 0,0:24:19.42,0:24:20.66,Nagisa Aoi,,0,0,0,,Astensione
-Dialogue: 0,0:24:19.42,0:24:20.66,Tamao Suzumi,,0,0,0,,Astensione
-Dialogue: 0,0:24:20.66,0:24:23.52,Tamao Suzumi,,0,0,0,,Spero che tu faccia un buon riposo, Nagisa-chan.
-Dialogue: 0,0:24:23.52,0:24:25.52,Tamao Suzumi,,0,0,0,,
+Dialogue: 0,0:01:40.84,0:01:42.28,Nagisa Aoi,,0,0,0,,Tamao-chan.
+Dialogue: 0,0:01:42.76,0:01:44.14,Nagisa Aoi,,0,0,0,,Rokujou-san!
+Dialogue: 0,0:01:44.62,0:01:45.60,Miyuki Rokujou,,0,0,0,,Va tutto bene.
+Dialogue: 0,0:01:52.72,0:01:53.98,Miyuki Rokujou,,0,0,0,,Mi dispiace.
+Dialogue: 0,0:01:54.60,0:01:56.91,Miyuki Rokujou,,0,0,0,,Alla fine ti abbiamo soltanto ferita.
+Dialogue: 0,0:02:02.09,0:02:04.54,Nagisa Aoi,,0,0,0,,Quanto sapeva lei di quella storia?
+Dialogue: 0,0:02:06.38,0:02:07.60,Miyuki Rokujou,,0,0,0,,Adesso
+Dialogue: 0,0:02:07.60,0:02:08.83,Miyuki Rokujou,,0,0,0,,ti racconterò tutto.
+Dialogue: 0,0:02:10.03,0:02:13.08,Miyuki Rokujou,,0,0,0,,Tutto ciò che so.
+Dialogue: 0,0:02:26.42,0:02:28.11,Miyuki Rokujou,,0,0,0,,Sarà una storia lunga.
+Dialogue: 0,0:02:32.49,0:02:33.98,Miyuki Rokujou,,0,0,0,,Io e Shizuma
+Dialogue: 0,0:02:34.32,0:02:38.44,Miyuki Rokujou,,0,0,0,,siamo state compagne di stanza fin dal primo anno.
+Dialogue: 0,0:02:40.14,0:02:41.40,Miyuki Rokujou,,0,0,0,,Tre anni fa,
+Dialogue: 0,0:02:41.72,0:02:43.95,Miyuki Rokujou,,0,0,0,,quando frequentavamo il terzo anno,
+Dialogue: 0,0:02:45.62,0:02:48.35,Miyuki Rokujou,,0,0,0,,ho accettato una richiesta dal consiglio studentesco.
+Dialogue: 0,0:02:49.20,0:02:52.95,Miyuki Rokujou,,0,0,0,,Riguardava una nuova studentessa.
+Dialogue: 0,0:02:56.64,0:02:59.18,Miyuki Rokujou,,0,0,0,,Mi domando cosa avessi per la testa in quel momento.
+Dialogue: 0,0:03:00.86,0:03:02.00,Miyuki Rokujou,,0,0,0,,Per l'ennesima volta,
+Dialogue: 0,0:03:02.62,0:03:06.67,Miyuki Rokujou,,0,0,0,,stavo cercando di trascinare un'altra persona in questa storia?
+Dialogue: 0,0:03:08.16,0:03:10.80,Miyuki Rokujou,,0,0,0,,Nessuno era davvero felice,
+Dialogue: 0,0:03:11.17,0:03:12.62,Miyuki Rokujou,,0,0,0,,in quella storia.
+Dialogue: 0,0:03:13.05,0:03:18.06,Titolo episodio,,0,0,0,,Astensione
+Dialogue: 0,0:03:19.60,0:03:23.07,Traduzioni bordate,,0,0,0,,{\pos(480,580)\fad(450,0)}Tre anni fa, primavera
+Dialogue: 0,0:03:23.53,0:03:24.68,Miyuki Rokujou,,0,0,0,,Guarda,
+Dialogue: 0,0:03:24.68,0:03:26.57,Miyuki Rokujou,,0,0,0,,puoi vedere la chiesa da qui.
+Dialogue: 0,0:03:33.92,0:03:35.57,Miyuki Rokujou,,0,0,0,,Sakuragi Kaori-san.
+Dialogue: 0,0:03:37.15,0:03:40.00,Miyuki Rokujou,,0,0,0,,So che a vivere in un dormitorio sconosciuto
+Dialogue: 0,0:03:40.00,0:03:42.36,Miyuki Rokujou,,0,0,0,,all'inizio ci si può sentire soli,
+Dialogue: 0,0:03:43.30,0:03:44.24,Miyuki Rokujou,,0,0,0,,però,
+Dialogue: 0,0:03:44.24,0:03:47.20,Miyuki Rokujou,,0,0,0,,se mai avrai bisogno di qualcosa, qualsiasi cosa,
+Dialogue: 0,0:03:47.20,0:03:48.84,Miyuki Rokujou,,0,0,0,,chiedi pure a me.
+Dialogue: 0,0:03:50.48,0:03:51.39,Kaori Sakuragi,,0,0,0,,Sì.
+Dialogue: 0,0:03:52.40,0:03:53.60,Shizuma Hanazono,,0,0,0,,Un'aiutante di stanza?
+Dialogue: 0,0:03:53.60,0:03:55.48,Shizuma Hanazono,,0,0,0,,Ce ne hanno già assegnata una?
+Dialogue: 0,0:03:56.67,0:03:57.68,Miyuki Rokujou,,0,0,0,,Già.
+Dialogue: 0,0:03:58.80,0:04:00.43,Miyuki Rokujou,,0,0,0,,Sakuragi Kaori-san.
+Dialogue: 0,0:04:01.36,0:04:03.32,Miyuki Rokujou,,0,0,0,,È una studentessa del primo anno.
+Dialogue: 0,0:04:03.84,0:04:05.49,Shizuma Hanazono,,0,0,0,,Chi l'ha deciso?
+Dialogue: 0,0:04:05.49,0:04:06.76,Shizuma Hanazono,,0,0,0,,E l'estrazione?
+Dialogue: 0,0:04:08.73,0:04:10.50,Miyuki Rokujou,,0,0,0,,L'ha deciso il consiglio studentesco.
+Dialogue: 0,0:04:10.93,0:04:14.02,Miyuki Rokujou,,0,0,0,,Kaori-san è cagionevole di salute sin da quando era una bambina.
+Dialogue: 0,0:04:14.02,0:04:18.20,Miyuki Rokujou,,0,0,0,,Dato che le normali faccende di un'aiutante di stanza sono troppo gravose per lei, è stata assegnata a noi.
+Dialogue: 0,0:04:19.96,0:04:24.87,Shizuma Hanazono,,0,0,0,,E io che non vedevo l'ora di arrivare al terzo anno per avere un'aiutante di stanza
+Dialogue: 0,0:04:25.80,0:04:28.96,Shizuma Hanazono,,0,0,0,,e sovraccaricarla di lavoro.
+Dialogue: 0,0:04:30.15,0:04:31.43,Miyuki Rokujou,,0,0,0,,Shizuma,
+Dialogue: 0,0:04:32.04,0:04:34.64,Miyuki Rokujou,,0,0,0,,non potresti essere un po' comprensiva?
+Dialogue: 0,0:04:35.34,0:04:38.23,Miyuki Rokujou,,0,0,0,,Ci è stato chiesto perché si fidano di noi.
+Dialogue: 0,0:04:39.20,0:04:43.02,Miyuki Rokujou,,0,0,0,,Dato che Kaori-san è sempre stata debole,
+Dialogue: 0,0:04:43.02,0:04:47.33,Miyuki Rokujou,,0,0,0,,non ha potuto frequentare la scuola elementare e ha dovuto stare a casa.
+Dialogue: 0,0:04:48.18,0:04:52.84,Miyuki Rokujou,,0,0,0,,Per fare in modo che la sua vita scolastica fosse piacevole
+Dialogue: 0,0:04:53.42,0:04:57.33,Miyuki Rokujou,,0,0,0,,hanno scelto noi, in quanto studentesse più grandi.
+Dialogue: 0,0:04:58.98,0:04:59.98,Shizuma Hanazono,,0,0,0,,Miyuki,
+Dialogue: 0,0:05:01.45,0:05:04.67,Shizuma Hanazono,,0,0,0,,come mai sembri così accondiscendente?
+Dialogue: 0,0:05:05.74,0:05:09.03,Shizuma Hanazono,,0,0,0,,Desideri così tanto entrare nel consiglio studentesco?
+Dialogue: 0,0:05:09.89,0:05:14.68,Miyuki Rokujou,,0,0,0,,Una meravigliosa Étoile ha bisogno di un forte supporto dal consiglio studentesco.
+Dialogue: 0,0:05:15.05,0:05:16.19,Miyuki Rokujou,,0,0,0,,Dovresti saperlo.
+Dialogue: 0,0:05:16.83,0:05:18.10,Shizuma Hanazono,,0,0,0,,Come?
+Dialogue: 0,0:05:18.28,0:05:21.30,Shizuma Hanazono,,0,0,0,,Pensi che io possa diventare Étoile?
+Dialogue: 0,0:05:21.91,0:05:23.06,Miyuki Rokujou,,0,0,0,,Certamente.
+Dialogue: 0,0:05:24.71,0:05:25.69,Shizuma Hanazono,,0,0,0,,In quel caso...
+Dialogue: 0,0:05:26.28,0:05:28.10,Miyuki Rokujou,,0,0,0,,Sh-Shizuma?
+Dialogue: 0,0:05:29.32,0:05:31.85,Shizuma Hanazono,,0,0,0,,Quando sarai sola e triste,
+Dialogue: 0,0:05:32.42,0:05:36.40,Shizuma Hanazono,,0,0,0,,dovrò venire a prenderti nell'aula del consiglio studentesco?
+Dialogue: 0,0:05:56.72,0:05:57.59,Miyuki Rokujou,,0,0,0,,Scema.
+Dialogue: 0,0:06:00.52,0:06:02.06,Shizuma Hanazono,,0,0,0,,Ehi, Miyuki.
+Dialogue: 0,0:06:03.35,0:06:06.00,Shizuma Hanazono,,0,0,0,,Non pensi che dovresti andare da sola?
+Dialogue: 0,0:06:06.00,0:06:07.16,Miyuki Rokujou,,0,0,0,,No.
+Dialogue: 0,0:06:07.16,0:06:09.29,Miyuki Rokujou,,0,0,0,,È stata assegnata ad entrambe.
+Dialogue: 0,0:06:10.20,0:06:11.26,Miyuki Rokujou,,0,0,0,,E poi,
+Dialogue: 0,0:06:11.69,0:06:14.28,Miyuki Rokujou,,0,0,0,,è una bellissima ragazza che credo ti piacerà.
+Dialogue: 0,0:06:16.18,0:06:18.76,Shizuma Hanazono,,0,0,0,,Se non altro, adesso sono curiosa.
+Dialogue: 0,0:06:23.51,0:06:24.37,Kaori Sakuragi,,0,0,0,,Avanti.
+Dialogue: 0,0:06:55.24,0:06:56.71,Shizuma Hanazono,,0,0,0,,Hanazono Shizuma.
+Dialogue: 0,0:06:57.88,0:06:59.45,Kaori Sakuragi,,0,0,0,,Sakuragi Kaori.
+Dialogue: 0,0:07:03.22,0:07:04.27,Miyuki Rokujou,,0,0,0,,Shizuma?
+Dialogue: 0,0:07:05.48,0:07:07.16,Miyuki Rokujou,,0,0,0,,È proprio come ha detto Miyuki.
+Dialogue: 0,0:07:09.84,0:07:11.04,Shizuma Hanazono,,0,0,0,,Tu...
+Dialogue: 0,0:07:11.47,0:07:13.26,Shizuma Hanazono,,0,0,0,,sei davvero bellissima.
+Dialogue: 0,0:07:16.43,0:07:18.13,Kaori Sakuragi,,0,0,0,,Grazie davvero,
+Dialogue: 0,0:07:18.13,0:07:19.45,Kaori Sakuragi,,0,0,0,,Hanazono-sama.
+Dialogue: 0,0:07:20.13,0:07:21.30,Shizuma Hanazono,,0,0,0,,Shizuma.
+Dialogue: 0,0:07:22.33,0:07:24.97,Shizuma Hanazono,,0,0,0,,Chiamami soltanto Shizuma.
+Dialogue: 0,0:07:24.97,0:07:26.97,Shizuma Hanazono,,0,0,0,,
