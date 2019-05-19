@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 218
-Active Line: 220
-Video Position: 16829
+Video Zoom Percent: 0.625000
+Scroll Position: 200
+Active Line: 210
+Video Position: 14606
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,7 +299,7 @@ Dialogue: 0,0:10:00.44,0:10:03.05,Nagisa Aoi,,0,0,0,,E poi non abbiamo il permes
 Comment: 0,0:10:00.44,0:10:03.05,Nagisa Aoi,,0,0,0,,Sidenote: Che strano modo di dirlo. "L'autorizzazione è nella zona grigia".
 Dialogue: 0,0:10:03.92,0:10:05.79,Shizuma Hanazono,,0,0,0,,Contatterò Miyuki.
 Dialogue: 0,0:10:09.17,0:10:10.98,Nagisa Aoi,,0,0,0,,Shizuma-sama e...
-Dialogue: 0,0:10:10.98,0:10:12.82,Nagisa Aoi,,0,0,0,,me, da sole.
+Dialogue: 0,0:10:10.98,0:10:12.82,Nagisa Aoi,,0,0,0,,io, da sole.
 Dialogue: 0,0:10:31.73,0:10:33.24,Miyuki Rokujou,,0,0,0,,Grazie infinite.
 Dialogue: 0,0:10:44.52,0:10:46.20,Miyuki Rokujou,,0,0,0,,A quanto pare non torneranno oggi.
 Dialogue: 0,0:10:46.60,0:10:48.10,Tamao Suzumi,,0,0,0,,Oh, no.
