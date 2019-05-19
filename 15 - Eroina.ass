@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 153
-Active Line: 204
-Video Position: 8903
+Scroll Position: 411
+Active Line: 415
+Video Position: 26634
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,6 +103,7 @@ Style: Shizuma - secondo piano,PT Serif,52,&H00F1F2F7,&H000000FF,&H003B3B3B,&H80
 Style: Sorella,PT Serif,52,&H00DC5576,&H000000FF,&H002F2A28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Sorellina A,PT Serif,52,&H00CEA398,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Sorellina B,PT Serif,52,&H00B395CF,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Sorellina C,PT Serif,52,&H00959553,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Titolo episodio,Bookman Old Style,52,&H00010058,&H000000FF,&H00000000,&H008692B7,-1,0,0,0,100,100,0,0,1,0,3,2,10,10,250,1
 Style: Traduzioni bordate,Bookman Old Style,30,&H00F5F7FB,&H000000FF,&H00100E0A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 Style: Nagisa Aoi,PT Serif,52,&H00A5A0E8,&H000000FF,&H0025252C,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
@@ -378,16 +379,17 @@ Dialogue: 0,0:08:09.96,0:08:13.44,Nagisa Aoi,,0,0,0,,Anche io mi domando se Carm
 Dialogue: 0,0:08:13.44,0:08:15.71,Nagisa Aoi,,0,0,0,,Étoile-sama come Carmen...
 Dialogue: 0,0:08:15.71,0:08:17.31,Nagisa Aoi,,0,0,0,,Mi piacerebbe vederla.
 Dialogue: 0,0:08:23.64,0:08:25.71,Gente random,,0,0,0,,Ehi, hai sentito?
-Dialogue: 0,0:08:25.71,0:08:28.94,Gente random,,0,0,0,,La recita del dormitorio Ichigo di quest'anno sarà "Carmen".
-Dialogue: 0,0:08:28.94,0:08:31.76,Gente random,,0,0,0,,Chissà se Étoile-sama sarà Carmen.
+Dialogue: 0,0:08:25.71,0:08:28.94,Sorellina A,,0,0,0,,La recita del dormitorio Ichigo di quest'anno sarà "Carmen".
+Dialogue: 0,0:08:28.94,0:08:31.76,Sorellina B,,0,0,0,,Chissà se Étoile-sama sarà Carmen.
 Dialogue: 0,0:08:31.76,0:08:34.45,Gente random,,0,0,0,,L'anno scorso era Madama Butterfly.
 Dialogue: 0,0:08:34.45,0:08:36.41,Gente random,,0,0,0,,Avrà il ruolo di protagonista per due anni di fila?
-Dialogue: 0,0:08:36.41,0:08:38.12,Gente random,,0,0,0,,Ma di cosa parla "Carmen"?
-Dialogue: 0,0:08:39.73,0:08:42.04,Gente random,,0,0,0,,Oh, secondo voi chi ricoprirà il ruolo di Don José?
-Dialogue: 0,0:08:42.04,0:08:44.08,Gente random,,0,0,0,,Non dovrebbe essere Amane-sama di Spica?
-Dialogue: 0,0:08:44.08,0:08:47.51,Gente random,,0,0,0,,Anche Chikaru-sama di Lulim è gettonata, però.
+Dialogue: 0,0:08:36.41,0:08:38.12,Sorellina A,,0,0,0,,Ma di cosa parla "Carmen"?
+Dialogue: 0,0:08:39.69,0:08:42.04,Gente random,,0,0,0,,Oh, secondo voi chi ricoprirà il ruolo di Don José?
+Dialogue: 0,0:08:42.04,0:08:44.08,Sorellina A,,0,0,0,,Non dovrebbe essere Amane-sama di Spica?
+Dialogue: 0,0:08:44.08,0:08:47.28,Sorellina B,,0,0,0,,Anche Chikaru-sama di Lulim è gettonata, però.
+Comment: 0,0:08:47.51,0:08:47.69,Gente random,,0,0,0,,Sidenote: Servono più genti random
 Dialogue: 0,0:08:47.69,0:08:52.05,Gente random,,0,0,0,,Però a me piacerebbe un sacco vedere Étoile-sama ed Amane-sama recitare insieme.
-Dialogue: 0,0:08:52.38,0:08:54.08,Gente random,,0,0,0,,Anche a me
+Dialogue: 0,0:08:52.38,0:08:54.08,Sorellina A,,0,0,0,,Anche a me.
 Dialogue: 0,0:08:55.56,0:08:57.93,Shion Toumori,,0,0,0,,Sarà molto facile.
 Dialogue: 0,0:08:57.93,0:09:00.27,Shion Toumori,,0,0,0,,Con tutta la popolarità che ha,
 Dialogue: 0,0:09:00.76,0:09:03.35,Shion Toumori,,0,0,0,,la presidentessa Rokujou non potrà ignorarla.
@@ -543,9 +545,9 @@ Dialogue: 0,0:18:10.34,0:18:14.64,Kizuna Hyuuga,,0,0,0,,Dopotutto, Chikaru-onees
 Dialogue: 0,0:18:14.64,0:18:18.04,Remon Natsume,,0,0,0,,Sono sicura che sarà una Carmen coi fiocchi.
 Dialogue: 0,0:18:18.25,0:18:21.17,Yaya Nanto,,0,0,0,,Perché continuate a tornare su questo argomento?
 Dialogue: 0,0:18:22.57,0:18:23.83,Yaya Nanto,,0,0,0,,Ehi, ascoltate.
-Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(573.107,210.369,555.933,248.807,14,5228)}11
-Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(390.249,293.798,398.219,331.093,97,5228)}16
-Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(187.964,150.94,217.647,200.807,97,5228)}6
+Comment: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(573.107,210.369,555.933,248.807,14,5228)}11
+Comment: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(390.249,293.798,398.219,331.093,97,5228)}16
+Comment: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\move(187.964,150.94,217.647,200.807,97,5228)}6
 Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\frz274.2\move(446.25,200.084,446.218,255.664,14,5108)}Romeo e Giulietta
 Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\frz273.6\move(610.82,150.941,587.933,205.378,14,5108)}Piccole donne
 Dialogue: 0,0:18:23.98,0:18:29.26,Scartoffie,,0,0,0,,{\frz273.6\move(226.821,138.37,255.362,199.664,14,5149)}Cime tempestose
@@ -598,7 +600,7 @@ Dialogue: 0,0:20:07.07,0:20:09.70,Kenjou Kaname,,0,0,0,,Già, il palco è imprev
 Dialogue: 0,0:20:10.75,0:20:13.08,Kenjou Kaname,,0,0,0,,Nessuno può sapere ciò che succederà.
 Dialogue: 0,0:20:37.91,0:20:39.49,Hikari Konohana,,0,0,0,,Amane-senpai.
 Dialogue: 0,0:20:40.15,0:20:41.28,Amane Ootori,,0,0,0,,Hikari.
-Dialogue: 0,0:20:43.77,0:20:46.77,Scartoffie leggere,,0,0,0,,{\frz143.3\org(500.572,327.999)\pos(499.429,326.857)\frx16\fry348}Carmen
+Dialogue: 0,0:20:43.77,0:20:46.77,Scartoffie,,0,0,0,,{\frz143.3\org(500.572,327.999)\pos(499.429,326.857)\frx16\fry348}Carmen
 Dialogue: 0,0:20:44.85,0:20:46.31,Amane Ootori,,0,0,0,,Sono spaventata.
 Dialogue: 0,0:20:47.40,0:20:49.14,Amane Ootori,,0,0,0,,Non credo di potercela fare.
 Dialogue: 0,0:20:49.14,0:20:51.32,Hikari Konohana,,0,0,0,,Per favore, lasci che la aiuti.

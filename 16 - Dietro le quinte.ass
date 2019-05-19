@@ -11,13 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 397
-Active Line: 403
+Scroll Position: 391
+Active Line: 402
 Video Position: 31205
 
 [V4+ Styles]
@@ -488,8 +488,8 @@ Dialogue: 0,0:21:22.34,0:21:26.89,Lyrics traduzione canti,,0,0,0,,Nella nebbia
 Dialogue: 0,0:21:26.90,0:21:31.19,Lyrics traduzione canti,,0,0,0,,di una
 Dialogue: 0,0:21:31.19,0:21:35.15,Lyrics traduzione canti,,0,0,0,,foresta;
 Dialogue: 0,0:21:35.15,0:21:37.70,Lyrics traduzione canti,,0,0,0,,La stella
-Dialogue: 0,0:21:37.71,0:21:41.09,Lyrics traduzione canti,,0,0,0,,della fanciulla...
-Dialogue: 0,0:21:41.09,0:21:41.52,Lyrics traduzione canti,,0,0,0,,
+Dialogue: 0,0:21:37.71,0:21:41.09,Lyrics traduzione canti,,0,0,0,,della fanciulla
+Dialogue: 0,0:21:41.52,0:21:46.71,Lyrics traduzione canti,,0,0,0,,ci regala il suo splendore.
 Comment: 0,0:21:41.52,0:21:41.52,Lyrics traduzione canti,,0,0,0,,Sidenote: La canzone è da finire
 Dialogue: 0,0:21:45.86,0:21:47.20,Shizuma Hanazono,,0,0,0,,Sei stata bravissima,
 Dialogue: 0,0:21:47.20,0:21:47.99,Shizuma Hanazono,,0,0,0,,Nagisa.
