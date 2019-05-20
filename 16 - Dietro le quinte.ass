@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 389
-Active Line: 394
-Video Position: 31766
+Scroll Position: 392
+Active Line: 399
+Video Position: 30342
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -486,7 +486,7 @@ Dialogue: 0,0:22:06.55,0:22:13.20,Canti,,0,0,0,karaoke,{\k63}-se{\k56}te {\k52}i
 Dialogue: 0,0:22:13.84,0:22:22.72,Canti centrati,,0,0,0,karaoke,{\k344}A{\k401}me{\k143}n
 Dialogue: 0,0:20:56.61,0:21:01.33,Lyrics traduzione canti,,0,0,0,,Al di sopra
 Dialogue: 0,0:21:01.35,0:21:05.52,Lyrics traduzione canti,,0,0,0,,della fredda
-Dialogue: 0,0:21:05.52,0:21:09.17,Lyrics traduzione canti,,0,0,0,,mattina;
+Dialogue: 0,0:21:05.52,0:21:09.17,Lyrics traduzione canti,,0,0,0,,oscurità;
 Dialogue: 0,0:21:09.38,0:21:15.71,Lyrics traduzione canti,,0,0,0,,Sopra all'oceano
 Dialogue: 0,0:21:15.91,0:21:18.23,Lyrics traduzione canti,,0,0,0,,alla fine del
 Dialogue: 0,0:21:18.42,0:21:22.33,Lyrics traduzione canti,,0,0,0,,giorno;
