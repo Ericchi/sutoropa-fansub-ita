@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 391
-Active Line: 402
-Video Position: 31205
+Scroll Position: 382
+Active Line: 394
+Video Position: 31670
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -477,7 +477,10 @@ Dialogue: 0,0:21:26.89,0:21:31.19,Canti,,0,0,0,karaoke,{\k58}-ki {\k57}chi {\k61
 Dialogue: 0,0:21:31.19,0:21:35.15,Canti,,0,0,0,karaoke,{\k59}-u{\k165}chi {\k172}ni
 Dialogue: 0,0:21:35.16,0:21:37.70,Canti,,0,0,0,karaoke,{\k39}O{\k56}to{\k54}me {\k105}no
 Dialogue: 0,0:21:37.71,0:21:41.09,Canti,,0,0,0,karaoke,{\k41}ho{\k174}shi {\k121}ga
-Dialogue: 0,0:21:41.52,0:21:46.71,Canti,,0,0,0,karaoke,{\k54}ka{\k49}ga{\k49}ya{\k53}ki {\k54}ta{\k53}mo{\k207}u
+Dialogue: 0,0:21:41.52,0:21:46.71,Canti,,0,0,0,karaoke,{\k54}ka{\k49}ga{\k49}ya{\k53}ki {\k54}ka{\k53}no{\k207}u
+Dialogue: 0,0:21:47.42,0:21:52.51,Canti,,0,0,0,,{\k53}Ki{\k62}yo{\k40}u{\k52}ki {\k94}mi{\k61}sa{\k147}o
+Dialogue: 0,0:21:52.61,0:21:55.94,Canti,,0,0,0,,{\k107}no{\k56}mi {\k112}ha{\k59}ha
+Dialogue: 0,0:21:55.54,0:22:00.44,Canti,,0,0,0,,{\k101}no {\k44}ho{\k172}shi {\k170}ni
 Dialogue: 0,0:20:56.61,0:21:01.33,Lyrics traduzione canti,,0,0,0,,Al di sopra
 Dialogue: 0,0:21:01.35,0:21:05.52,Lyrics traduzione canti,,0,0,0,,della fredda
 Dialogue: 0,0:21:05.52,0:21:09.17,Lyrics traduzione canti,,0,0,0,,mattina;
