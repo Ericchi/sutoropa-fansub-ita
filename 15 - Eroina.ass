@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 411
+Scroll Position: 406
 Active Line: 415
-Video Position: 26634
+Video Position: 26469
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -415,7 +415,7 @@ Dialogue: 0,0:10:02.32,0:10:04.48,Shion Toumori,,0,0,0,,Tu puoi fare qualsiasi c
 Dialogue: 0,0:10:04.48,0:10:06.16,Amane Ootori,,0,0,0,,M-ma...
 Dialogue: 0,0:10:06.16,0:10:08.07,Shion Toumori,,0,0,0,,Anche Hikari-chan vorrebbe vederti.
 Dialogue: 0,0:10:08.64,0:10:10.28,Hikari Konohana,,0,0,0,,Ecco...
-Dialogue: 0,0:10:10.28,0:10:11.31,Shion Toumori,,0,0,0,,Sì?
+Dialogue: 0,0:10:10.28,0:10:11.31,Shion Toumori,,0,0,0,,Vero?
 Dialogue: 0,0:10:14.68,0:10:15.53,Hikari Konohana,,0,0,0,,Sì.
 Dialogue: 0,0:10:28.17,0:10:29.54,Nagisa Aoi,,0,0,0,,Ehm...
 Dialogue: 0,0:10:56.10,0:11:00.07,Scartoffie leggere,,0,0,0,,{\frz346.2\pos(410.57,317.333)}Fai del tuo meglio\Ncon il copione,\Nma non strafare.
