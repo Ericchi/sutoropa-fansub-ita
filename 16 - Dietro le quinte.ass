@@ -15,10 +15,10 @@ Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 382
+Video Zoom Percent: 0.875000
+Scroll Position: 389
 Active Line: 394
-Video Position: 31670
+Video Position: 31766
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -478,9 +478,12 @@ Dialogue: 0,0:21:31.19,0:21:35.15,Canti,,0,0,0,karaoke,{\k59}-u{\k165}chi {\k172
 Dialogue: 0,0:21:35.16,0:21:37.70,Canti,,0,0,0,karaoke,{\k39}O{\k56}to{\k54}me {\k105}no
 Dialogue: 0,0:21:37.71,0:21:41.09,Canti,,0,0,0,karaoke,{\k41}ho{\k174}shi {\k121}ga
 Dialogue: 0,0:21:41.52,0:21:46.71,Canti,,0,0,0,karaoke,{\k54}ka{\k49}ga{\k49}ya{\k53}ki {\k54}ka{\k53}no{\k207}u
-Dialogue: 0,0:21:47.42,0:21:52.51,Canti,,0,0,0,,{\k53}Ki{\k62}yo{\k40}u{\k52}ki {\k94}mi{\k61}sa{\k147}o
-Dialogue: 0,0:21:52.61,0:21:55.94,Canti,,0,0,0,,{\k107}no{\k56}mi {\k112}ha{\k59}ha
-Dialogue: 0,0:21:55.54,0:22:00.44,Canti,,0,0,0,,{\k101}no {\k44}ho{\k172}shi {\k170}ni
+Dialogue: 0,0:21:47.40,0:21:52.60,Canti,,0,0,0,karaoke,{\k53}Ki{\k62}yo{\k40}u{\k52}ki {\k94}mi{\k61}sa{\k147}o
+Dialogue: 0,0:21:52.60,0:21:55.94,Canti,,0,0,0,karaoke,{\k107}no{\k56}mi {\k112}ha{\k59}ha
+Dialogue: 0,0:21:55.95,0:22:00.82,Canti,,0,0,0,karaoke,{\k101}no {\k44}ho{\k172}shi {\k170}ni
+Dialogue: 0,0:22:00.84,0:22:06.55,Canti,,0,0,0,karaoke,{\k149}Ko{\k94}e {\k58}wo {\k173}a{\k126}wa-
+Dialogue: 0,0:22:06.55,0:22:13.20,Canti,,0,0,0,karaoke,{\k63}-se{\k56}te {\k52}i{\k54}no{\k98}ri {\k51}tsu{\k133}ka{\k56}e{\k102}n
+Dialogue: 0,0:22:13.84,0:22:22.72,Canti centrati,,0,0,0,karaoke,{\k344}A{\k401}me{\k143}n
 Dialogue: 0,0:20:56.61,0:21:01.33,Lyrics traduzione canti,,0,0,0,,Al di sopra
 Dialogue: 0,0:21:01.35,0:21:05.52,Lyrics traduzione canti,,0,0,0,,della fredda
 Dialogue: 0,0:21:05.52,0:21:09.17,Lyrics traduzione canti,,0,0,0,,mattina;
@@ -493,13 +496,18 @@ Dialogue: 0,0:21:31.19,0:21:35.15,Lyrics traduzione canti,,0,0,0,,foresta;
 Dialogue: 0,0:21:35.15,0:21:37.70,Lyrics traduzione canti,,0,0,0,,La stella
 Dialogue: 0,0:21:37.71,0:21:41.09,Lyrics traduzione canti,,0,0,0,,della fanciulla
 Dialogue: 0,0:21:41.52,0:21:46.71,Lyrics traduzione canti,,0,0,0,,ci regala il suo splendore.
+Dialogue: 0,0:21:47.40,0:21:52.60,Lyrics traduzione canti,,0,0,0,,Alla stella
+Dialogue: 0,0:21:52.60,0:21:55.94,Lyrics traduzione canti,,0,0,0,,della nostra
+Dialogue: 0,0:21:55.95,0:22:00.82,Lyrics traduzione canti,,0,0,0,,vergine madre.
+Dialogue: 0,0:22:00.84,0:22:06.55,Lyrics traduzione canti,,0,0,0,,A voci riunite
+Dialogue: 0,0:22:06.55,0:22:13.20,Lyrics traduzione canti,,0,0,0,,noi ti preghiamo.
 Comment: 0,0:21:41.52,0:21:41.52,Lyrics traduzione canti,,0,0,0,,Sidenote: La canzone è da finire
 Dialogue: 0,0:21:45.86,0:21:47.20,Shizuma Hanazono,,0,0,0,,Sei stata bravissima,
 Dialogue: 0,0:21:47.20,0:21:47.99,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:21:48.75,0:21:52.36,Nagisa Aoi,,0,0,0,,Stare sul palco insieme a lei,
 Dialogue: 0,0:21:52.36,0:21:54.49,Nagisa Aoi,,0,0,0,,mi ha resa davvero felice.
 Dialogue: 0,0:21:57.11,0:21:58.05,Shizuma Hanazono,,0,0,0,,Nagisa.
-Dialogue: 0,0:22:10.11,0:22:11.70,Nagisa Aoi,,0,0,0,,Étoile-sama.
+Dialogue: 0,0:22:10.11,0:22:11.80,Nagisa Aoi,,0,0,0,,Étoile-sama.
 Comment: 0,0:22:33.13,0:22:36.55,Default,,0,0,0,karaoke,{\k31}So{\k23}ba {\k25}ni {\k37}ta{\k51}tta {\k45}wa{\k22}ta{\k34}shi {\k74}ni
 Dialogue: 0,0:22:33.13,0:22:36.55,Lyrics traduzione,,0,0,0,karaoke,Eri così vicina a me
 Comment: 0,0:22:36.99,0:22:39.67,Default,,0,0,0,karaoke,{\k25}Ki{\k29}zu {\k20}ka{\k42}na{\k31}i {\k24}ho{\k97}do
