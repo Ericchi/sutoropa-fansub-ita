@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 376
-Active Line: 382
-Video Position: 33087
+Scroll Position: 426
+Active Line: 433
+Video Position: 38276
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -508,5 +508,18 @@ Comment: 0,0:23:41.31,0:23:45.73,Default,,0,0,0,karaoke,{\k21}Wa{\k12}ta{\k40}sh
 Dialogue: 0,0:23:41.31,0:23:45.73,Lyrics traduzione,,0,0,0,karaoke,continui a provocarmi.
 Comment: 0,0:23:46.08,0:23:50.43,Default,,0,0,0,karaoke,{\k24}A{\k26}i {\k24}no {\k32}ba{\k66}tsu {\k44}u{\k47}ke{\k30}ta{\k19}i {\k24}no? {\k99}Kiss
 Dialogue: 0,0:23:46.08,0:23:50.43,Lyrics traduzione,,0,0,0,karaoke,Sarò punita per il mio amore? *Bacio*.
-Dialogue: 0,0:23:54.97,0:23:59.89,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
-Dialogue: 0,0:22:07.52,0:22:09.52,Miyuki Rokujou,,0,0,0,,
+Dialogue: 0,0:23:55.09,0:23:59.92,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
+Dialogue: 0,0:23:56.01,0:23:58.72,Tamao Suzumi,,0,0,0,,Hai dormito bene la scorsa notte, Nagisa-chan?
+Dialogue: 0,0:23:58.72,0:24:00.28,Nagisa Aoi,,0,0,0,,Sì, grazie.
+Dialogue: 0,0:24:00.28,0:24:03.02,Nagisa Aoi,,0,0,0,,Ehi Tamao-chan, ho un favore da chiederti.
+Dialogue: 0,0:24:03.02,0:24:03.92,Tamao Suzumi,,0,0,0,,Di che si tratta?
+Dialogue: 0,0:24:03.92,0:24:08.40,Nagisa Aoi,,0,0,0,,Fino ad ora ti ho soltanto creato problemi.
+Dialogue: 0,0:24:08.40,0:24:12.73,Nagisa Aoi,,0,0,0,,Ogni volta mi metto nei pasticci e ti chiedo di ascoltare tutto ciò che mi preoccupa.
+Dialogue: 0,0:24:12.73,0:24:16.29,Tamao Suzumi,,0,0,0,,Ma no, a me piace ascoltarti.
+Dialogue: 0,0:24:16.29,0:24:17.63,Nagisa Aoi,,0,0,0,,Ed è per questo che...
+Dialogue: 0,0:24:17.63,0:24:19.54,Nagisa Aoi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:17.63,0:24:19.54,Tamao Suzumi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:19.54,0:24:20.59,Nagisa Aoi,,0,0,0,,Confessione
+Dialogue: 0,0:24:19.54,0:24:20.59,Tamao Suzumi,,0,0,0,,Confessione
+Dialogue: 0,0:24:20.59,0:24:23.82,Nagisa Aoi,,0,0,0,,Adesso vorrei ascoltarti io, Tamao-chan.
+Dialogue: 0,0:24:23.75,0:24:25.75,Nagisa Aoi,,0,0,0,,
