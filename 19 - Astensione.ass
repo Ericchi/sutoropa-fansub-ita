@@ -16,9 +16,9 @@ Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RA
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 240
-Active Line: 247
-Video Position: 17061
+Scroll Position: 317
+Active Line: 325
+Video Position: 23215
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -335,5 +335,82 @@ Dialogue: 0,0:10:15.96,0:10:18.22,Kaori Sakuragi,,0,0,0,,Però, di sicuro,
 Dialogue: 0,0:10:18.22,0:10:20.51,Kaori Sakuragi,,0,0,0,,sono più felice in questo momento.
 Dialogue: 0,0:11:47.07,0:11:48.96,Kaori Sakuragi,,0,0,0,,E poi, Shizuma,
 Dialogue: 0,0:11:48.96,0:11:51.60,Kaori Sakuragi,,0,0,0,,si è fatta prendere dalla sorella.
-Dialogue: 0,0:11:51.60,0:11:53.75,Kaori Sakuragi,,0,0,0,,È ancora nella "guidance room seikatsu"
-Dialogue: 0,0:11:53.75,0:11:55.75,Kaori Sakuragi,,0,0,0,,
+Dialogue: 0,0:11:51.60,0:11:53.75,Kaori Sakuragi,,0,0,0,,È ancora in direzione.
+Dialogue: 0,0:11:56.12,0:11:57.12,Miyuki Rokujou,,0,0,0,,Capisco.
+Dialogue: 0,0:11:58.19,0:12:02.16,Miyuki Rokujou,,0,0,0,,Forse dovrei dirle di contenersi un po'.
+Dialogue: 0,0:12:02.16,0:12:03.38,Miyuki Rokujou,,0,0,0,,Così non va bene.
+Dialogue: 0,0:12:11.40,0:12:13.60,Miyuki Rokujou,,0,0,0,,Kaori-san?
+Dialogue: 0,0:12:14.92,0:12:16.31,Kaori Sakuragi,,0,0,0,,Rokujou-san.
+Dialogue: 0,0:12:16.99,0:12:23.11,Kaori Sakuragi,,0,0,0,,Prima che arrivassi qui, il mio corpo era debole e non riuscivo nemmeno ad uscire di casa.
+Dialogue: 0,0:12:23.82,0:12:27.13,Kaori Sakuragi,,0,0,0,,Prima che arrivassi a Miator, io...
+Dialogue: 0,0:12:27.48,0:12:30.48,Kaori Sakuragi,,0,0,0,,mi sentivo come se non appartenessi a questo mondo.
+Dialogue: 0,0:12:31.88,0:12:34.53,Kaori Sakuragi,,0,0,0,,Mi sentivo priva di vita.
+Dialogue: 0,0:12:35.61,0:12:37.53,Kaori Sakuragi,,0,0,0,,Vivere qui,
+Dialogue: 0,0:12:37.53,0:12:40.50,Kaori Sakuragi,,0,0,0,,mi ha fatta sentire parte del mondo.
+Dialogue: 0,0:12:43.69,0:12:44.91,Kaori Sakuragi,,0,0,0,,Grazie
+Dialogue: 0,0:12:45.34,0:12:49.01,Kaori Sakuragi,,0,0,0,,per aver fatto in modo che conoscessi Shizuma.
+Dialogue: 0,0:12:51.89,0:12:53.13,Miyuki Rokujou,,0,0,0,,Di niente.
+Dialogue: 0,0:12:54.76,0:12:56.64,Miyuki Rokujou,,0,0,0,,Anche io ne sono felice.
+Dialogue: 0,0:13:00.48,0:13:02.96,Traduzioni bordate,,0,0,0,,{\pos(480,580)\fad(450,0)}Un anno dopo, inverno
+Dialogue: 0,0:13:05.45,0:13:06.69,Shizuma Hanazono,,0,0,0,,Che succede?
+Dialogue: 0,0:13:07.44,0:13:09.88,Shizuma Hanazono,,0,0,0,,Oggi non dovresti essere con il consiglio studentesco?
+Dialogue: 0,0:13:11.48,0:13:13.96,Miyuki Rokujou,,0,0,0,,Shizuma, che significa questo?
+Dialogue: 0,0:13:16.98,0:13:18.90,Shizuma Hanazono,,0,0,0,,Mi sembra ovvio.
+Dialogue: 0,0:13:18.90,0:13:20.94,Shizuma Hanazono,,0,0,0,,È una candidatura per l'elezione dell'Étoile.
+Dialogue: 0,0:13:21.48,0:13:23.52,Shizuma Hanazono,,0,0,0,,Esattamente come tu desideravi,
+Dialogue: 0,0:13:23.52,0:13:24.68,Shizuma Hanazono,,0,0,0,,io...
+Dialogue: 0,0:13:24.68,0:13:27.59,Shizuma Hanazono,,0,0,0,,quest'anno parteciperò all'elezione dell'Étoile.
+Dialogue: 0,0:13:27.59,0:13:29.03,Miyuki Rokujou,,0,0,0,,Ma che significa?
+Dialogue: 0,0:13:29.03,0:13:31.11,Miyuki Rokujou,,0,0,0,,Perché Kaori-san è la tua partner?
+Dialogue: 0,0:13:31.83,0:13:34.20,Shizuma Hanazono,,0,0,0,,Non può essere altri che lei.
+Dialogue: 0,0:13:34.20,0:13:36.52,Shizuma Hanazono,,0,0,0,,Dovresti saperlo meglio di chiunque altro.
+Dialogue: 0,0:13:37.60,0:13:39.94,Miyuki Rokujou,,0,0,0,,Il corpo di quella ragazza è debole.
+Dialogue: 0,0:13:40.24,0:13:43.67,Miyuki Rokujou,,0,0,0,,Quest'anno è addirittura peggiorata.
+Dialogue: 0,0:13:43.67,0:13:46.76,Miyuki Rokujou,,0,0,0,,Negli ultimi tempi sta saltando le lezioni.
+Dialogue: 0,0:13:47.88,0:13:50.75,Miyuki Rokujou,,0,0,0,,Hai idea di cosa significhi diventare Étoile?
+Dialogue: 0,0:13:51.42,0:13:53.74,Miyuki Rokujou,,0,0,0,,Significa rappresentare le tre scuole!
+Dialogue: 0,0:13:54.27,0:13:57.93,Miyuki Rokujou,,0,0,0,,Significa essere la studentessa più importante ed è un'enorme responsabilità.
+Dialogue: 0,0:13:58.27,0:14:01.46,Miyuki Rokujou,,0,0,0,,Pensi davvero che Kaori-san riesca a sopportare una cosa del genere?
+Dialogue: 0,0:14:04.90,0:14:06.47,Shizuma Hanazono,,0,0,0,,A sopportare quelle cose...
+Dialogue: 0,0:14:06.47,0:14:07.40,Shizuma Hanazono,,0,0,0,,non ce la farà.
+Dialogue: 0,0:14:08.92,0:14:10.64,Miyuki Rokujou,,0,0,0,,E allora, perché?
+Dialogue: 0,0:14:10.94,0:14:12.21,Miyuki Rokujou,,0,0,0,,Perché?
+Dialogue: 0,0:14:20.52,0:14:21.53,Shizuma Hanazono,,0,0,0,,Kaori,
+Dialogue: 0,0:14:21.53,0:14:22.87,Shizuma Hanazono,,0,0,0,,Hai visite.
+Dialogue: 0,0:14:25.77,0:14:27.75,Miyuki Rokujou,,0,0,0,,Kaori-san.
+Dialogue: 0,0:14:29.21,0:14:31.00,Kaori Sakuragi,,0,0,0,,Rokujou-san.
+Dialogue: 0,0:14:31.00,0:14:32.83,Kaori Sakuragi,,0,0,0,,Da quanto tempo.
+Dialogue: 0,0:14:33.20,0:14:34.90,Miyuki Rokujou,,0,0,0,,Eh già.
+Dialogue: 0,0:14:34.90,0:14:36.40,Miyuki Rokujou,,0,0,0,,Stai bene?
+Dialogue: 0,0:14:37.32,0:14:38.56,Kaori Sakuragi,,0,0,0,,Sì.
+Dialogue: 0,0:14:38.56,0:14:41.54,Kaori Sakuragi,,0,0,0,,Oggi mi sento molto meglio.
+Dialogue: 0,0:14:41.97,0:14:45.80,Kaori Sakuragi,,0,0,0,,Ieri non riuscivo nemmeno ad alzarmi.
+Dialogue: 0,0:14:51.99,0:14:53.77,Miyuki Rokujou,,0,0,0,,Perché non l'hanno portata in ospedale?
+Dialogue: 0,0:14:55.61,0:14:56.98,Shizuma Hanazono,,0,0,0,,Adesso...
+Dialogue: 0,0:14:56.98,0:14:58.03,Shizuma Hanazono,,0,0,0,,è troppo tardi.
+Dialogue: 0,0:14:58.45,0:14:59.63,Miyuki Rokujou,,0,0,0,,Non è possibile!
+Dialogue: 0,0:14:59.63,0:15:00.80,Miyuki Rokujou,,0,0,0,,Quando l'hai saputo?
+Dialogue: 0,0:15:01.77,0:15:03.04,Shizuma Hanazono,,0,0,0,,Tre giorni fa.
+Dialogue: 0,0:15:03.61,0:15:04.96,Shizuma Hanazono,,0,0,0,,Nel migliore dei casi,
+Dialogue: 0,0:15:04.96,0:15:06.56,Shizuma Hanazono,,0,0,0,,le rimangono tre mesi.
+Dialogue: 0,0:15:07.57,0:15:08.91,Miyuki Rokujou,,0,0,0,,Non è possibile.
+Dialogue: 0,0:15:09.30,0:15:11.18,Miyuki Rokujou,,0,0,0,,Perché così all'improvviso?
+Dialogue: 0,0:15:13.48,0:15:14.71,Shizuma Hanazono,,0,0,0,,Lei...
+Dialogue: 0,0:15:14.71,0:15:16.03,Shizuma Hanazono,,0,0,0,,non ce l'ha mai detto.
+Dialogue: 0,0:15:16.87,0:15:18.48,Miyuki Rokujou,,0,0,0,,Non ci voglio credere.
+Dialogue: 0,0:15:18.48,0:15:20.72,Miyuki Rokujou,,0,0,0,,Com'è potuto succedere?
+Dialogue: 0,0:15:21.48,0:15:23.78,Miyuki Rokujou,,0,0,0,,Perché hai aspettato a dirmelo?
+Dialogue: 0,0:15:23.78,0:15:24.94,Miyuki Rokujou,,0,0,0,,Perché?!
+Dialogue: 0,0:15:34.81,0:15:35.98,Shizuma Hanazono,,0,0,0,,Perché...
+Dialogue: 0,0:15:36.60,0:15:38.20,Shizuma Hanazono,,0,0,0,,voglio esserlo insieme a lei.
+Dialogue: 0,0:15:38.81,0:15:40.74,Shizuma Hanazono,,0,0,0,,Vogliamo diventare Étoile.
+Dialogue: 0,0:15:43.87,0:15:45.12,Shizuma Hanazono,,0,0,0,,Anche se non so
+Dialogue: 0,0:15:45.12,0:15:48.04,Shizuma Hanazono,,0,0,0,,se saremo elette.
+Dialogue: 0,0:15:49.44,0:15:52.13,Shizuma Hanazono,,0,0,0,,Ci sarà una rappresentante per Spica, quest'anno?
+Dialogue: 0,0:15:52.13,0:15:53.25,Miyuki Rokujou,,0,0,0,,Non ha importanza.
+Dialogue: 0,0:15:54.08,0:15:55.63,Miyuki Rokujou,,0,0,0,,Spica non ha importanza,
+Dialogue: 0,0:15:56.56,0:16:00.13,Miyuki Rokujou,,0,0,0,,Non c'è nessuno che possa ricoprire quel ruolo meglio di voi due.
+Dialogue: 0,0:16:00.97,0:16:03.68,Miyuki Rokujou,,0,0,0,,L'unica cosa importante è che riusciate ad arrivare sul palco.
+Dialogue: 0,0:16:04.90,0:16:06.12,Miyuki Rokujou,,0,0,0,,E poi,
+Dialogue: 0,0:16:06.12,0:16:08.26,Miyuki Rokujou,,0,0,0,,l'Étoile di quest'anno sarà eletta.
+Dialogue: 0,0:16:08.26,0:16:10.26,Miyuki Rokujou,,0,0,0,,

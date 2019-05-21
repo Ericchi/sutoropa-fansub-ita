@@ -15,10 +15,10 @@ Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (
 Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第01話 「櫻の丘」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 60
-Active Line: 66
-Video Position: 2531
+Video Zoom Percent: 0.625000
+Scroll Position: 227
+Active Line: 240
+Video Position: 21010
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -126,6 +126,8 @@ Style: Tsubomi Okuwaka,PT Serif,52,&H00FFADB4,&H000000FF,&H00282226,&H80000000,-
 Style: Miyuki Rokujou,PT Serif,52,&H0089EA55,&H000000FF,&H00282F28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Hitomi Tougi,PT Serif,52,&H008044C4,&H000000FF,&H001F1E23,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Mizuho Kanou,PT Serif,52,&H00FF9391,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Sorella - Secondo piano,PT Serif,52,&H003128DE,&H000000FF,&H002F2A28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,8,10,10,10,1
+Style: Scartoffie - Porta,Bookman Old Style,30,&H002C2E2E,&H000000FF,&H006193A9,&H80000000,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -358,8 +360,9 @@ Dialogue: 0,0:13:54.94,0:13:55.94,Tamao Suzumi,,0,0,0,,Già.
 Dialogue: 0,0:13:56.82,0:13:57.96,Tamao Suzumi,,0,0,0,,Eccola qui.
 Dialogue: 0,0:14:01.88,0:14:03.20,Sorella,,0,0,0,,Chi sei tu?
 Dialogue: 0,0:14:06.33,0:14:11.66,Sorella,,0,0,0,,Nessuna dovrebbe essere a spasso per Astraea quando il cancello è chiuso.
-Dialogue: 0,0:14:13.70,0:14:14.93,Sorella,,0,0,0,,Che vergogna.
-Dialogue: 0,0:14:15.73,0:14:17.71,Sorella,,0,0,0,,Sei una nuova studentessa
+Dialogue: 0,0:14:13.70,0:14:14.73,Sorella,,0,0,0,,Che vergogna.
+Dialogue: 0,0:14:14.73,0:14:17.72,Scartoffie - Porta,,0,0,0,,{\t(150,4300,\fscx75\fscy75)\move(476.795,422.4,387.184,333.8,390,2935)}Direzione
+Dialogue: 0,0:14:15.73,0:14:17.71,Sorella - Secondo piano,,0,0,0,,Sei una nuova studentessa
 Dialogue: 0,0:14:18.37,0:14:20.57,Sorella,,0,0,0,,e trasgredisci già al primo giorno.
 Dialogue: 0,0:14:21.40,0:14:23.16,Sorella,,0,0,0,,Non sei nemmeno pentita?
 Dialogue: 0,0:14:23.15,0:14:24.11,Nagisa Aoi,,0,0,0,,Mi dispiace!
@@ -368,6 +371,7 @@ Dialogue: 0,0:14:26.24,0:14:26.91,Nagisa Aoi,,0,0,0,,Sì!
 Dialogue: 0,0:14:27.40,0:14:31.55,Sorella,,0,0,0,,Recita le regole dell'istituto, dal primo all'ultimo articolo.
 Dialogue: 0,0:14:31.84,0:14:32.96,Nagisa Aoi,,0,0,0,,Articolo uno!
 Dialogue: 0,0:14:32.97,0:14:36.60,Nagisa Aoi,,0,0,0,,Le studentesse devono mantenere alto l'onore di Astraea!
+Dialogue: 0,0:14:34.32,0:14:37.82,Scartoffie - Porta,,0,0,0,,{\fscx75\fscy75)\pos(385.442,332.8)}Direzione
 Dialogue: 0,0:14:36.71,0:14:41.29,Nagisa - secondo piano,,0,0,0,,In virtù di ciò, devono mantenere uno stile di vita appropriato!
 Dialogue: 0,0:14:38.77,0:14:40.82,Tamao Suzumi,,0,0,0,,Presidentessa del consiglio studentesco Rokujou...
 Dialogue: 0,0:14:41.57,0:14:42.73,Nagisa Aoi,,0,0,0,,Articolo dieci!
