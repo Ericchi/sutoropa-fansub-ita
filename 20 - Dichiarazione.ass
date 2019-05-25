@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 123
-Active Line: 126
-Video Position: 2559
+Scroll Position: 158
+Active Line: 165
+Video Position: 6164
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,5 +277,44 @@ Dialogue: 0,0:01:13.31,0:01:18.30,Lyrics traduzione,,0,0,0,,Facciamoci una prome
 Comment: 0,0:01:18.68,0:01:21.84,Default,,0,0,0,karaoke,{\k23}Me{\k17}gu{\k19}ri{\k21}a{\k26}u {\k25}no {\k165}dream
 Dialogue: 0,0:01:18.68,0:01:21.84,Lyrics traduzione,,0,0,0,,Staremo insieme in questo sogno.
 Dialogue: 0,0:00:04.64,0:00:11.98,Copyright Sutoropa,,0,0,0,,{\fad(1200,1200}Fansub: EricchiYukia
-Dialogue: 0,0:01:46.71,0:01:48.80,Tamao Suzumi,,0,0,0,,
-Dialogue: 0,0:01:48.80,0:01:50.80,Copyright Sutoropa,,0,0,0,,
+Dialogue: 0,0:01:46.71,0:01:48.80,Tamao Suzumi,,0,0,0,,L'elezione dell'Étoile si sta avvicinando.
+Dialogue: 0,0:01:48.80,0:01:52.66,Tamao Suzumi,,0,0,0,,Miator, Spica e Lulim sono in trepidante attesa.
+Dialogue: 0,0:01:53.28,0:01:56.72,Tamao Suzumi,,0,0,0,,Tutte non parlano d'altro che dell'elezione.
+Dialogue: 0,0:01:56.96,0:01:58.38,Tamao Suzumi,,0,0,0,,Chi verrà scelta?
+Dialogue: 0,0:01:58.78,0:02:00.79,Tamao Suzumi,,0,0,0,,Chi vorresti che venisse eletta?
+Dialogue: 0,0:02:22.29,0:02:25.28,Tamao Suzumi,,0,0,0,,Il vento autunnale è così freddo.
+Dialogue: 0,0:02:28.62,0:02:29.88,Miyuki Rokujou,,0,0,0,,Mi dispiace.
+Dialogue: 0,0:02:30.72,0:02:31.64,Miyuki Rokujou,,0,0,0,,Io...
+Dialogue: 0,0:02:32.30,0:02:34.23,Miyuki Rokujou,,0,0,0,,avevo riposto le mie speranze in te.
+Dialogue: 0,0:02:35.24,0:02:38.34,Miyuki Rokujou,,0,0,0,,Pensavo che saresti riuscita a far tornare Shizuma quella di un tempo.
+Dialogue: 0,0:02:38.70,0:02:39.50,Miyuki Rokujou,,0,0,0,,E anche che
+Dialogue: 0,0:02:40.02,0:02:41.95,Miyuki Rokujou,,0,0,0,,le avresti fatto dimenticare quella ragazza.
+Dialogue: 0,0:02:42.49,0:02:45.22,Miyuki Rokujou,,0,0,0,,Ho davvero sperato in qualcosa di impossibile.
+Dialogue: 0,0:02:46.27,0:02:47.30,Miyuki Rokujou,,0,0,0,,Mi dispiace.
+Dialogue: 0,0:02:49.31,0:02:50.50,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:02:51.87,0:02:56.88,Titolo episodio,,0,0,0,,Dichiarazione
+Dialogue: 0,0:02:58.10,0:02:59.88,Nagisa Aoi,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:01.84,0:03:04.09,Nagisa Aoi,,0,0,0,,Oggi è davvero una bella giornata.
+Dialogue: 0,0:03:04.09,0:03:06.96,Nagisa Aoi,,0,0,0,,Studierò a più non posso!
+Dialogue: 0,0:03:10.76,0:03:13.09,Chiyo Tsukidate,,0,0,0,,Allora è successo davvero.
+Dialogue: 0,0:03:12.12,0:03:13.64,Nagisa Aoi,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:14.12,0:03:16.26,Chiyo Tsukidate,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:14.12,0:03:16.26,Kizuna Hyuuga,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:14.12,0:03:16.26,Remon Natsume,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:14.12,0:03:16.26,Tsubomi Okuwaka,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:14.12,0:03:16.26,Kagome Byakudan,,0,0,0,,Buongiorno!
+Dialogue: 0,0:03:15.35,0:03:17.98,Tamao Suzumi,,0,0,0,,Nagisa-chan, aspetta!
+Dialogue: 0,0:03:18.68,0:03:21.90,Chiyo Tsukidate,,0,0,0,,Nagisa-oneesama sembra davvero in forma, questa mattina.
+Dialogue: 0,0:03:21.90,0:03:23.40,Kizuna Hyuuga,,0,0,0,,Eh già.
+Dialogue: 0,0:03:23.40,0:03:26.48,Tsubomi Okuwaka,,0,0,0,,Una Nagisa-sama fiacca non può esistere.
+Dialogue: 0,0:03:44.23,0:03:50.11,Insegnanti - secondo piano,,0,0,0,,Ora parleremo del ruolo della poesia nella letteratura classica.
+Dialogue: 0,0:03:50.42,0:03:54.75,Insegnanti - secondo piano,,0,0,0,,Esamineremo alcuni degli aspetti critici
+Dialogue: 0,0:03:54.75,0:04:00.56,Insegnanti - secondo piano,,0,0,0,,che denotano le intenzioni dietro alle azioni dei personaggi in questo poema.
+Comment: 0,0:04:00.56,0:04:00.56,Insegnanti - secondo piano,,0,0,0,,Sidenote: Questa la rivedrò assolutamente.
+Dialogue: 0,0:04:08.00,0:04:09.24,Yaya Nanto,,0,0,0,,Hikari,
+Dialogue: 0,0:04:09.24,0:04:10.53,Yaya Nanto,,0,0,0,,andiamo in caffetteria?
+Dialogue: 0,0:04:11.40,0:04:13.23,Hikari Konohana,,0,0,0,,Scusami Yaya-chan,
+Dialogue: 0,0:04:13.23,0:04:15.40,Hikari Konohana,,0,0,0,,oggi devo incontrare una persona.
+Dialogue: 0,0:04:15.40,0:04:16.64,Yaya Nanto,,0,0,0,,Devi incontrare qualcuno?
+Dialogue: 0,0:04:17.07,0:04:18.28,Hikari Konohana,,0,0,0,,Scusami.
+Dialogue: 0,0:04:18.28,0:04:20.28,Hikari Konohana,,0,0,0,,
