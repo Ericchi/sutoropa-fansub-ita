@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第15話 「ヒロイン」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第15話 「ヒロイン」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第15話 「ヒロイン」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第15話 「ヒロイン」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 406
-Active Line: 415
-Video Position: 26469
+Video Zoom Percent: 0.875000
+Scroll Position: 257
+Active Line: 258
+Video Position: 25150
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -388,7 +388,7 @@ Dialogue: 0,0:08:39.69,0:08:42.04,Gente random,,0,0,0,,Oh, secondo voi chi ricop
 Dialogue: 0,0:08:42.04,0:08:44.08,Sorellina A,,0,0,0,,Non dovrebbe essere Amane-sama di Spica?
 Dialogue: 0,0:08:44.08,0:08:47.28,Sorellina B,,0,0,0,,Anche Chikaru-sama di Lulim è gettonata, però.
 Comment: 0,0:08:47.51,0:08:47.69,Gente random,,0,0,0,,Sidenote: Servono più genti random
-Dialogue: 0,0:08:47.69,0:08:52.05,Gente random,,0,0,0,,Però a me piacerebbe un sacco vedere Étoile-sama ed Amane-sama recitare insieme.
+Dialogue: 0,0:08:47.69,0:08:52.05,Gente random,,0,0,0,,Però a me piacerebbe tantissimo vedere Étoile-sama ed Amane-sama recitare insieme.
 Dialogue: 0,0:08:52.38,0:08:54.08,Sorellina A,,0,0,0,,Anche a me.
 Dialogue: 0,0:08:55.56,0:08:57.93,Shion Toumori,,0,0,0,,Sarà molto facile.
 Dialogue: 0,0:08:57.93,0:09:00.27,Shion Toumori,,0,0,0,,Con tutta la popolarità che ha,
@@ -516,19 +516,19 @@ Dialogue: 0,0:16:36.21,0:16:37.84,Nagisa Aoi,,0,0,0,,Chissà cosa mi faranno far
 Dialogue: 0,0:16:38.06,0:16:43.71,Tamao Suzumi,,0,0,0,,Lavorerai dietro alle quinte affinché le attrici possano esibirsi alla perfezione.
 Dialogue: 0,0:16:44.05,0:16:45.91,Nagisa Aoi,,0,0,0,,Sembra complicato.
 Dialogue: 0,0:16:46.44,0:16:47.65,Chihaya Takemura,,0,0,0,,È terribile!
-Dialogue: 0,0:16:49.13,0:16:52.64,Shion Toumori,,0,0,0,,Tutte volevano che Étoile-sama fosse Carmen!
-Dialogue: 0,0:16:52.83,0:16:53.80,Miyuki Rokujou,,0,0,0,,Ad ogni modo,
+Dialogue: 0,0:16:49.13,0:16:52.64,Shion Toumori,,0,0,0,,Tutte volevano che Étoile-sama interpretasse Carmen!
+Dialogue: 0,0:16:52.83,0:16:53.80,Miyuki Rokujou,,0,0,0,,Comunque sia,
 Dialogue: 0,0:16:53.80,0:16:57.66,Miyuki Rokujou,,0,0,0,,la recita del dormitorio Ichigo non è una gara di popolarità.
 Dialogue: 0,0:16:57.96,0:17:02.69,Miyuki Rokujou,,0,0,0,,La priorità è che tutte possano apprezzare l'opera e i ruoli.
 Dialogue: 0,0:17:02.69,0:17:04.38,Shion Toumori,,0,0,0,,Ma come fa ad essere così cieca?
 Dialogue: 0,0:17:04.38,0:17:06.24,Shion Toumori,,0,0,0,,Le sembra divertente?
-Dialogue: 0,0:17:06.24,0:17:11.62,Shion Toumori,,0,0,0,,E poi, non ha alcun senso dare alla stessa persona sia il ruolo di protagonista che quello di designer.
+Dialogue: 0,0:17:06.24,0:17:11.62,Shion Toumori,,0,0,0,,E poi, non ha alcun senso dare alla stessa persona sia il ruolo di protagonista che quello di costumista.
 Dialogue: 0,0:17:11.62,0:17:15.41,Miyuki Rokujou,,0,0,0,,A me sembra che lei sia perfettamente in grado di svolgere entrambe le mansioni.
 Dialogue: 0,0:17:16.36,0:17:17.32,Miyuki Rokujou,,0,0,0,,A proposito,
-Dialogue: 0,0:17:17.84,0:17:20.53,Miyuki Rokujou,,0,0,0,,mi pare che Spica abbia già il suo bel da fare.
-Dialogue: 0,0:17:22.78,0:17:24.86,Miyuki Rokujou,,0,0,0,,Ho assegnato il ruolo di Carmen a Chikaru-san
-Dialogue: 0,0:17:25.15,0:17:28.40,Miyuki Rokujou,,0,0,0,,e quello di Don José a Shizuma-sama.
-Dialogue: 0,0:17:28.94,0:17:32.72,Miyuki Rokujou,,0,0,0,,Tutti gli altri personaggi principali sono stati assegnati a Spica.
+Dialogue: 0,0:17:17.82,0:17:20.53,Miyuki Rokujou,,0,0,0,,mi pare che Spica abbia già il suo bel da fare.
+Dialogue: 0,0:17:22.78,0:17:25.15,Miyuki Rokujou,,0,0,0,,Ho assegnato il ruolo di Carmen a Chikaru-san di Lulim
+Dialogue: 0,0:17:25.15,0:17:28.40,Miyuki Rokujou,,0,0,0,,e quello di Don José a Shizuma-sama di Miator.
+Dialogue: 0,0:17:28.94,0:17:32.72,Miyuki Rokujou,,0,0,0,,Il resto del cast è formato da studentesse di Spica.
 Dialogue: 0,0:17:34.66,0:17:36.68,Miyuki Rokujou,,0,0,0,,Sono tutti ruoli davvero importanti
 Dialogue: 0,0:17:37.32,0:17:39.86,Miyuki Rokujou,,0,0,0,,e Spica ha il maggior numero di attrici.
 Dialogue: 0,0:17:40.13,0:17:43.84,Miyuki Rokujou,,0,0,0,,Spica ha già ricevuto un buon trattamento e non dovrebbe chiedere nulla di più.
@@ -558,15 +558,15 @@ Dialogue: 0,0:18:34.68,0:18:36.53,Tsubomi Okuwaka,,0,0,0,,Io sarò Giulietta!
 Dialogue: 0,0:18:39.24,0:18:41.12,Tsubomi Okuwaka,,0,0,0,,Che peccato, Chiyo-chan.
 Dialogue: 0,0:18:42.23,0:18:44.93,Tsubomi Okuwaka,,0,0,0,,Quest'anno Miator lavorerà solo dietro le quinte.
 Dialogue: 0,0:18:44.93,0:18:46.39,Chiyo Tsukidate,,0,0,0,,Oh, davvero?
-Dialogue: 0,0:18:46.74,0:18:47.76,Chikaru Minamoto,,0,0,0,,Ehi.
-Dialogue: 0,0:18:47.76,0:18:49.73,Chikaru Minamoto,,0,0,0,,Smettetela di decidere per conto vostro.
-Dialogue: 0,0:18:49.93,0:18:51.95,Chikaru Minamoto,,0,0,0,,Anche io vorrei essere Romeo...
+Dialogue: 0,0:18:46.74,0:18:47.76,Yaya Nanto,,0,0,0,,Ehi.
+Dialogue: 0,0:18:47.76,0:18:49.73,Yaya Nanto,,0,0,0,,Smettetela di decidere per conto vostro.
+Dialogue: 0,0:18:49.93,0:18:51.95,Yaya Nanto,,0,0,0,,Anche io vorrei essere Romeo...
 Dialogue: 0,0:18:55.03,0:18:56.24,Kizuna Hyuuga,,0,0,0,,Romeo?
 Dialogue: 0,0:18:56.60,0:18:58.18,Remon Natsume,,0,0,0,,Se lo decidessimo con una lotteria?
 Dialogue: 0,0:18:58.18,0:19:02.12,Gente random - Secondo piano,,0,0,0,,Lotteria! Lotteria! Lotteria! Lotteria! Lotteria! Lotteria! Lotteria!
-Dialogue: 0,0:18:58.74,0:19:00.00,Chikaru Minamoto,,0,0,0,,Una lotteria?!
-Dialogue: 0,0:19:00.26,0:19:02.12,Kizuna Hyuuga,,0,0,0,,Che ne dite di carta, sasso, forbici?
-Dialogue: 0,0:19:02.12,0:19:06.00,Gente random - Secondo piano,,0,0,0,,Carta, sasso, forbici! Carta, sasso, forbici! Carta, sasso, forbici! Carta, sasso, forbici! Carta, sasso, forbici! Carta, sasso, forbici!
+Dialogue: 0,0:18:58.74,0:19:00.00,Yaya Nanto,,0,0,0,,Una lotteria?!
+Dialogue: 0,0:19:00.20,0:19:02.12,Kizuna Hyuuga,,0,0,0,,Che ne dite di morra cinese?
+Dialogue: 0,0:19:02.12,0:19:06.00,Gente random - Secondo piano,,0,0,0,,Morra cinese! Morra cinese! Morra cinese! Morra cinese! Morra cinese! Morra cinese!
 Dialogue: 0,0:19:06.69,0:19:08.16,Chikaru Minamoto,,0,0,0,,Che ne dite di questo?
 Dialogue: 0,0:19:08.16,0:19:09.20,Miyuki Rokujou,,0,0,0,,Niente male.
 Dialogue: 0,0:19:09.20,0:19:10.59,Tamao Suzumi,,0,0,0,,Bellissimo.
@@ -581,7 +581,7 @@ Dialogue: 0,0:19:18.53,0:19:19.03,Gente random,,0,0,0,,Otto!
 Dialogue: 0,0:19:19.03,0:19:19.58,Gente random,,0,0,0,,Nove!
 Dialogue: 0,0:19:19.58,0:19:21.31,Gente random,,0,0,0,,Dieci!
 Dialogue: 0,0:19:21.31,0:19:23.35,Kizuna Hyuuga,,0,0,0,,Kagome-chan sarà Romeo!
-Dialogue: 0,0:19:24.12,0:19:25.76,Chikaru Minamoto,,0,0,0,,Non è possibile...
+Dialogue: 0,0:19:24.12,0:19:25.76,Yaya Nanto,,0,0,0,,Non è possibile...
 Dialogue: 0,0:19:25.95,0:19:28.16,Scartoffie,,0,0,0,,{\move(443.964,58.94,444.314,-150.526,23,2191)\frz359.2}Torneo di sumo con le dita
 Dialogue: 0,0:19:25.95,0:19:28.16,Scartoffie,,0,0,0,,{\frz349.6\move(663.965,220.274,672.314,-40.193,10,2191)}Ruolo di Romeo
 Dialogue: 0,0:19:26.84,0:19:29.09,Kagome Byakudan,,0,0,0,,Romeo, Romeo.
@@ -601,11 +601,11 @@ Dialogue: 0,0:20:10.75,0:20:13.08,Kenjou Kaname,,0,0,0,,Nessuno può sapere ciò
 Dialogue: 0,0:20:37.91,0:20:39.49,Hikari Konohana,,0,0,0,,Amane-senpai.
 Dialogue: 0,0:20:40.15,0:20:41.28,Amane Ootori,,0,0,0,,Hikari.
 Dialogue: 0,0:20:43.77,0:20:46.77,Scartoffie,,0,0,0,,{\frz143.3\org(500.572,327.999)\pos(499.429,326.857)\frx16\fry348}Carmen
-Dialogue: 0,0:20:44.85,0:20:46.31,Amane Ootori,,0,0,0,,Sono spaventata.
+Dialogue: 0,0:20:44.85,0:20:46.35,Amane Ootori,,0,0,0,,Sono spaventata.
 Dialogue: 0,0:20:47.40,0:20:49.14,Amane Ootori,,0,0,0,,Non credo di potercela fare.
 Dialogue: 0,0:20:49.14,0:20:51.32,Hikari Konohana,,0,0,0,,Per favore, lasci che la aiuti.
 Dialogue: 0,0:20:52.35,0:20:53.50,Hikari Konohana,,0,0,0,,Io...
-Dialogue: 0,0:20:53.50,0:20:54.99,Hikari Konohana,,0,0,0,,voglio leggerlo.
+Dialogue: 0,0:20:53.50,0:20:54.99,Hikari Konohana,,0,0,0,,vorrei darci un'occhiata.
 Dialogue: 0,0:21:03.31,0:21:04.88,Shizuma Hanazono,,0,0,0,,Ah, Carmen!
 Dialogue: 0,0:21:05.34,0:21:07.32,Shizuma Hanazono,,0,0,0,,Io ti amo!
 Dialogue: 0,0:21:07.80,0:21:11.25,Shizuma Hanazono,,0,0,0,,Ho lasciato la guardia e sono diventato un bandito solo per te!
@@ -666,7 +666,7 @@ Dialogue: 0,0:23:46.14,0:23:50.49,Lyrics traduzione,,0,0,0,karaoke,Sarò punita 
 Dialogue: 0,0:23:55.03,0:23:59.95,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
 Dialogue: 0,0:23:55.43,0:23:57.95,Nagisa Aoi,,0,0,0,,Tamao-chan, il tuo copione è un capolavoro!
 Dialogue: 0,0:23:57.95,0:24:00.22,Tamao Suzumi,,0,0,0,,E poi i due si avvicinarono tra loro sempre di più,
-Dialogue: 0,0:24:00.22,0:24:02.48,Tamao Suzumi,,0,0,0,,così tanto da potersi sentire il respiro a vicenda.
+Dialogue: 0,0:24:00.22,0:24:02.48,Tamao Suzumi,,0,0,0,,così tanto da percepire il loro respiro a vicenda.
 Dialogue: 0,0:24:02.48,0:24:04.66,Nagisa Aoi,,0,0,0,,Conosci la trama molto bene.
 Dialogue: 0,0:24:04.66,0:24:05.69,Nagisa Aoi,,0,0,0,,Non ti smentisci.
 Dialogue: 0,0:24:05.69,0:24:08.94,Tamao Suzumi,,0,0,0,,Guardandosi a vicenda, i loro occhi si riempirono di lacrime.

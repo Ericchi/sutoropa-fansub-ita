@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第18話 「愛の嵐」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 200
-Active Line: 210
-Video Position: 14606
+Scroll Position: 256
+Active Line: 264
+Video Position: 5627
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -214,7 +214,6 @@ Dialogue: 0,0:01:13.31,0:01:18.30,Lyrics traduzione,,0,0,0,,Facciamoci una prome
 Comment: 0,0:01:18.68,0:01:21.84,Default,,0,0,0,karaoke,{\k23}Me{\k17}gu{\k19}ri{\k21}a{\k26}u {\k25}no {\k165}dream
 Dialogue: 0,0:01:18.68,0:01:21.84,Lyrics traduzione,,0,0,0,,Staremo insieme in questo sogno.
 Dialogue: 0,0:00:04.64,0:00:11.98,Copyright Sutoropa,,0,0,0,,{\fad(1200,1200}Fansub: EricchiYukia
-Dialogue: 0,0:01:30.83,0:01:36.44,Lyrics traduzione canti,,0,0,0,,Come i bianchi
 Dialogue: 0,0:01:56.10,0:01:57.11,Nagisa Aoi,,0,0,0,,Ecco,
 Dialogue: 0,0:01:57.34,0:01:58.76,Nagisa Aoi,,0,0,0,,è ancora lontana?
 Dialogue: 0,0:01:59.56,0:02:00.52,Nagisa Aoi,,0,0,0,,La villa.
@@ -230,7 +229,7 @@ Dialogue: 0,0:02:28.05,0:02:31.88,Nagisa Aoi,,0,0,0,,e voglio ascoltare cos'ha d
 Dialogue: 0,0:02:32.54,0:02:33.37,Nagisa Aoi,,0,0,0,,Però...
 Dialogue: 0,0:02:33.81,0:02:38.81,Titolo episodio,,0,0,0,,Tempesta d'amore
 Dialogue: 0,0:03:03.20,0:03:04.58,Shizuma Hanazono,,0,0,0,,Mangiamo?
-Dialogue: 0,0:03:07.33,0:03:09.22,Shizuma Hanazono,,0,0,0,,Il pranzo di Tamao-chan.
+Dialogue: 0,0:03:07.33,0:03:09.22,Shizuma Hanazono,,0,0,0,,Il pranzo di Tamao-san.
 Dialogue: 0,0:03:15.26,0:03:16.52,Shizuma Hanazono,,0,0,0,,È buono, non trovi?
 Dialogue: 0,0:03:17.76,0:03:19.68,Nagisa Aoi,,0,0,0,,Sì, è buono.
 Dialogue: 0,0:03:19.92,0:03:21.81,Shizuma Hanazono,,0,0,0,,Quando torneremo al dormitorio Ichigo,
@@ -244,7 +243,7 @@ Dialogue: 0,0:03:52.88,0:03:53.74,Shizuma Hanazono,,0,0,0,,Però,
 Dialogue: 0,0:03:54.69,0:03:56.47,Shizuma Hanazono,,0,0,0,,i miei ricordi di lei saranno eternamente...
 Dialogue: 0,0:03:59.29,0:04:01.31,Shizuma Hanazono,,0,0,0,,come delle foglie che cadono.
 Dialogue: 0,0:04:08.81,0:04:10.51,Nagisa Aoi,,0,0,0,,È tutto molto calmo, non trova?
-Dialogue: 0,0:04:11.13,0:04:12.64,Shizuma Hanazono,,0,0,0,,È perché non c'è nessuno.
+Dialogue: 0,0:04:11.13,0:04:12.64,Shizuma Hanazono,,0,0,0,,Perché non c'è nessuno.
 Dialogue: 0,0:04:13.55,0:04:14.62,Nagisa Aoi,,0,0,0,,Nessuno?
 Dialogue: 0,0:04:16.36,0:04:17.84,Shizuma Hanazono,,0,0,0,,Tutta questa zona
 Dialogue: 0,0:04:17.84,0:04:19.83,Shizuma Hanazono,,0,0,0,,è territorio della villa.
@@ -353,7 +352,7 @@ Dialogue: 0,0:13:55.44,0:13:57.32,Shizuma Hanazono,,0,0,0,,io sono riuscita a...
 Dialogue: 0,0:13:58.38,0:13:59.49,Nagisa Aoi,,0,0,0,,Anche io.
 Dialogue: 0,0:13:59.49,0:14:01.27,Nagisa Aoi,,0,0,0,,Da quando io l'ho incontrata...
 Dialogue: 0,0:14:04.95,0:14:06.28,Shizuma Hanazono,,0,0,0,,Vado a cambiarmi.
-Dialogue: 0,0:14:07.80,0:14:09.65,Shizuma Hanazono,,0,0,0,,Sarà una lunga storia.
+Dialogue: 0,0:14:07.80,0:14:09.65,Shizuma Hanazono,,0,0,0,,Sarà una storia lunga.
 Dialogue: 0,0:14:10.03,0:14:11.08,Shizuma Hanazono,,0,0,0,,E poi,
 Dialogue: 0,0:14:11.08,0:14:13.80,Shizuma Hanazono,,0,0,0,,Non possiamo stare vestite così tutto il tempo.
 Dialogue: 0,0:14:14.09,0:14:16.34,Shizuma Hanazono,,0,0,0,,Porterò dei vestiti anche per te.

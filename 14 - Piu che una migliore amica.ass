@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第14話 「親友以上」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第14話 「親友以上」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第14話 「親友以上」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第14話 「親友以上」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 510
-Active Line: 506
-Video Position: 38090
+Video Zoom Percent: 0.750000
+Scroll Position: 126
+Active Line: 82
+Video Position: 240
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -644,7 +644,7 @@ Dialogue: 0,0:23:46.14,0:23:50.49,Lyrics traduzione,,0,0,0,karaoke,Sarò punita 
 Dialogue: 0,0:23:55.03,0:23:59.95,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
 Dialogue: 0,0:23:55.64,0:23:59.27,Nagisa Aoi,,0,0,0,,Tamao-chan, il festival della cultura è alle porte, non vedo l'ora!
 Dialogue: 0,0:23:59.27,0:24:01.64,Tamao Suzumi,,0,0,0,,E poi, loro due si avvicinarono.
-Dialogue: 0,0:24:01.64,0:24:03.76,Tamao Suzumi,,0,0,0,,Così vicini da potersi sentire il respiro a vicenda.
+Dialogue: 0,0:24:01.64,0:24:03.76,Tamao Suzumi,,0,0,0,,Così vicini da percepire il loro respiro a vicenda.
 Dialogue: 0,0:24:03.76,0:24:05.84,Nagisa Aoi,,0,0,0,,Chissà se avranno da mangiare.
 Dialogue: 0,0:24:05.84,0:24:07.44,Nagisa Aoi,,0,0,0,,Mi domando cosa ci sarà.
 Dialogue: 0,0:24:07.44,0:24:10.33,Tamao Suzumi,,0,0,0,,Guardandosi a vicenda, i loro occhi si riempirono di lacrime.

@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第17話 「秘密」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第17話 「秘密」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第17話 「秘密」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第17話 「秘密」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 165
-Active Line: 172
-Video Position: 7534
+Video Zoom Percent: 0.875000
+Scroll Position: 384
+Active Line: 388
+Video Position: 29233
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -290,7 +290,7 @@ Dialogue: 0,0:06:38.18,0:06:39.83,Nagisa Aoi,,0,0,0,,Vedere le foglie che cadono
 Dialogue: 0,0:06:39.83,0:06:41.21,Nagisa Aoi,,0,0,0,,Va bene, ci sto.
 Dialogue: 0,0:06:41.83,0:06:43.12,Tamao Suzumi,,0,0,0,,Grazie davvero.
 Dialogue: 0,0:06:43.12,0:06:45.99,Tamao Suzumi,,0,0,0,,Allora corro a preparare un pranzo al sacco con tutto il mio impegno.
-Dialogue: 0,0:07:19.00,0:07:21.54,Kenjou Kaname,,0,0,0,,È giunto il momento di prepararci.
+Dialogue: 0,0:07:19.00,0:07:21.54,Kenjou Kaname,,0,0,0,,È arrivato il momento di prepararci.
 Dialogue: 0,0:07:22.06,0:07:24.40,Kenjou Kaname,,0,0,0,,Dobbiamo riuscire ad ottenere il ruolo di Étoile.
 Dialogue: 0,0:07:25.33,0:07:26.22,Kenjou Kaname,,0,0,0,,Momomi?
 Dialogue: 0,0:07:27.95,0:07:29.13,Momomi Kiyashiki,,0,0,0,,Andrà tutto bene.
@@ -347,7 +347,7 @@ Dialogue: 0,0:09:31.20,0:09:37.40,Chiyo Tsukidate,,0,0,0,,L'elezione dell'Étoil
 Comment: 0,0:09:31.20,0:09:37.40,Chiyo Tsukidate,,0,0,0,,Sidenote: Questa è da verificare più avanti
 Dialogue: 0,0:09:37.94,0:09:38.97,Nagisa Aoi,,0,0,0,,Davvero?
 Dialogue: 0,0:09:39.24,0:09:41.31,Chiyo Tsukidate,,0,0,0,,Non lo sapevi?
-Dialogue: 0,0:09:41.31,0:09:45.90,Nagisa Aoi,,0,0,0,,Ma se una delle due diventa Étoile, cosa succede all'altra?
+Dialogue: 0,0:09:41.31,0:09:46.13,Nagisa Aoi,,0,0,0,,Ma se una delle due diventa Étoile, cosa succede all'altra?
 Dialogue: 0,0:09:46.13,0:09:47.91,Chiyo Tsukidate,,0,0,0,,Anche l'altra diventa Étoile.
 Dialogue: 0,0:09:48.33,0:09:51.11,Chiyo Tsukidate,,0,0,0,,In altre parole, entrambe diventano l'Étoile.
 Dialogue: 0,0:09:52.00,0:09:54.34,Nagisa Aoi,,0,0,0,,Entrambe diventano Étoile?
@@ -414,7 +414,7 @@ Dialogue: 0,0:14:20.80,0:14:23.37,Miyuki Rokujou,,0,0,0,,una persona a me molto 
 Dialogue: 0,0:14:26.60,0:14:28.12,Miyuki Rokujou,,0,0,0,,Per favore, fammi riflettere.
 Dialogue: 0,0:14:29.12,0:14:30.04,Nagisa Aoi,,0,0,0,,Va bene.
 Dialogue: 0,0:14:32.22,0:14:33.59,Miyuki Rokujou,,0,0,0,,Sei preoccupata?
-Dialogue: 0,0:14:34.83,0:14:35.84,Nagisa Aoi,,0,0,0,,Sì...
+Dialogue: 0,0:14:34.83,0:14:35.84,Nagisa Aoi,,0,0,0,,Sì.
 Dialogue: 0,0:14:50.55,0:14:51.80,Miyuki Rokujou,,0,0,0,,Quella ragazza è venuta qui.
 Dialogue: 0,0:14:52.05,0:14:53.04,Shizuma Hanazono,,0,0,0,,«Quella ragazza»?
 Dialogue: 0,0:14:53.91,0:14:55.05,Miyuki Rokujou,,0,0,0,,Nagisa-san.
@@ -474,9 +474,9 @@ Dialogue: 0,0:19:54.11,0:19:58.59,Tamao Suzumi,,0,0,0,,Nagisa-chan, tu vuoi asco
 Dialogue: 0,0:19:59.26,0:20:00.39,Nagisa Aoi,,0,0,0,,Scusa.
 Dialogue: 0,0:20:00.66,0:20:03.14,Nagisa Aoi,,0,0,0,,Io voglio davvero.
 Dialogue: 0,0:20:03.14,0:20:06.38,Nagisa Aoi,,0,0,0,,Voglio sapere tutto ciò che riguarda Shizuma-sama.
-Dialogue: 0,0:20:07.79,0:20:08.76,Nagisa Aoi,,0,0,0,,Perché,
-Dialogue: 0,0:20:09.04,0:20:10.23,Nagisa Aoi,,0,0,0,,io...
-Dialogue: 0,0:20:10.54,0:20:11.53,Nagisa Aoi,,0,0,0,,dopotutto...
+Dialogue: 0,0:20:07.79,0:20:08.76,Nagisa Aoi,,0,0,0,,Perché
+Dialogue: 0,0:20:09.04,0:20:10.23,Nagisa Aoi,,0,0,0,,io,
+Dialogue: 0,0:20:10.54,0:20:11.53,Nagisa Aoi,,0,0,0,,perché...
 Dialogue: 0,0:20:17.14,0:20:18.13,Miyuki Rokujou,,0,0,0,,Tu,
 Dialogue: 0,0:20:18.58,0:20:20.36,Miyuki Rokujou,,0,0,0,,pensi davvero che lei possa liberarti?
 Dialogue: 0,0:20:20.74,0:20:22.36,Miyuki Rokujou,,0,0,0,,Che possa rompere le tue catene?
