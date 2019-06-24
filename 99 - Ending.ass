@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 71
-Active Line: 75
-Video Position: 35458
+Video Zoom Percent: 1.000000
+Scroll Position: 76
+Active Line: 77
+Video Position: 36077
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -103,7 +103,7 @@ Style: Shion Toumori,PT Serif Caption,52,&H00D0EB6B,&H000000FF,&H00282F28,&H8000
 Style: Shizuma - secondo piano,PT Serif Caption,52,&H00F1F2F7,&H000000FF,&H003B3B3B,&H80000000,0,0,0,0,100,100,0,0,1,2.5,2,8,10,10,10,1
 Style: Kaori Sakuragi,PT Serif Caption,52,&H000E0D08,&H000000FF,&H00C4C4C4,&H80FFFFFF,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Sorella,PT Serif Caption,52,&H00E5FFA4,&H000000FF,&H002F2A28,&H80000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
-Style: Tamao Suzumi,PT Serif Caption,52,&H00F0D9A1,&H000000FF,&H002F2A28,&H80000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Tamao Suzumi,PT Serif,52,&H00F0D9A1,&H000000FF,&H002F2A28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Titolo episodio,Bookman Old Style,52,&H00010058,&H000000FF,&H00000000,&H008692B7,-1,0,0,0,100,100,0,0,1,0,3,2,10,10,250,1
 Style: Traduzioni bordate,Bookman Old Style,30,&H00F5F7FB,&H000000FF,&H00100E0A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
 Style: Tsubomi Okuwaka,PT Serif Caption,52,&H00F0B5BA,&H000000FF,&H00282226,&H80000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
@@ -119,6 +119,7 @@ Style: Shizuma Hanazono,PT Serif Caption,52,&H00F1F2F7,&H000000FF,&H003B3B3B,&H8
 Style: Mizuho Kanou,PT Serif Caption,52,&H00F65D9F,&H000000FF,&H00222628,&H80000000,0,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Lyrics traduzione sx,Magnolia Script,52,&H00D5F9FF,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,1,21,10,10,1
 Style: Scartoffie rosa,Bookman Old Style,30,&H00BEADCC,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Ericchi,PT Serif,52,&H00C7FF40,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -176,6 +177,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Canti,,0,0,0,template syl noblank,!retime("syl"
 Comment: 0,0:00:00.00,0:00:00.00,Canti,,0,0,0,template noblank char,!retime("syl2end",0,$lright)!{\pos($scenter,$smiddle)\\bord1\blur2\an5\t(!line.duration-$lright-1000+$scenter+(j-1)*8!,!line.duration-$lright-950+$scenter+(j-1)*8!,0.5,\fsc80\bord1.3\blur2\3c&ffffff&)\t(!line.duration-$lright-950+$scenter+(j-1)*8!,!line.duration-$lright-600+$scenter+(j-1)*8!,0.5,\fsc120\alpha&ff&\bord1\blur0)}
 Comment: 0,0:00:16.98,0:00:16.98,Canti,,0,0,0,template noblank char,!retime("start2syl",-1200,0)!{\pos($scenter,$smiddle)\an5\1c&ffffff&\alpha&ff&\fsc120\bord0\blur8\be8\frs2\t(!(dem4(1)-1)*50!,!(dem4(1)+7)*50!,0.75,\alpha&HAF\blur0\be0\frs0\fsc100)}
 Comment: 1,0:00:00.00,0:00:00.00,Canti,,0,0,0,template noblank notext,!retime("syl",-200,500)!{\fscx20\fscy30\c&HFFFFFF&\3c&HFFFFFF&\fad(0,200)\bord2\blur3\an5\frz!math.random(-40,45)!\move(!$scenter+math.random(-20,20)!,!$smiddle+math.random(-50,-30)!,!$scenter+math.random(-70,70)!,!$smiddle+math.random(30,50)!)\t(0,3000,\frz!math.random(-200,200)!)\t(0,100,\bord0.5\blur4\3c&HFFFFFF&)\p1}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
+Dialogue: 0,0:22:09.01,0:22:21.08,Note,,0,0,0,,{\fad(2000,2000)}Un ringraziamento speciale alle persone che hanno voluto le serate anime e le hanno seguite fin dall'inizio. Grazie per avermi supportata ed avermi dato la motivazione per continuare a tradurre quest'opera meravigliosa fino alla fine.
 Comment: 0,0:22:25.32,0:22:25.32,Default,,0,0,0,,BACIO!!!
 Comment: 0,0:22:30.36,0:22:33.07,Default,,0,0,0,karaoke,{\k44}Shi{\k36}n{\k34}ji{\k36}ta{\k33}i {\k88}to
 Dialogue: 0,0:22:30.36,0:22:33.07,Lyrics traduzione,,0,0,0,,Io ci credo,
@@ -198,6 +200,8 @@ Dialogue: 0,0:23:04.64,0:23:07.72,Lyrics traduzione sx,,0,0,0,,Lo voglio sveglia
 Comment: 0,0:23:08.09,0:23:15.19,Canti,,0,0,0,karaoke,{\k40}Da{\k105}re {\k40}ka {\k29}ga {\k35}tsu{\k41}mu {\k29}ma{\k138}e {\k279}ni
 Dialogue: 0,0:23:08.09,0:23:15.45,Lyrics traduzione sx,,0,0,0,,prima che qualcuno possa coglierlo.
 Dialogue: 0,0:23:24.70,0:23:29.53,Scartoffie rosa,,0,0,0,,{\t(0,2000,\fscx75\fscy75)\move(387.849,-10.429,458.791,84,9,4799)}Club della bevuta del tè
+Dialogue: 0,0:23:47.56,0:23:49.04,Tamao Suzumi,,0,0,0,,Bentornata,
+Dialogue: 0,0:23:50.39,0:23:52.04,Tamao Suzumi,,0,0,0,,Nagisa-chan.
 Dialogue: 0,0:23:15.45,0:23:17.45,Canti,,0,0,0,karaoke,
 Dialogue: 0,0:23:17.45,0:23:19.45,Canti,,0,0,0,,
 Dialogue: 1,0:22:29.46,0:22:30.86,Default,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord2\3c&HFFFFFF&\blur4\fscx2\fscy2\an5\move(404,11,407,106)\fad(230,0)\t(0,1400,\fscy3\fscx3\fad(0,500)\p1)}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
