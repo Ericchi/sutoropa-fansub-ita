@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 482
-Active Line: 392
-Video Position: 24605
+Scroll Position: 216
+Active Line: 234
+Video Position: 10943
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,11 +299,11 @@ Dialogue: 0,0:03:48.42,0:03:51.88,Shion Toumori,,0,0,0,,va ad Amane-san di Spica
 Dialogue: 0,0:03:52.11,0:03:56.84,Shion Toumori,,0,0,0,,In questo modo non ci sarà nessun ruolo da protagonista per Lulim.
 Dialogue: 0,0:03:57.31,0:03:59.60,Chikaru Minamoto,,0,0,0,,Dato che l'opera coinvolge tutto il dormitorio Ichigo,
 Dialogue: 0,0:03:59.60,0:04:02.49,Chikaru Minamoto,,0,0,0,,non è importante se il ruolo sarà assegnato a Spica o Miator.
-Dialogue: 0,0:04:02.83,0:04:04.94,Shion Toumori,,0,0,0,,Vi sta davvero bene così?
+Dialogue: 0,0:04:02.83,0:04:04.94,Shion Toumori,,0,0,0,,Vi va davvero bene così?
 Dialogue: 0,0:04:05.17,0:04:06.14,Chikaru Minamoto,,0,0,0,,Certo.
 Dialogue: 0,0:04:07.34,0:04:09.40,Shion Toumori,,0,0,0,,E allora "Carmen" sia!
 Dialogue: 0,0:04:09.85,0:04:13.38,Shion Toumori,,0,0,0,,Shizuma-sama sarà Carmen e Amane-san sarà Don José.
-Dialogue: 0,0:04:13.38,0:04:15.76,Shion Toumori,,0,0,0,,Il solo pensiero mi riempie di trepidazione.
+Dialogue: 0,0:04:13.38,0:04:15.76,Shion Toumori,,0,0,0,,Il solo pensiero mi riempie di eccitazione.
 Dialogue: 0,0:04:16.10,0:04:17.63,Shion Toumori,,0,0,0,,Non trova, presidentessa Rokujou?
 Dialogue: 0,0:04:17.97,0:04:20.83,Momomi Kiyashiki,,0,0,0,,Non è un po' maleducato tutto questo?
 Dialogue: 0,0:04:21.46,0:04:24.88,Kenjou Kaname,,0,0,0,,La presidentessa di Lulim è un'attrice talentuosa.
@@ -363,7 +363,7 @@ Dialogue: 0,0:07:18.24,0:07:19.31,Nagisa Aoi,,0,0,0,,Arrivo!
 Dialogue: 0,0:07:22.62,0:07:25.18,Shion Toumori,,0,0,0,,Questi biscotti sono davvero buoni.
 Dialogue: 0,0:07:25.84,0:07:28.15,Shion Toumori,,0,0,0,,Ho pensato di offrirvene qualcuno.
 Dialogue: 0,0:07:28.44,0:07:30.52,Tamao Suzumi,,0,0,0,,G-grazie per il pensiero.
-Dialogue: 0,0:07:30.93,0:07:35.52,Shion Toumori,,0,0,0,,Dunque, quando scrivi un copione visualizzi una certa immagine nella tua testa, giusto?
+Dialogue: 0,0:07:30.88,0:07:35.52,Shion Toumori,,0,0,0,,Dunque, quando scrivi un copione visualizzi una certa immagine nella tua testa, giusto?
 Dialogue: 0,0:07:36.43,0:07:38.68,Shion Toumori,,0,0,0,,Mi domando chi immagini come Carmen.
 Dialogue: 0,0:07:40.50,0:07:42.68,Shion Toumori,,0,0,0,,Scommetto che è Shizuma-sama.
 Dialogue: 0,0:07:43.34,0:07:45.69,Shion Toumori,,0,0,0,,E scommetto che Don José è Amane-san.
@@ -410,8 +410,8 @@ Dialogue: 0,0:09:48.18,0:09:51.97,Shion Toumori,,0,0,0,,Tutte non aspettano altr
 Dialogue: 0,0:09:51.97,0:09:55.66,Shion Toumori,,0,0,0,,Una volta che i ruoli saranno decisi, non potrà più rifiutare.
 Dialogue: 0,0:09:55.66,0:09:58.03,Amane Ootori,,0,0,0,,Ma io non so recitare...
 Dialogue: 0,0:09:58.33,0:09:59.63,Shion Toumori,,0,0,0,,Cosa sta dicendo?
-Dialogue: 0,0:09:59.63,0:10:02.32,Shion Toumori,,0,0,0,,Non c'è mai stato nulla che lei non sia stata in grado di fare.
-Dialogue: 0,0:10:02.32,0:10:04.48,Shion Toumori,,0,0,0,,Lei può fare qualunque cosa.
+Dialogue: 0,0:09:59.63,0:10:02.32,Shion Toumori,,0,0,0,,Non c'è mai stato nulla che lei non fosse in grado di fare.
+Dialogue: 0,0:10:02.32,0:10:04.48,Shion Toumori,,0,0,0,,Lei può fare qualsiasi cosa.
 Dialogue: 0,0:10:04.48,0:10:06.16,Amane Ootori,,0,0,0,,M-ma...
 Dialogue: 0,0:10:06.16,0:10:08.07,Shion Toumori,,0,0,0,,Anche Hikari-chan vorrebbe vederla.
 Dialogue: 0,0:10:08.64,0:10:10.28,Hikari Konohana,,0,0,0,,Ecco...

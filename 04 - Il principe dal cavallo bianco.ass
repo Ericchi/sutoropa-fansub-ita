@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第04話 「白馬の君」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第04話 「白馬の君」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第04話 「白馬の君」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第04話 「白馬の君」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 381
-Active Line: 402
-Video Position: 31395
+Video Zoom Percent: 0.500000
+Scroll Position: 295
+Active Line: 300
+Video Position: 23435
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -429,8 +429,8 @@ Dialogue: 0,0:15:52.13,0:15:53.49,Lyrics traduzione canti,,0,0,0,,
 Dialogue: 0,0:15:53.67,0:15:58.00,Lyrics traduzione canti,,0,0,0,,sorride allegramente.
 Dialogue: 0,0:16:08.46,0:16:09.28,Amane Ootori,,0,0,0,,Buongiorno.
 Dialogue: 0,0:16:09.67,0:16:11.73,Hikari Konohana,,0,0,0,,B-buongiorno!
-Dialogue: 0,0:16:12.34,0:16:13.88,Amane Ootori,,0,0,0,,Sei una studentessa del terzo anno, vero?
-Dialogue: 0,0:16:14.15,0:16:16.67,Hikari Konohana,,0,0,0,,Mi chiamo Hikari, Konohana Hikari.
+Dialogue: 0,0:16:12.34,0:16:14.09,Amane Ootori,,0,0,0,,Sei una studentessa del terzo anno, vero?
+Dialogue: 0,0:16:14.09,0:16:17.37,Hikari Konohana,,0,0,0,,Mi chiamo Hikari, Konohana Hikari.
 Dialogue: 0,0:16:17.44,0:16:19.27,Amane Ootori,,0,0,0,,Giusto, Hikari-chan.
 Dialogue: 0,0:16:25.44,0:16:27.65,Amane Ootori,,0,0,0,,Mi domandavo se prima stesse cantando un angelo.
 Dialogue: 0,0:16:28.83,0:16:30.02,Hikari Konohana,,0,0,0,,Beh, in realtà...

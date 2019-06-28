@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第23話 「迷路」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 184
-Active Line: 198
-Video Position: 8382
+Video Zoom Percent: 0.750000
+Scroll Position: 487
+Active Line: 498
+Video Position: 38264
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -288,4 +288,304 @@ Dialogue: 0,0:05:38.88,0:05:42.82,Shion Toumori,,0,0,0,,dovrai annunciare la tua
 Dialogue: 0,0:05:42.82,0:05:46.79,Shion Toumori,,0,0,0,,insieme alla tua volontà di essere eletta come Étoile.
 Dialogue: 0,0:05:46.79,0:05:48.00,Shion Toumori,,0,0,0,,Va bene?
 Dialogue: 0,0:05:48.72,0:05:49.59,Amane Ootori,,0,0,0,,Sì.
-Dialogue: 0,0:05:49.59,0:05:51.59,Amane Ootori,,0,0,0,,
+Dialogue: 0,0:05:50.20,0:05:51.38,Shion Toumori,,0,0,0,,Ehi, Amane-san.
+Dialogue: 0,0:05:51.38,0:05:53.76,Shion Toumori,,0,0,0,,Va tutto bene con Hikari-san?
+Dialogue: 0,0:05:53.76,0:05:54.90,Amane Ootori,,0,0,0,,Certamente.
+Dialogue: 0,0:05:56.86,0:06:00.64,Shion Toumori,,0,0,0,,Adesso Spica potrà veder sbocciare la sua agognata Étoile.
+Dialogue: 0,0:06:05.05,0:06:06.38,Hikari Konohana,,0,0,0,,Domani?
+Dialogue: 0,0:06:06.38,0:06:07.40,Amane Ootori,,0,0,0,,Sì.
+Dialogue: 0,0:06:07.40,0:06:09.98,Amane Ootori,,0,0,0,,Prima che la nostra candidatura venga annunciata,
+Dialogue: 0,0:06:09.98,0:06:12.67,Amane Ootori,,0,0,0,,c'è una cosa di cui vorrei parlarti.
+Dialogue: 0,0:06:12.67,0:06:14.77,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:06:14.77,0:06:17.98,Amane Ootori,,0,0,0,,Ti ricordi il luogo in cui ci siamo parlate per la prima volta?
+Dialogue: 0,0:06:17.98,0:06:19.24,Hikari Konohana,,0,0,0,,Certo.
+Dialogue: 0,0:06:29.36,0:06:30.56,Amane Ootori,,0,0,0,,Buongiorno.
+Dialogue: 0,0:06:30.56,0:06:33.22,Hikari Konohana,,0,0,0,,B-buongiorno!
+Dialogue: 0,0:06:33.22,0:06:35.02,Amane Ootori,,0,0,0,,Sei una studentessa del terzo anno, vero?
+Dialogue: 0,0:06:35.02,0:06:38.11,Hikari Konohana,,0,0,0,,Mi chiamo Hikari, Konohana Hikari.
+Dialogue: 0,0:06:38.48,0:06:40.47,Amane Ootori,,0,0,0,,Giusto, Hikari-chan.
+Dialogue: 0,0:06:41.08,0:06:44.18,Hikari Konohana,,0,0,0,,Non potrei mai scordare quel giorno.
+Dialogue: 0,0:06:44.90,0:06:46.28,Amane Ootori,,0,0,0,,Nemmeno io.
+Dialogue: 0,0:06:46.85,0:06:48.26,Amane Ootori,,0,0,0,,Ci vediamo lì.
+Dialogue: 0,0:06:48.61,0:06:50.64,Hikari Konohana,,0,0,0,,Amane-senpai...
+Dialogue: 0,0:07:00.53,0:07:03.20,Kizuna Hyuuga,,0,0,0,,Chikaru-oneesama!
+Dialogue: 0,0:07:03.20,0:07:09.72,Remon Natsume,,0,0,0,,Domani Amane-san annuncerà a tutte le studentesse la sua candidatura all'elezione dell'Étoile...
+Dialogue: 0,0:07:10.04,0:07:10.91,Remon Natsume,,0,0,0,,Eh?
+Dialogue: 0,0:07:10.91,0:07:12.71,Kizuna Hyuuga,,0,0,0,,Dove sarà andata?
+Dialogue: 0,0:07:12.71,0:07:13.75,Chikaru Minamoto,,0,0,0,,Ta-da!
+Dialogue: 0,0:07:13.75,0:07:16.09,Chikaru Minamoto,,0,0,0,,Chissà chi sarà la sua partner...
+Dialogue: 0,0:07:17.73,0:07:20.24,Chikaru Minamoto,,0,0,0,,Penso che alla fine sarà Hikari-chan.
+Dialogue: 0,0:07:20.24,0:07:23.37,Chikaru Minamoto,,0,0,0,,Non trovi che Amane-san e Hikari-chan stiano bene insieme?
+Dialogue: 0,0:07:23.37,0:07:28.06,Chikaru Minamoto,,0,0,0,,Però a me interessa di più la candidatura di Miator.
+Dialogue: 0,0:07:28.06,0:07:29.12,Chikaru Minamoto,,0,0,0,,Anche a me.
+Dialogue: 0,0:07:29.12,0:07:30.72,Kizuna Hyuuga,,0,0,0,,Anche a noi!
+Dialogue: 0,0:07:29.12,0:07:30.72,Remon Natsume,,0,0,0,,Anche a noi!
+Dialogue: 0,0:07:30.72,0:07:31.63,Remon Natsume,,0,0,0,,Che carini.
+Dialogue: 0,0:07:31.63,0:07:35.14,Remon Natsume,,0,0,0,,Chikaru-oneesama, li hai fatti tu quelli?
+Dialogue: 0,0:07:35.84,0:07:36.86,Chikaru Minamoto,,0,0,0,,Sì.
+Dialogue: 0,0:07:36.86,0:07:38.29,Chikaru Minamoto,,0,0,0,,Non male, vero?
+Dialogue: 0,0:07:38.29,0:07:40.75,Chikaru Minamoto,,0,0,0,,La prossima volta potrei fondare un club dell'artigianato.
+Dialogue: 0,0:07:40.75,0:07:41.95,Kizuna Hyuuga,,0,0,0,,Ci stiamo!
+Dialogue: 0,0:07:40.75,0:07:41.95,Remon Natsume,,0,0,0,,Ci stiamo!
+Dialogue: 0,0:07:41.95,0:07:44.43,Kizuna Hyuuga,,0,0,0,,Per favore, possiamo farne parte?
+Dialogue: 0,0:07:41.95,0:07:44.43,Remon Natsume,,0,0,0,,Per favore, possiamo farne parte?
+Dialogue: 0,0:07:50.59,0:07:52.18,Nagisa Aoi,,0,0,0,,Tamao-chan, hai sentito?
+Dialogue: 0,0:07:52.18,0:07:54.80,Nagisa Aoi,,0,0,0,,Domani Amane-san farà un annuncio.
+Dialogue: 0,0:07:54.80,0:07:55.88,Tamao Suzumi,,0,0,0,,Sì.
+Dialogue: 0,0:07:55.88,0:07:58.68,Nagisa Aoi,,0,0,0,,Non c'è nessuna candidata per Miator?
+Dialogue: 0,0:07:58.68,0:08:00.04,Tamao Suzumi,,0,0,0,,B-beh,
+Dialogue: 0,0:08:00.04,0:08:01.95,Tamao Suzumi,,0,0,0,,chissà.
+Dialogue: 0,0:08:02.37,0:08:06.12,Nagisa Aoi,,0,0,0,,Allora Amane-san e Hikari-chan vinceranno.
+Dialogue: 0,0:08:06.12,0:08:08.76,Nagisa Aoi,,0,0,0,,Ho sentito che anche Lulim non parteciperà.
+Dialogue: 0,0:08:08.76,0:08:13.01,Nagisa Aoi,,0,0,0,,Quelle due sono una gran coppia e sono sicura che diventeranno la nuova Étoile.
+Dialogue: 0,0:08:13.40,0:08:14.67,Nagisa Aoi,,0,0,0,,Arrivo!
+Dialogue: 0,0:08:16.88,0:08:18.09,Miyuki Rokujou,,0,0,0,,È permesso?
+Dialogue: 0,0:08:18.09,0:08:21.09,Miyuki Rokujou,,0,0,0,,C'è una cosa importante di cui ti devo parlare.
+Dialogue: 0,0:08:21.09,0:08:22.05,Nagisa Aoi,,0,0,0,,Va bene.
+Dialogue: 0,0:08:22.05,0:08:24.22,Tamao Suzumi,,0,0,0,,R-Rokujou-sama.
+Dialogue: 0,0:08:31.79,0:08:35.72,Miyuki Rokujou,,0,0,0,,Miator ha deciso chi si candiderà all'elezione dell'Étoile.
+Dialogue: 0,0:08:35.72,0:08:37.09,Miyuki Rokujou,,0,0,0,,Giusto, Tamao-san?
+Dialogue: 0,0:08:38.71,0:08:40.61,Nagisa Aoi,,0,0,0,,T-Tamao-chan...
+Dialogue: 0,0:08:40.61,0:08:43.40,Nagisa Aoi,,0,0,0,,Tamao-chan, sei candidata per il ruolo di Étoile?
+Dialogue: 0,0:08:43.40,0:08:45.57,Tamao Suzumi,,0,0,0,,Beh, è che...
+Dialogue: 0,0:08:45.57,0:08:48.67,Nagisa Aoi,,0,0,0,,Wow, perché me l'hai tenuto nascosto?
+Dialogue: 0,0:08:49.65,0:08:51.56,Nagisa Aoi,,0,0,0,,Ehi, chi è la tua partner?
+Dialogue: 0,0:08:51.56,0:08:55.82,Nagisa Aoi,,0,0,0,,Non mi sono mai accorta che avessi una persona con cui partecipare.
+Comment: 0,0:08:55.82,0:08:57.82,Nagisa Aoi,,0,0,0,,Nagisa sei scemaaaaaaaaa バカ・バカ・バカ　蒼井渚砂はバカな少女ですうぅーｗｗｗ
+Dialogue: 0,0:08:55.82,0:08:57.48,Miyuki Rokujou,,0,0,0,,Sei tu, Nagisa-san.
+Dialogue: 0,0:08:58.81,0:08:59.96,Miyuki Rokujou,,0,0,0,,Tu.
+Dialogue: 0,0:09:00.69,0:09:02.07,Nagisa Aoi,,0,0,0,,Io?
+Dialogue: 0,0:09:02.76,0:09:04.49,Miyuki Rokujou,,0,0,0,,Sì, tu.
+Dialogue: 0,0:09:05.52,0:09:08.26,Nagisa Aoi,,0,0,0,,Io e Tamao-chan saremo le candidate?
+Dialogue: 0,0:09:08.26,0:09:09.90,Miyuki Rokujou,,0,0,0,,Sono certa che ce la farete.
+Comment: 0,0:09:08.26,0:09:09.90,Miyuki Rokujou,,0,0,0,,Miyuki, avevi appena finito di chiedere scusa a Nagisa per le pretese impossibili che hai nei suoi confronti.
+Dialogue: 0,0:09:09.90,0:09:12.77,Miyuki Rokujou,,0,0,0,,Anzi, per favore, mettetecela tutta.
+Dialogue: 0,0:09:12.77,0:09:14.44,Nagisa Aoi,,0,0,0,,Ma io...
+Dialogue: 0,0:09:14.44,0:09:16.30,Miyuki Rokujou,,0,0,0,,In passato
+Dialogue: 0,0:09:16.30,0:09:20.97,Miyuki Rokujou,,0,0,0,,non c'è mai stata una volta in cui non abbiamo presentato una candidatura per le elezioni.
+Dialogue: 0,0:09:21.48,0:09:22.96,Miyuki Rokujou,,0,0,0,,Ecco perché
+Dialogue: 0,0:09:22.96,0:09:25.52,Miyuki Rokujou,,0,0,0,,non possiamo evitare di presentare qualcuno.
+Dialogue: 0,0:09:25.95,0:09:27.40,Nagisa Aoi,,0,0,0,,Però...
+Dialogue: 0,0:09:27.40,0:09:29.86,Miyuki Rokujou,,0,0,0,,Tu e Tamao-san siete le uniche.
+Dialogue: 0,0:09:29.86,0:09:32.56,Miyuki Rokujou,,0,0,0,,Voi due potete fronteggiare Amane-san di Spica.
+Dialogue: 0,0:09:33.12,0:09:36.26,Nagisa Aoi,,0,0,0,,Io adoro Tamao-chan,
+Dialogue: 0,0:09:36.26,0:09:39.13,Nagisa Aoi,,0,0,0,,lei è la mia migliore amica.
+Dialogue: 0,0:09:39.13,0:09:41.63,Nagisa Aoi,,0,0,0,,Io vorrei anche che fossimo amiche per sempre, ma...
+Dialogue: 0,0:09:41.63,0:09:43.03,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:09:43.69,0:09:44.71,Nagisa Aoi,,0,0,0,,Ma...
+Dialogue: 0,0:09:44.71,0:09:47.28,Miyuki Rokujou,,0,0,0,,Capisco che tu non abbia ancora dimenticato Shizuma,
+Dialogue: 0,0:09:48.96,0:09:50.88,Miyuki Rokujou,,0,0,0,,ma devi farlo.
+Dialogue: 0,0:09:52.19,0:09:55.00,Miyuki Rokujou,,0,0,0,,Non puoi passare la vita ad essere preoccupata per Shizuma.
+Dialogue: 0,0:09:55.00,0:09:59.08,Miyuki Rokujou,,0,0,0,,Voglio che tu metta da parte i tuoi sentimenti per Shizuma e che partecipi all'elezione.
+Dialogue: 0,0:09:59.08,0:10:00.91,Miyuki Rokujou,,0,0,0,,Probabilmente Shizuma sarà d'accordo.
+Dialogue: 0,0:10:02.22,0:10:06.84,Miyuki Rokujou,,0,0,0,,Anche lei è consapevole del fatto che tu e Tamao-san siete le candidate ideali.
+Dialogue: 0,0:10:07.16,0:10:08.52,Nagisa Aoi,,0,0,0,,Étoile-sama?
+Dialogue: 0,0:10:09.59,0:10:10.66,Miyuki Rokujou,,0,0,0,,Sì.
+Dialogue: 0,0:10:10.66,0:10:12.29,Nagisa Aoi,,0,0,0,,È davvero così?
+Dialogue: 0,0:10:12.29,0:10:14.33,Miyuki Rokujou,,0,0,0,,Non ho motivo di mentirti.
+Dialogue: 0,0:10:19.97,0:10:21.44,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:10:27.72,0:10:29.27,Chikaru Minamoto,,0,0,0,,Nagisa-chan?
+Dialogue: 0,0:10:30.06,0:10:31.54,Tamao Suzumi,,0,0,0,,Rokujou-sama,
+Dialogue: 0,0:10:31.54,0:10:34.53,Tamao Suzumi,,0,0,0,,perché ha riferito a Nagisa-chan ciò che pensa Étoile-sama?
+Dialogue: 0,0:10:35.00,0:10:37.56,Miyuki Rokujou,,0,0,0,,Indipendentemente da come l'avresti convinta,
+Dialogue: 0,0:10:37.56,0:10:40.66,Miyuki Rokujou,,0,0,0,,Nagisa-san avrebbe sofferto comunque.
+Dialogue: 0,0:10:40.66,0:10:42.61,Miyuki Rokujou,,0,0,0,,Quindi gliel'ho detto in tutta franchezza.
+Dialogue: 0,0:10:43.08,0:10:46.13,Tamao Suzumi,,0,0,0,,Però è stato decisamente troppo.
+Dialogue: 0,0:10:46.13,0:10:47.80,Tamao Suzumi,,0,0,0,,Nagisa-chan!
+Dialogue: 0,0:10:56.80,0:10:59.20,Tamao Suzumi,,0,0,0,,Nagisa-chan!
+Dialogue: 0,0:10:59.94,0:11:01.62,Tamao Suzumi,,0,0,0,,Non la trovo da nessuna parte.
+Dialogue: 0,0:11:01.62,0:11:04.05,Tamao Suzumi,,0,0,0,,Dove potrebbe essere andata?
+Dialogue: 0,0:11:12.59,0:11:17.16,Miyuki Rokujou,,0,0,0,,Anche lei è consapevole del fatto che tu e Tamao-san siete le candidate ideali.
+Dialogue: 0,0:11:28.62,0:11:30.51,Tamao Suzumi,,0,0,0,,Mi dispiace, Nagisa-chan.
+Dialogue: 0,0:11:31.69,0:11:33.61,Tamao Suzumi,,0,0,0,,Mi dispiace.
+Dialogue: 0,0:11:34.93,0:11:37.68,Tamao Suzumi,,0,0,0,,Se solo mi fossi rifiutata,
+Dialogue: 0,0:11:37.68,0:11:39.68,Tamao Suzumi,,0,0,0,,tutto questo non...
+Dialogue: 0,0:12:10.06,0:12:11.79,Nagisa Aoi,,0,0,0,,Étoile-sama.
+Dialogue: 0,0:12:12.32,0:12:13.60,Shizuma Hanazono,,0,0,0,,Nagisa.
+Dialogue: 0,0:12:14.64,0:12:16.20,Nagisa Aoi,,0,0,0,,Shizuma-sama!
+Dialogue: 0,0:12:16.20,0:12:17.96,Shizuma Hanazono,,0,0,0,,Buona fortuna.
+Dialogue: 0,0:12:19.00,0:12:21.36,Shizuma Hanazono,,0,0,0,,Parteciperai all'elezione, è così?
+Dialogue: 0,0:12:21.76,0:12:22.76,Nagisa Aoi,,0,0,0,,No!
+Dialogue: 0,0:12:22.76,0:12:25.58,Nagisa Aoi,,0,0,0,,Io non ho mai desiderato
+Dialogue: 0,0:12:25.58,0:12:29.02,Nagisa Aoi,,0,0,0,,diventare Étoile, nemmeno una volta.
+Comment: 0,0:12:23.57,0:12:29.04,Nagisa Aoi,,0,0,0,,Cannarsi mode: Di diventare Étoile io non l'ho mai neanche una volta pensato.
+Dialogue: 0,0:12:29.04,0:12:33.88,Nagisa Aoi,,0,0,0,,E poi non credo di esserne nemmeno in grado.
+Dialogue: 0,0:12:33.88,0:12:36.22,Nagisa Aoi,,0,0,0,,Non ho nemmeno le qualità necessarie
+Comment: 0,0:12:33.88,0:12:36.22,Nagisa Aoi,,0,0,0,,Sidenote: Adoro il fatto che sta praticamente ammettendo di essere stupida.
+Dialogue: 0,0:12:36.93,0:12:38.01,Shizuma Hanazono,,0,0,0,,Beh,
+Dialogue: 0,0:12:38.01,0:12:40.80,Shizuma Hanazono,,0,0,0,,ma tu e Tamao-san siete una bella coppia.
+Dialogue: 0,0:12:41.12,0:12:45.12,Shizuma Hanazono,,0,0,0,,Per questo Miyuki ha proposto voi.
+Dialogue: 0,0:12:46.18,0:12:47.32,Shizuma Hanazono,,0,0,0,,Tu
+Dialogue: 0,0:12:47.32,0:12:49.63,Shizuma Hanazono,,0,0,0,,potresti diventare un'Étoile meravigliosa.
+Dialogue: 0,0:12:49.63,0:12:52.51,Nagisa Aoi,,0,0,0,,Mai e poi mai!
+Dialogue: 0,0:12:52.51,0:12:55.37,Nagisa Aoi,,0,0,0,,Significherebbe rinnegare i miei sentimenti.
+Dialogue: 0,0:12:57.27,0:12:59.96,Nagisa Aoi,,0,0,0,,Se facessi una cosa del genere, Tamao-chan...
+Dialogue: 0,0:12:59.96,0:13:02.48,Nagisa Aoi,,0,0,0,,no, non solo Tamao-chan.
+Dialogue: 0,0:13:02.48,0:13:04.01,Nagisa Aoi,,0,0,0,,Tutte le studentesse di Miator,
+Dialogue: 0,0:13:04.01,0:13:05.91,Nagisa Aoi,,0,0,0,,di Spica e Di Lulim.
+Dialogue: 0,0:13:05.91,0:13:08.23,Nagisa Aoi,,0,0,0,,Sarebbe irrispettoso nei loro confronti.
+Dialogue: 0,0:13:08.23,0:13:09.51,Nagisa Aoi,,0,0,0,,Io...
+Dialogue: 0,0:13:09.51,0:13:10.80,Nagisa Aoi,,0,0,0,,io...
+Dialogue: 0,0:13:10.80,0:13:16.68,Nagisa Aoi,,0,0,0,,vorrei soltanto che lei mi dica di non partecipare all'elezione dell'Étoile.
+Dialogue: 0,0:13:16.68,0:13:19.36,Nagisa Aoi,,0,0,0,,Anche se non lo intende davvero.
+Dialogue: 0,0:13:20.57,0:13:22.66,Nagisa Aoi,,0,0,0,,Perché io,
+Dialogue: 0,0:13:22.66,0:13:25.24,Nagisa Aoi,,0,0,0,,nei suoi confronti...
+Dialogue: 0,0:13:25.74,0:13:26.95,Shizuma Hanazono,,0,0,0,,Grazie.
+Dialogue: 0,0:13:27.38,0:13:29.12,Shizuma Hanazono,,0,0,0,,Mi sento onorata.
+Dialogue: 0,0:13:31.69,0:13:33.16,Shizuma Hanazono,,0,0,0,,La chiave...
+Dialogue: 0,0:13:34.48,0:13:35.93,Shizuma Hanazono,,0,0,0,,Dov'è finita?
+Dialogue: 0,0:13:36.84,0:13:38.33,Nagisa Aoi,,0,0,0,,Mi dispiace.
+Dialogue: 0,0:13:38.33,0:13:41.39,Nagisa Aoi,,0,0,0,,Volevo restituirla dopo il mio ritorno dalla villa.
+Dialogue: 0,0:13:41.39,0:13:43.81,Nagisa Aoi,,0,0,0,,Non trovavo l'occasione giusta per farlo.
+Dialogue: 0,0:13:54.43,0:13:55.92,Nagisa Aoi,,0,0,0,,Shizuma-sama.
+Dialogue: 0,0:13:58.72,0:14:00.12,Shizuma Hanazono,,0,0,0,,Addio.
+Dialogue: 0,0:14:00.60,0:14:02.40,Shizuma Hanazono,,0,0,0,,Adesso dimentica
+Dialogue: 0,0:14:02.40,0:14:04.28,Shizuma Hanazono,,0,0,0,,tutto ciò che mi riguarda.
+Dialogue: 0,0:14:19.90,0:14:21.19,Shizuma Hanazono,,0,0,0,,Nagisa.
+Dialogue: 0,0:14:39.07,0:14:40.24,Shizuma Hanazono,,0,0,0,,Nagisa.
+Dialogue: 0,0:15:00.75,0:15:02.21,Shizuma Hanazono,,0,0,0,,Addio.
+Dialogue: 0,0:15:02.63,0:15:04.43,Shizuma Hanazono,,0,0,0,,Adesso dimentica
+Dialogue: 0,0:15:04.43,0:15:06.24,Shizuma Hanazono,,0,0,0,,tutto ciò che mi riguarda.
+Dialogue: 0,0:15:14.08,0:15:15.20,Chikaru Minamoto,,0,0,0,,Prenderai un malanno,
+Dialogue: 0,0:15:15.20,0:15:16.16,Chikaru Minamoto,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:15:17.87,0:15:19.15,Nagisa Aoi,,0,0,0,,Chikaru-san.
+Dialogue: 0,0:15:20.10,0:15:21.41,Chikaru Minamoto,,0,0,0,,Fa freddo.
+Dialogue: 0,0:15:44.56,0:15:46.53,Tamao Suzumi,,0,0,0,,Mi dispiace, Nagisa-chan.
+Dialogue: 0,0:15:48.50,0:15:51.74,Tamao Suzumi,,0,0,0,,Non appena sarà mattina andrò da Rokujou-sama
+Dialogue: 0,0:15:51.74,0:15:53.97,Tamao Suzumi,,0,0,0,,e glielo dirò chiaramente.
+Dialogue: 0,0:16:01.77,0:16:05.00,Chikaru Minamoto,,0,0,0,,Ha pianto fino ad addormentarsi, eh?
+Dialogue: 0,0:16:05.40,0:16:08.28,Chikaru Minamoto,,0,0,0,,Dev'essere successo qualcosa di brutto.
+Dialogue: 0,0:16:08.28,0:16:11.92,Chikaru Minamoto,,0,0,0,,Spero che torni velocemente ad essere la solita Nagisa-chan.
+Dialogue: 0,0:16:11.92,0:16:12.94,Chikaru Minamoto,,0,0,0,,Sì.
+Dialogue: 0,0:16:41.25,0:16:42.36,Tamao Suzumi,,0,0,0,,È mattina.
+Dialogue: 0,0:16:42.81,0:16:44.16,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:16:50.56,0:16:52.00,Tamao Suzumi,,0,0,0,,Nagisa-chan!
+Dialogue: 0,0:16:52.00,0:16:53.67,Tamao Suzumi,,0,0,0,,Dove sei stata?
+Dialogue: 0,0:16:53.67,0:16:56.86,Tamao Suzumi,,0,0,0,,Ero preoccupatissima.
+Dialogue: 0,0:16:56.86,0:16:59.00,Nagisa Aoi,,0,0,0,,Scusami, Tamao-chan.
+Dialogue: 0,0:16:59.00,0:17:00.82,Nagisa Aoi,,0,0,0,,Sono successe tante cose.
+Dialogue: 0,0:17:01.36,0:17:04.04,Nagisa Aoi,,0,0,0,,Sono stata con Chikaru-san fino al mattino.
+Dialogue: 0,0:17:05.24,0:17:08.33,Chikaru Minamoto,,0,0,0,,Ci vediamo Nagisa-chan, noi ora andiamo!
+Dialogue: 0,0:17:08.33,0:17:09.64,Nagisa Aoi,,0,0,0,,Grazie.
+Dialogue: 0,0:17:09.64,0:17:11.26,Chikaru Minamoto,,0,0,0,,Prego.
+Dialogue: 0,0:17:11.26,0:17:13.15,Nagisa Aoi,,0,0,0,,Spero di giocare ancora con voi.
+Dialogue: 0,0:17:13.15,0:17:14.90,Chikaru Minamoto,,0,0,0,,Ma certamente!
+Dialogue: 0,0:17:14.90,0:17:15.90,Chikaru Minamoto,,0,0,0,,Ciao ciao.
+Dialogue: 0,0:17:23.56,0:17:25.83,Tamao Suzumi,,0,0,0,,Scusami, Nagisa-chan.
+Dialogue: 0,0:17:26.30,0:17:28.80,Tamao Suzumi,,0,0,0,,È successo tutto per colpa mia.
+Dialogue: 0,0:17:28.80,0:17:29.96,Nagisa Aoi,,0,0,0,,Perché?
+Dialogue: 0,0:17:29.96,0:17:32.40,Nagisa Aoi,,0,0,0,,Tu non hai fatto nulla.
+Dialogue: 0,0:17:32.40,0:17:33.32,Tamao Suzumi,,0,0,0,,No,
+Dialogue: 0,0:17:33.32,0:17:36.97,Tamao Suzumi,,0,0,0,,adesso andrò da Rokujou-sama e rifiuterò la mia candidatura.
+Dialogue: 0,0:17:36.97,0:17:38.40,Nagisa Aoi,,0,0,0,,Ehi, Tamao-chan.
+Dialogue: 0,0:17:38.40,0:17:39.56,Tamao Suzumi,,0,0,0,,Dimmi.
+Dialogue: 0,0:17:41.21,0:17:42.64,Nagisa Aoi,,0,0,0,,Facciamolo.
+Dialogue: 0,0:17:44.90,0:17:46.40,Nagisa Aoi,,0,0,0,,L'elezione dell'Étoile.
+Dialogue: 0,0:17:47.20,0:17:48.85,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:17:49.38,0:17:51.35,Nagisa Aoi,,0,0,0,,Come rappresentanti di Miator.
+Dialogue: 0,0:17:52.62,0:17:53.80,Tamao Suzumi,,0,0,0,,Ma...
+Dialogue: 0,0:17:53.80,0:17:55.10,Nagisa Aoi,,0,0,0,,Sai,
+Dialogue: 0,0:17:55.82,0:17:58.55,Nagisa Aoi,,0,0,0,,Ci ho riflettuto dopo aver pianto.
+Dialogue: 0,0:17:58.55,0:18:02.61,Nagisa Aoi,,0,0,0,,Penso che sarò in grado di dimenticare Étoile-sama.
+Dialogue: 0,0:18:03.67,0:18:07.83,Nagisa Aoi,,0,0,0,,Non voglio rimanere bloccata in queste circostanze.
+Dialogue: 0,0:18:07.83,0:18:11.46,Nagisa Aoi,,0,0,0,,Continuare a ripensare al passato non va bene.
+Dialogue: 0,0:18:11.46,0:18:13.77,Nagisa Aoi,,0,0,0,,Devo muovermi da sola.
+Dialogue: 0,0:18:13.77,0:18:17.08,Nagisa Aoi,,0,0,0,,Solo così il mondo inizierà a cambiare.
+Dialogue: 0,0:18:22.72,0:18:24.13,Nagisa Aoi,,0,0,0,,Tamao-chan.
+Dialogue: 0,0:18:33.81,0:18:34.95,Nagisa Aoi,,0,0,0,,Quindi...
+Dialogue: 0,0:18:34.95,0:18:36.94,Nagisa Aoi,,0,0,0,,verrai con me?
+Dialogue: 0,0:18:38.92,0:18:39.92,Tamao Suzumi,,0,0,0,,Sì.
+Dialogue: 0,0:18:48.75,0:18:49.80,Shizuma Hanazono,,0,0,0,,Capisco.
+Dialogue: 0,0:18:49.80,0:18:51.07,Shizuma Hanazono,,0,0,0,,Quindi, loro due...
+Dialogue: 0,0:18:51.85,0:18:54.48,Miyuki Rokujou,,0,0,0,,Sì, mi hanno appena informata.
+Dialogue: 0,0:18:55.28,0:18:57.63,Shizuma Hanazono,,0,0,0,,A quanto pare hai vinto la scommessa.
+Dialogue: 0,0:18:59.65,0:19:01.44,Miyuki Rokujou,,0,0,0,,È merito tuo.
+Dialogue: 0,0:19:01.44,0:19:05.48,Miyuki Rokujou,,0,0,0,,Ora possiamo diplomarci senza il disonore di non aver proposto delle candidate.
+Dialogue: 0,0:19:07.83,0:19:10.04,Miyuki Rokujou,,0,0,0,,Ora le cose si faranno impegnative.
+Dialogue: 0,0:19:10.04,0:19:14.39,Miyuki Rokujou,,0,0,0,,Dobbiamo fare l'annuncio ufficiale a tutte le scuole.
+Dialogue: 0,0:19:14.39,0:19:16.22,Miyuki Rokujou,,0,0,0,,Con permesso.
+Dialogue: 0,0:19:49.42,0:19:50.28,Miyuki Rokujou,,0,0,0,,Shizuma!
+Dialogue: 0,0:19:50.28,0:19:51.62,Miyuki Rokujou,,0,0,0,,Che succede, Shizuma?!
+Dialogue: 0,0:19:55.67,0:19:58.12,Miyuki Rokujou,,0,0,0,,Shizuma, Shizuma!
+Dialogue: 0,0:19:58.12,0:19:59.12,Miyuki Rokujou,,0,0,0,,Che succede?
+Dialogue: 0,0:19:59.12,0:19:59.92,Miyuki Rokujou,,0,0,0,,Apri!
+Dialogue: 0,0:19:59.92,0:20:01.18,Miyuki Rokujou,,0,0,0,,Shizuma!
+Dialogue: 0,0:20:01.18,0:20:02.40,Miyuki - Secondo piano,,0,0,0,,Shizuma!
+Dialogue: 0,0:20:02.40,0:20:03.39,Miyuki - Secondo piano,,0,0,0,,Ehi,
+Dialogue: 0,0:20:03.39,0:20:04.69,Miyuki - Secondo piano,,0,0,0,,che succede?
+Dialogue: 0,0:20:04.69,0:20:06.61,Miyuki - Secondo piano,,0,0,0,,Cosa sta succedendo?!
+Dialogue: 0,0:20:06.61,0:20:07.60,Miyuki - Secondo piano,,0,0,0,,Shizuma!
+Dialogue: 0,0:20:07.60,0:20:08.92,Miyuki - Secondo piano,,0,0,0,,Aprimi!
+Dialogue: 0,0:20:08.92,0:20:09.61,Miyuki - Secondo piano,,0,0,0,,Shizuma!
+Dialogue: 0,0:20:09.98,0:20:11.38,Miyuki - Secondo piano,,0,0,0,,Shizuma!
+Dialogue: 0,0:20:11.38,0:20:13.17,Miyuki - Secondo piano,,0,0,0,,Ehi, Shizuma!
+Dialogue: 0,0:20:14.23,0:20:15.96,Shizuma Hanazono,,0,0,0,,Non è niente.
+Dialogue: 0,0:20:16.45,0:20:17.96,Miyuki Rokujou,,0,0,0,,Shizuma?
+Dialogue: 0,0:20:18.51,0:20:20.01,Shizuma Hanazono,,0,0,0,,Quindi vattene.
+Dialogue: 0,0:20:21.93,0:20:23.46,Shizuma Hanazono,,0,0,0,,Vattene.
+Dialogue: 0,0:21:20.29,0:21:21.50,Amane Ootori,,0,0,0,,Hikari,
+Dialogue: 0,0:21:21.50,0:21:24.39,Amane Ootori,,0,0,0,,finalmente posso confessarti i miei sentimenti,
+Dialogue: 0,0:21:24.39,0:21:26.52,Amane Ootori,,0,0,0,,nel luogo in cui ci siamo incontrate.
+Dialogue: 0,0:21:32.79,0:21:34.44,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:21:38.37,0:21:39.54,Amane Ootori,,0,0,0,,Hikari.
+Dialogue: 0,0:21:43.53,0:21:46.16,Amane Ootori,,0,0,0,,Lei è la persona più importante al mondo.
+Dialogue: 0,0:21:46.16,0:21:47.84,Amane Ootori,,0,0,0,,Ora non ho più paura.
+Dialogue: 0,0:21:47.84,0:21:50.86,Amane Ootori,,0,0,0,,D'ora in poi staremo sempre insieme.
+Dialogue: 0,0:21:51.42,0:21:53.48,Hikari Konohana,,0,0,0,,Amane-senpai!
+Dialogue: 0,0:21:53.48,0:21:55.01,Amane Ootori,,0,0,0,,Hikari!
+Dialogue: 0,0:22:19.80,0:22:21.18,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:22:21.18,0:22:22.42,Hikari Konohana,,0,0,0,,Amane-senpai!
+Dialogue: 0,0:22:22.50,0:22:24.92,Hikari Konohana,,0,0,0,,Amane-senpai!
+Comment: 0,0:22:33.08,0:22:36.50,Default,,0,0,0,karaoke,{\k31}So{\k23}ba {\k25}ni {\k37}ta{\k51}tta {\k45}wa{\k22}ta{\k34}shi {\k74}ni
+Dialogue: 0,0:22:33.08,0:22:36.50,Lyrics traduzione,,0,0,0,karaoke,Eri così vicina a me
+Comment: 0,0:22:36.94,0:22:39.62,Default,,0,0,0,karaoke,{\k25}Ki{\k29}zu {\k20}ka{\k42}na{\k31}i {\k24}ho{\k97}do
+Dialogue: 0,0:22:36.94,0:22:39.62,Lyrics traduzione,,0,0,0,karaoke,ma non riuscivo a farmi notare.
+Comment: 0,0:22:40.80,0:22:44.18,Default,,0,0,0,karaoke,{\k27}Kyo{\k24}u{\k23}mi{\k34}bu{\k39}ka{\k22}i {\k39}ho{\k34}n {\k24}na {\k72}no?
+Dialogue: 0,0:22:40.80,0:22:44.18,Lyrics traduzione,,0,0,0,karaoke,È un libro interessante?
+Comment: 0,0:22:44.66,0:22:47.05,Default,,0,0,0,karaoke,{\k19}No{\k28}zo{\k25}i{\k37}te {\k35}mi{\k25}ta{\k70}i
+Dialogue: 0,0:22:44.66,0:22:47.05,Lyrics traduzione,,0,0,0,karaoke,Vorrei darci un'occhiata.
+Comment: 0,0:22:48.50,0:22:51.86,Default,,0,0,0,karaoke,{\k23}Te {\k26}ga {\k23}to{\k38}ma{\k58}ri {\k28}ya{\k35}sa{\k32}shi{\k73}ku
+Dialogue: 0,0:22:48.50,0:22:51.86,Lyrics traduzione,,0,0,0,karaoke,La mia mano si ferma dolcemente.
+Comment: 0,0:22:52.34,0:22:54.90,Default,,0,0,0,karaoke,{\k23}yo{\k24}n{\k25}de {\k37}ku{\k35}re{\k24}ta{\k88}wa
+Dialogue: 0,0:22:52.34,0:22:54.90,Lyrics traduzione,,0,0,0,karaoke,Te lo leggerò.
+Comment: 0,0:22:56.18,0:22:59.53,Default,,0,0,0,karaoke,{\k24}Mi{\k24}ra{\k23}i {\k47}wa {\k49}ka{\k38}wa{\k34}ru {\k27}ka{\k69}ra
+Dialogue: 0,0:22:56.18,0:22:59.53,Lyrics traduzione,,0,0,0,karaoke,Cambierò il futuro
+Comment: 0,0:23:00.02,0:23:02.93,Default,,0,0,0,karaoke,{\k25}mu{\k12}ka{\k34}shi {\k38}he {\k36}yu{\k21}ko{\k125}u
+Dialogue: 0,0:23:00.02,0:23:02.93,Lyrics traduzione,,0,0,0,karaoke,in modo da rivivere il passato.
+Comment: 0,0:23:03.86,0:23:07.53,Default,,0,0,0,karaoke,{\k23}Ka{\k26}wa {\k24}no {\k40}ho{\k84}n, {\k20}a{\k23}no {\k25}ko{\k29}ro {\k73}no
+Dialogue: 0,0:23:03.86,0:23:07.53,Lyrics traduzione,,0,0,0,karaoke,Dentro alla pelle della copertina di quel libro,
+Comment: 0,0:23:07.70,0:23:11.32,Default,,0,0,0,karaoke,{\k20}a{\k31}ma{\k18}i {\k23}e{\k10}pi{\k42}so{\k26}de {\k48}mi{\k46}e{\k50}ta {\k48}no
+Dialogue: 0,0:23:07.70,0:23:11.32,Lyrics traduzione,,0,0,0,karaoke,potevo intravedere un dolce episodio del passato.
+Comment: 0,0:23:11.53,0:23:15.06,Default,,0,0,0,karaoke,{\k28}Ma{\k23}do{\k17}i {\k29}tsu{\k96}tsu, {\k24}o{\k23}bi{\k23}e {\k36}tsu{\k54}tsu
+Dialogue: 0,0:23:11.53,0:23:15.06,Lyrics traduzione,,0,0,0,karaoke,Nonostante i miei dubbi, nonostante le mie paure
+Comment: 0,0:23:15.16,0:23:18.14,Default,,0,0,0,karaoke,{\k47}fu{\k25}re {\k46}a-{\k24}a{\k25}tta {\k131}ne
+Dialogue: 0,0:23:15.16,0:23:18.14,Lyrics traduzione,,0,0,0,karaoke,entrai in contatto con te.
+Comment: 0,0:23:18.22,0:23:22.51,Default,,0,0,0,karaoke,{\k30}Shi{\k20}a{\k16}wa{\k58}se {\k24}da{\k76}to {\k24}i-{\k24}i{\k47}tte {\k25}mi{\k89}te?
+Dialogue: 0,0:23:18.22,0:23:22.51,Lyrics traduzione,,0,0,0,karaoke,Non eri tu a dirmi di essere felice?
+Comment: 0,0:23:22.79,0:23:25.70,Default,,0,0,0,karaoke,{\k49}Wa{\k26}ra{\k48}u {\k25}a{\k23}na{\k120}ta
+Dialogue: 0,0:23:22.79,0:23:25.70,Lyrics traduzione,,0,0,0,karaoke,Lo dicevi sorridendo.
+Comment: 0,0:23:25.92,0:23:30.41,Default,,0,0,0,karaoke,{\k20}Ha{\k30}zu{\k11}ka{\k63}shi{\k22}ku{\k95}te {\k24}ni{\k24}ge{\k15}da{\k34}shi{\k123}ta
+Dialogue: 0,0:23:25.92,0:23:30.41,Lyrics traduzione,,0,0,0,karaoke,Che imbarazzo, scappai via.
+Comment: 0,0:23:30.68,0:23:33.63,Default,,0,0,0,karaoke,{\k30}tsu{\k24}ka{\k23}ma{\k41}e {\k30}ni {\k25}ki{\k122}te
+Dialogue: 0,0:23:30.68,0:23:33.63,Lyrics traduzione,,0,0,0,karaoke,Vieni a prendermi.
+Comment: 0,0:23:34.32,0:23:37.82,Default,,0,0,0,karaoke,{\k32}Ho{\k16}n{\k26}tou {\k69}wa {\k27}na{\k25}ni {\k48}mo {\k23}ka {\k84}mo
+Dialogue: 0,0:23:34.32,0:23:37.82,Lyrics traduzione,,0,0,0,karaoke,Ti rendi davvero conto di tutto,
+Comment: 0,0:23:38.10,0:23:41.16,Default,,0,0,0,karaoke,{\k57}shi{\k24}tte{\k48}ru {\k14}ku{\k35}se {\k128}ni
+Dialogue: 0,0:23:38.10,0:23:41.16,Lyrics traduzione,,0,0,0,karaoke,ma nonostante ciò
+Comment: 0,0:23:41.31,0:23:45.73,Default,,0,0,0,karaoke,{\k21}Wa{\k12}ta{\k40}shi {\k45}no {\k27}ko{\k95}to {\k19}i{\k29}ji{\k23}me{\k23}te{\k108}ru
+Dialogue: 0,0:23:41.31,0:23:45.73,Lyrics traduzione,,0,0,0,karaoke,continui a provocarmi.
+Comment: 0,0:23:46.08,0:23:50.43,Default,,0,0,0,karaoke,{\k24}A{\k26}i {\k24}no {\k32}ba{\k66}tsu {\k44}u{\k47}ke{\k30}ta{\k19}i {\k24}no? {\k99}Kiss
+Dialogue: 0,0:23:46.08,0:23:50.43,Lyrics traduzione,,0,0,0,karaoke,Sarò punita per il mio amore? *Bacio*.
+Dialogue: 0,0:23:55.10,0:23:59.90,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
+Dialogue: 0,0:23:56.13,0:24:00.87,Nagisa Aoi,,0,0,0,,Se dovessimo viaggiare a bordo di una barca, cosa ci converrebbe portare con noi?
+Dialogue: 0,0:24:00.87,0:24:03.97,Nagisa Aoi,,0,0,0,,Del cibo? Forse dei dolci? Della frutta?
+Dialogue: 0,0:24:03.55,0:24:05.44,Tamao Suzumi,,0,0,0,,Tu pensi soltanto al cibo.
+Dialogue: 0,0:24:06.31,0:24:09.13,Nagisa Aoi,,0,0,0,,A parte il cibo, cosa pensi sia davvero necessario?
+Dialogue: 0,0:24:09.13,0:24:10.99,Tamao Suzumi,,0,0,0,,Io porterei una lampada.
+Dialogue: 0,0:24:11.32,0:24:15.90,Tamao Suzumi,,0,0,0,,Trascorrerei il buio della notte a parlarti, con la lampada che ci illumina.
+Dialogue: 0,0:24:15.90,0:24:17.66,Nagisa Aoi,,0,0,0,,Che bello!
+Dialogue: 0,0:24:17.66,0:24:19.56,Nagisa Aoi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:17.66,0:24:19.56,Tamao Suzumi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:19.56,0:24:20.89,Nagisa Aoi,,0,0,0,,Il cerchio del destino
+Dialogue: 0,0:24:19.56,0:24:20.89,Tamao Suzumi,,0,0,0,,Il cerchio del destino
+Dialogue: 0,0:24:20.89,0:24:24.24,Nagisa Aoi,,0,0,0,,Però non raccontarmi delle storie spaventose.
