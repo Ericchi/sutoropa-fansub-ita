@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第24話 「運命の輪」 (DVD 1280x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 113
-Active Line: 125
-Video Position: 112
+Video Zoom Percent: 0.875000
+Scroll Position: 246
+Active Line: 254
+Video Position: 13942
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -171,48 +171,177 @@ Comment: 0,0:00:00.00,0:00:00.00,Canti,,0,0,0,template syl noblank,!retime("syl"
 Comment: 0,0:00:00.00,0:00:00.00,Canti,,0,0,0,template noblank char,!retime("syl2end",0,$lright)!{\pos($scenter,$smiddle)\\bord1\blur2\an5\t(!line.duration-$lright-1000+$scenter+(j-1)*8!,!line.duration-$lright-950+$scenter+(j-1)*8!,0.5,\fsc80\bord1.3\blur2\3c&ffffff&)\t(!line.duration-$lright-950+$scenter+(j-1)*8!,!line.duration-$lright-600+$scenter+(j-1)*8!,0.5,\fsc120\alpha&ff&\bord1\blur0)}
 Comment: 0,0:00:16.98,0:00:16.98,Canti,,0,0,0,template noblank char,!retime("start2syl",-1200,0)!{\pos($scenter,$smiddle)\an5\1c&ffffff&\alpha&ff&\fsc120\bord0\blur8\be8\frs2\t(!(dem4(1)-1)*50!,!(dem4(1)+7)*50!,0.75,\alpha&HAF\blur0\be0\frs0\fsc100)}
 Comment: 1,0:00:00.00,0:00:00.00,Canti,,0,0,0,template noblank notext,!retime("syl",-200,500)!{\fscx20\fscy30\c&HFFFFFF&\3c&HFFFFFF&\fad(0,200)\bord2\blur3\an5\frz!math.random(-40,45)!\move(!$scenter+math.random(-20,20)!,!$smiddle+math.random(-50,-30)!,!$scenter+math.random(-70,70)!,!$smiddle+math.random(30,50)!)\t(0,3000,\frz!math.random(-200,200)!)\t(0,100,\bord0.5\blur4\3c&HFFFFFF&)\p1}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
-Comment: 0,0:00:12.17,0:00:14.11,Default,,0,0,0,karaoke,{\k54}Yu{\k124}me?
+Dialogue: 0,0:00:12.17,0:00:14.11,Default,,0,0,0,karaoke,{\k54}Yu{\k124}me?
 Dialogue: 0,0:00:12.17,0:00:14.11,Lyrics traduzione,,0,0,0,,Sogno?
-Comment: 0,0:00:13.95,0:00:15.20,Default Chorus,,0,0,0,karaoke,{\k42}day{\k83}dream
+Dialogue: 0,0:00:13.95,0:00:15.20,Default Chorus,,0,0,0,karaoke,{\k42}day{\k83}dream
 Dialogue: 0,0:00:13.95,0:00:15.20,Lyrics traduzione cori,,0,0,0,,(fantasticando)
-Comment: 0,0:00:14.99,0:00:17.26,Default,,0,0,0,karaoke,{\k21}Ta{\k21}da {\k17}no {\k44}yu{\k105}me
+Dialogue: 0,0:00:14.99,0:00:17.26,Default,,0,0,0,karaoke,{\k21}Ta{\k21}da {\k17}no {\k44}yu{\k105}me
 Dialogue: 0,0:00:14.99,0:00:17.26,Lyrics traduzione,,0,0,0,,È solo un sogno
-Comment: 0,0:00:17.06,0:00:18.49,Default Chorus,,0,0,0,karaoke,{\k49}sweet {\k93}dream
+Dialogue: 0,0:00:17.06,0:00:18.49,Default Chorus,,0,0,0,karaoke,{\k49}sweet {\k93}dream
 Dialogue: 0,0:00:17.06,0:00:18.49,Lyrics traduzione cori,,0,0,0,,(dolce sogno)
-Comment: 0,0:00:18.26,0:00:20.70,Default,,0,0,0,karaoke,{\k26}Na {\k18}no {\k20}ni {\k42}mu{\k138}ne
+Dialogue: 0,0:00:18.26,0:00:20.70,Default,,0,0,0,karaoke,{\k26}Na {\k18}no {\k20}ni {\k42}mu{\k138}ne
 Dialogue: 0,0:00:18.26,0:00:20.70,Lyrics traduzione,,0,0,0,,ma il mio cuore
-Comment: 0,0:00:20.51,0:00:21.78,Default Chorus,,0,0,0,karaoke,{\k48}zu{\k79}tto
+Dialogue: 0,0:00:20.51,0:00:21.78,Default Chorus,,0,0,0,karaoke,{\k48}zu{\k79}tto
 Dialogue: 0,0:00:20.51,0:00:21.78,Lyrics traduzione cori,,0,0,0,,(sempre)
-Comment: 0,0:00:21.59,0:00:24.00,Default,,0,0,0,karaoke,{\k24}Fu{\k21}ru{\k20}e{\k36}te{\k140}ru
+Dialogue: 0,0:00:21.59,0:00:24.00,Default,,0,0,0,karaoke,{\k24}Fu{\k21}ru{\k20}e{\k36}te{\k140}ru
 Dialogue: 0,0:00:21.59,0:00:24.00,Lyrics traduzione,,0,0,0,,è agitato.
-Comment: 0,0:00:23.86,0:00:25.08,Default Chorus,,0,0,0,karaoke,{\k45}zu{\k77}tto
+Dialogue: 0,0:00:23.86,0:00:25.08,Default Chorus,,0,0,0,karaoke,{\k45}zu{\k77}tto
 Dialogue: 0,0:00:23.86,0:00:25.08,Lyrics traduzione cori,,0,0,0,,(sempre)
-Comment: 0,0:00:24.48,0:00:27.35,Default,,0,0,0,karaoke,{\k44}Ko{\k39}i {\k15}wo {\k50}shi{\k139}tte
+Dialogue: 0,0:00:24.48,0:00:27.35,Default,,0,0,0,karaoke,{\k44}Ko{\k39}i {\k15}wo {\k50}shi{\k139}tte
 Dialogue: 0,0:00:24.48,0:00:27.35,Lyrics traduzione,,0,0,0,,Riconosco l'amore.
-Comment: 0,0:00:27.16,0:00:28.74,Default Chorus,,0,0,0,karaoke,{\k45}mis{\k113}sing
+Dialogue: 0,0:00:27.16,0:00:28.74,Default Chorus,,0,0,0,karaoke,{\k45}mis{\k113}sing
 Dialogue: 0,0:00:27.16,0:00:28.74,Lyrics traduzione cori,,0,0,0,,(mancante)
-Comment: 0,0:00:28.19,0:00:30.75,Default,,0,0,0,karaoke,{\k24}Ku{\k21}chi{\k22}bi{\k42}ru {\k147}ga
+Dialogue: 0,0:00:28.19,0:00:30.75,Default,,0,0,0,karaoke,{\k24}Ku{\k21}chi{\k22}bi{\k42}ru {\k147}ga
 Dialogue: 0,0:00:28.19,0:00:30.75,Lyrics traduzione,,0,0,0,,Queste labbra,
-Comment: 0,0:00:30.51,0:00:31.96,Default Chorus,,0,0,0,karaoke,{\k42}wish{\k103}ing
+Dialogue: 0,0:00:30.51,0:00:31.96,Default Chorus,,0,0,0,karaoke,{\k42}wish{\k103}ing
 Dialogue: 0,0:00:30.51,0:00:31.96,Lyrics traduzione cori,,0,0,0,,(desiderose)
-Comment: 0,0:00:31.44,0:00:33.46,Default,,0,0,0,karaoke,{\k30}Se{\k22}tsu{\k14}na{\k43}sa {\k93}ni
+Dialogue: 0,0:00:31.44,0:00:33.46,Default,,0,0,0,karaoke,{\k30}Se{\k22}tsu{\k14}na{\k43}sa {\k93}ni
 Dialogue: 0,0:00:31.44,0:00:33.46,Lyrics traduzione,,0,0,0,,mentre io soffro,
-Comment: 0,0:00:33.80,0:00:38.67,Default,,0,0,0,karaoke,{\k42}A{\k22}na{\k42}ta {\k41}da{\k63}ke {\k20}wo {\k41}yo{\k42}n{\k174}da
+Dialogue: 0,0:00:33.80,0:00:38.67,Default,,0,0,0,karaoke,{\k42}A{\k22}na{\k42}ta {\k41}da{\k63}ke {\k20}wo {\k41}yo{\k42}n{\k174}da
 Dialogue: 0,0:00:33.80,0:00:38.67,Lyrics traduzione,,0,0,0,,desiderano soltanto te.
-Comment: 0,0:00:38.67,0:00:43.32,Default,,0,0,0,karaoke,{\k40}Wai{\k29}tin' {\k16}for {\k70}you {\k8}wa{\k6}ta{\k39}shi {\k30}no {\k12}o{\k31}mo{\k41}i {\k9}ni {\k44}ha{\k28}ya{\k62}ku
+Dialogue: 0,0:00:38.67,0:00:43.32,Default,,0,0,0,karaoke,{\k40}Wai{\k29}tin' {\k16}for {\k70}you {\k8}wa{\k6}ta{\k39}shi {\k30}no {\k12}o{\k31}mo{\k41}i {\k9}ni {\k44}ha{\k28}ya{\k62}ku
 Dialogue: 0,0:00:38.67,0:00:43.33,Lyrics traduzione,,0,0,0,,Aspettando te, corro attraverso i miei pensieri.
-Comment: 0,0:00:45.18,0:00:53.26,Default,,0,0,0,karaoke,{\k9}To{\k13}i{\k28}ki {\k28}no {\k17}ha{\k71}ne {\k8}to{\k7}ba{\k37}shi{\k31}te {\k18}da{\k25}ki{\k38}shi{\k22}me {\k64}ni {\k59}ki{\k41}te {\k64}ku{\k51}da{\k33}sa{\k144}i
+Dialogue: 0,0:00:45.18,0:00:53.26,Default,,0,0,0,karaoke,{\k9}To{\k13}i{\k28}ki {\k28}no {\k17}ha{\k71}ne {\k8}to{\k7}ba{\k37}shi{\k31}te {\k18}da{\k25}ki{\k38}shi{\k22}me {\k64}ni {\k59}ki{\k41}te {\k64}ku{\k51}da{\k33}sa{\k144}i
 Dialogue: 0,0:00:45.18,0:00:53.25,Lyrics traduzione,,0,0,0,,Per favore, vola da me e avvolgimi con le tue ali.
-Comment: 0,0:00:53.66,0:00:56.90,Default,,0,0,0,karaoke,{\k36}Da{\k26}i{\k29}ta{\k23}n {\k31}na {\k22}ko{\k52}ku{\k30}ha{\k75}ku
+Dialogue: 0,0:00:53.66,0:00:56.90,Default,,0,0,0,karaoke,{\k36}Da{\k26}i{\k29}ta{\k23}n {\k31}na {\k22}ko{\k52}ku{\k30}ha{\k75}ku
 Dialogue: 0,0:00:53.66,0:01:00.25,Lyrics traduzione,,0,0,0,,Il mio cuore desidera una coraggiosa dichiarazione.
-Comment: 0,0:00:56.98,0:01:00.25,Default,,0,0,0,karaoke,{\k31}Ko{\k33}ko{\k22}ro {\k28}ga {\k27}no{\k27}zo{\k60}n{\k17}de{\k82}ru
-Comment: 0,0:01:00.25,0:01:06.90,Default,,0,0,0,karaoke,{\k37}A{\k29}na{\k22}ta {\k78}wo {\k41}mi{\k24}tsu{\k43}me{\k40}ru {\k43}me {\k21}ka{\k100}ra {\k23}hi{\k33}to{\k30}shi{\k41}zu{\k60}ku
+Dialogue: 0,0:00:56.98,0:01:00.25,Default,,0,0,0,karaoke,{\k31}Ko{\k33}ko{\k22}ro {\k28}ga {\k27}no{\k27}zo{\k60}n{\k17}de{\k82}ru
+Dialogue: 0,0:01:00.25,0:01:06.90,Default,,0,0,0,karaoke,{\k37}A{\k29}na{\k22}ta {\k78}wo {\k41}mi{\k24}tsu{\k43}me{\k40}ru {\k43}me {\k21}ka{\k100}ra {\k23}hi{\k33}to{\k30}shi{\k41}zu{\k60}ku
 Dialogue: 0,0:01:00.25,0:01:06.85,Lyrics traduzione,,0,0,0,,Mentre ti guardo negli occhi, piango una singola lacrima.
-Comment: 0,0:01:06.90,0:01:10.13,Default,,0,0,0,karaoke,{\k34}Ko{\k30}bo{\k19}re{\k31}ru {\k33}jo{\k17}u{\k62}ne{\k25}tsu {\k72}wa
+Dialogue: 0,0:01:06.90,0:01:10.13,Default,,0,0,0,karaoke,{\k34}Ko{\k30}bo{\k19}re{\k31}ru {\k33}jo{\k17}u{\k62}ne{\k25}tsu {\k72}wa
 Dialogue: 0,0:01:06.90,0:01:13.30,Lyrics traduzione,,0,0,0,,Per questa ardente passione, io do la colpa alle lacrime.
-Comment: 0,0:01:10.21,0:01:13.24,Default,,0,0,0,karaoke,{\k30}Na{\k30}mi{\k25}da {\k19}no {\k40}se{\k22}i {\k53}ni {\k31}shi{\k53}te
-Comment: 0,0:01:13.31,0:01:18.30,Default,,0,0,0,karaoke,{\k11}Chi{\k11}ka{\k35}i{\k17}ma{\k29}sho{\k85}u {\k41}fu{\k22}ta{\k40}ri {\k39}wa {\k25}na{\k20}n{\k17}do {\k101}mo{\k6}
+Dialogue: 0,0:01:10.21,0:01:13.24,Default,,0,0,0,karaoke,{\k30}Na{\k30}mi{\k25}da {\k19}no {\k40}se{\k22}i {\k53}ni {\k31}shi{\k53}te
+Dialogue: 0,0:01:13.31,0:01:18.30,Default,,0,0,0,karaoke,{\k11}Chi{\k11}ka{\k35}i{\k17}ma{\k29}sho{\k85}u {\k41}fu{\k22}ta{\k40}ri {\k39}wa {\k25}na{\k20}n{\k17}do {\k101}mo{\k6}
 Dialogue: 0,0:01:13.31,0:01:18.30,Lyrics traduzione,,0,0,0,,Facciamoci una promessa, incontriamoci di nuovo.
-Comment: 0,0:01:18.68,0:01:21.84,Default,,0,0,0,karaoke,{\k23}Me{\k17}gu{\k19}ri{\k21}a{\k26}u {\k25}no {\k165}dream
+Dialogue: 0,0:01:18.68,0:01:21.84,Default,,0,0,0,karaoke,{\k23}Me{\k17}gu{\k19}ri{\k21}a{\k26}u {\k25}no {\k165}dream
 Dialogue: 0,0:01:18.68,0:01:21.84,Lyrics traduzione,,0,0,0,,Staremo insieme in questo sogno.
 Dialogue: 0,0:00:04.64,0:00:11.98,Copyright Sutoropa,,0,0,0,,{\fad(1200,1200}Fansub: EricchiYukia
+Dialogue: 0,0:01:51.03,0:01:52.89,Miyuki Rokujou,,0,0,0,,Cercate di seguire il ritmo!
+Dialogue: 0,0:01:55.29,0:01:56.30,Nagisa Aoi,,0,0,0,,Scusa!
+Dialogue: 0,0:01:56.30,0:01:58.67,Tamao Suzumi,,0,0,0,,Non è nulla, va tutto bene?
+Dialogue: 0,0:01:58.67,0:02:02.64,Miyuki Rokujou,,0,0,0,,Saper danzare è fondamentale per le aspiranti Étoile.
+Dialogue: 0,0:02:02.64,0:02:04.08,Miyuki Rokujou,,0,0,0,,Ne siete consapevoli?
+Dialogue: 0,0:02:04.08,0:02:05.70,Nagisa Aoi,,0,0,0,,S-sì.
+Dialogue: 0,0:02:05.70,0:02:07.85,Miyuki Rokujou,,0,0,0,,Se lo siete, sbrigatevi a rialzarvi.
+Dialogue: 0,0:02:07.85,0:02:09.35,Miyuki Rokujou,,0,0,0,,Non abbiamo molto tempo.
+Dialogue: 0,0:02:09.35,0:02:10.56,Nagisa Aoi,,0,0,0,,Sì!
+Dialogue: 0,0:02:14.54,0:02:17.07,Miyuki Rokujou,,0,0,0,,Più veloci, siete in ritardo!
+Dialogue: 0,0:02:20.13,0:02:21.69,Miyuki Rokujou,,0,0,0,,Così non va.
+Dialogue: 0,0:02:21.69,0:02:24.56,Miyuki Rokujou,,0,0,0,,State sbagliando perché non siete sincronizzate.
+Dialogue: 0,0:02:25.39,0:02:26.74,Nagisa Aoi,,0,0,0,,L'elezione dell'Étoile.
+Dialogue: 0,0:02:26.74,0:02:29.17,Nagisa Aoi,,0,0,0,,Facciamo del nostro meglio, Tamao-chan.
+Dialogue: 0,0:02:32.89,0:02:34.32,Nagisa Aoi,,0,0,0,,Mi chiedo se
+Dialogue: 0,0:02:34.32,0:02:35.76,Nagisa Aoi,,0,0,0,,così vada bene.
+Dialogue: 0,0:02:52.20,0:02:57.20,Titolo episodio,,0,0,0,,Il cerchio del destino
+Dialogue: 0,0:02:58.08,0:02:59.35,Shizuma Hanazono,,0,0,0,,La loro coach?
+Dialogue: 0,0:02:59.35,0:03:01.07,Shizuma Hanazono,,0,0,0,,Vorresti che fossi io?
+Dialogue: 0,0:03:01.41,0:03:04.52,Miyuki Rokujou,,0,0,0,,Sì, non posso farcela da sola.
+Dialogue: 0,0:03:04.94,0:03:07.47,Miyuki Rokujou,,0,0,0,,Sarebbe bello se potessi darmi una mano.
+Dialogue: 0,0:03:08.25,0:03:10.63,Miyuki Rokujou,,0,0,0,,Soprattutto per Nagisa-san.
+Dialogue: 0,0:03:10.63,0:03:14.24,Miyuki Rokujou,,0,0,0,,Prepararla per l'elezione dell'Étoile è un compito arduo.
+Dialogue: 0,0:03:14.61,0:03:15.68,Miyuki Rokujou,,0,0,0,,Ad ogni modo,
+Dialogue: 0,0:03:15.68,0:03:17.82,Miyuki Rokujou,,0,0,0,,sembra ce la stiano mettendo tutta.
+Dialogue: 0,0:03:19.03,0:03:20.34,Miyuki Rokujou,,0,0,0,,Riflettici.
+Dialogue: 0,0:03:26.03,0:03:27.75,Shizuma Hanazono,,0,0,0,,Io una coach?
+Dialogue: 0,0:03:28.43,0:03:30.72,Shizuma Hanazono,,0,0,0,,Per aiutarla a diventare Étoile...
+Dialogue: 0,0:03:40.66,0:03:43.99,Nagisa Aoi,,0,0,0,,Domani mi faranno di sicuro male i piedi.
+Dialogue: 0,0:03:43.99,0:03:47.18,Nagisa Aoi,,0,0,0,,Soltanto parlandone sento già il dolore.
+Dialogue: 0,0:03:47.18,0:03:47.96,Nagisa Aoi,,0,0,0,,Che male...
+Dialogue: 0,0:03:47.96,0:03:51.11,Tamao Suzumi,,0,0,0,,Rokujou-sama è stata molto severa, non trovi?
+Dialogue: 0,0:03:51.11,0:03:53.26,Nagisa Aoi,,0,0,0,,È il demone di tutte le Étoile.
+Dialogue: 0,0:03:53.26,0:03:56.80,Nagisa Aoi,,0,0,0,,Non oso pensare che dovremo sgobbare in quel modo tutti i giorni.
+Dialogue: 0,0:03:57.95,0:04:01.41,Nagisa Aoi,,0,0,0,,Tutto questo perché vuole assolutamente delle candidate per Miator.
+Dialogue: 0,0:04:01.41,0:04:04.41,Tamao Suzumi,,0,0,0,,Non sono sicura che sia l'unica ragione.
+Dialogue: 0,0:04:05.88,0:04:08.84,Tamao Suzumi,,0,0,0,,Tra tutte, ha scelto proprio noi due.
+Dialogue: 0,0:04:09.55,0:04:10.96,Nagisa Aoi,,0,0,0,,Tamao-chan.
+Dialogue: 0,0:04:12.19,0:04:13.81,Chiyo Tsukidate,,0,0,0,,Nagisa-oneesama!
+Dialogue: 0,0:04:16.78,0:04:18.46,Kizuna Hyuuga,,0,0,0,,È proprio Nagisa-san!
+Dialogue: 0,0:04:18.46,0:04:20.29,Chiyo Tsukidate,,0,0,0,,Da dove arrivi?
+Dialogue: 0,0:04:20.29,0:04:22.15,Nagisa Aoi,,0,0,0,,Sai, Chiyo-chan.
+Dialogue: 0,0:04:22.15,0:04:25.56,Nagisa Aoi,,0,0,0,,Rokujou-sama ci sta costringendo ad un regime di-
+Dialogue: 0,0:04:26.79,0:04:27.81,Tamao Suzumi,,0,0,0,,Lascia perdere.
+Dialogue: 0,0:04:27.81,0:04:29.81,Tamao Suzumi,,0,0,0,,Rokujou-sama ce l'aveva detto, no?
+Dialogue: 0,0:04:30.16,0:04:35.17,Miyuki Rokujou,,0,0,0,,Finché non ne sarete in grado, è meglio che voi non ne parliate.
+Dialogue: 0,0:04:35.17,0:04:37.76,Miyuki Rokujou,,0,0,0,,Non dovete dirlo a nessuno.
+Dialogue: 0,0:04:38.16,0:04:40.04,Nagisa Aoi,,0,0,0,,Ah, è vero.
+Dialogue: 0,0:04:40.92,0:04:43.67,Chiyo Tsukidate,,0,0,0,,Che succede, Nagisa-oneesama?
+Dialogue: 0,0:04:43.67,0:04:46.32,Nagisa Aoi,,0,0,0,,P-proprio nulla.
+Dialogue: 0,0:04:46.32,0:04:47.92,Chiyo Tsukidate,,0,0,0,,Sicura?
+Dialogue: 0,0:04:47.92,0:04:48.59,Nagisa Aoi,,0,0,0,,Ma...
+Dialogue: 0,0:04:48.59,0:04:50.24,Nagisa Aoi,,0,0,0,,Che succede, Tsubomi-chan?
+Dialogue: 0,0:04:50.24,0:04:52.70,Nagisa Aoi,,0,0,0,,Come mai quella faccia?
+Dialogue: 0,0:04:52.70,0:04:58.45,Kizuna Hyuuga,,0,0,0,,È perché Hikari-san ed Amane-sama hanno posticipato il loro annuncio.
+Dialogue: 0,0:05:00.47,0:05:05.29,Remon Natsume,,0,0,0,,Non vedevi l'ora di ammirare Hikari-sama in ghingheri, vero, Tsubomi-chan?
+Dialogue: 0,0:05:05.29,0:05:07.02,Tsubomi Okuwaka,,0,0,0,,Non è vero.
+Dialogue: 0,0:05:07.02,0:05:09.29,Nagisa Aoi,,0,0,0,,Perché è stato posticipato?
+Dialogue: 0,0:05:09.29,0:05:10.31,Tsubomi Okuwaka,,0,0,0,,Non ne ho idea.
+Dialogue: 0,0:05:10.31,0:05:13.29,Tsubomi Okuwaka,,0,0,0,,Se davvero ti interessa, potresti informarti?
+Dialogue: 0,0:05:14.57,0:05:17.60,Tsubomi Okuwaka,,0,0,0,,Ascolterò volentieri la motivazione.
+Dialogue: 0,0:05:17.60,0:05:19.47,Remon Natsume,,0,0,0,,Non sei onesta con te stessa.
+Dialogue: 0,0:05:20.19,0:05:22.88,Kagome Byakudan,,0,0,0,,Percival è onesto.
+Dialogue: 0,0:05:44.65,0:05:46.75,Hikari Konohana,,0,0,0,,Amane-senpai!
+Dialogue: 0,0:05:51.60,0:05:53.48,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:05:59.70,0:06:02.33,Nagisa Aoi,,0,0,0,,Hikari-chan, Yaya-chan.
+Dialogue: 0,0:06:04.20,0:06:05.28,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:06:06.83,0:06:09.18,Nagisa Aoi,,0,0,0,,Tamao-chan, hai novità?
+Dialogue: 0,0:06:09.18,0:06:14.82,Tamao Suzumi,,0,0,0,,Ho saputo che Hikari-san e Yaya-san non sono più tornate al dormitorio Ichigo.
+Dialogue: 0,0:06:14.82,0:06:16.86,Nagisa Aoi,,0,0,0,,Non sono più tornate?
+Dialogue: 0,0:06:16.86,0:06:21.04,Tamao Suzumi,,0,0,0,,Sì, e a quanto pare nemmeno Amane-sama e la presidentessa Toumori.
+Dialogue: 0,0:06:22.03,0:06:25.22,Tamao Suzumi,,0,0,0,,Chissà se è successo qualcosa a Spica.
+Dialogue: 0,0:06:27.41,0:06:29.01,Nagisa Aoi,,0,0,0,,Tamao-chan, andiamo!
+Dialogue: 0,0:06:30.37,0:06:31.52,Tamao Suzumi,,0,0,0,,Nagisa-chan?
+Dialogue: 0,0:06:38.84,0:06:39.98,Yaya Nanto,,0,0,0,,Hikari.
+Dialogue: 0,0:06:40.21,0:06:41.63,Yaya Nanto,,0,0,0,,È tardi.
+Dialogue: 0,0:06:41.63,0:06:44.43,Yaya Nanto,,0,0,0,,Dovresti dormire un po'.
+Dialogue: 0,0:06:44.43,0:06:45.76,Hikari Konohana,,0,0,0,,Sto bene così.
+Dialogue: 0,0:06:45.76,0:06:48.97,Hikari Konohana,,0,0,0,,Starò qui finché Amane-senpai non si sveglierà.
+Dialogue: 0,0:06:48.97,0:06:50.48,Yaya Nanto,,0,0,0,,Hikari.
+Dialogue: 0,0:06:50.88,0:06:52.17,Hikari Konohana,,0,0,0,,Lasciami
+Dialogue: 0,0:06:52.17,0:06:53.58,Hikari Konohana,,0,0,0,,stare qui.
+Dialogue: 0,0:06:55.46,0:06:57.12,Yaya Nanto,,0,0,0,,Capisco i tuoi sentimenti,
+Dialogue: 0,0:06:57.12,0:06:59.36,Yaya Nanto,,0,0,0,,ma se Amane-sama aprirà i suoi occhi
+Dialogue: 0,0:06:59.36,0:07:03.33,Yaya Nanto,,0,0,0,,e tu nel frattempo sarai collassata, sarà tutto inutile, no?
+Dialogue: 0,0:07:23.34,0:07:24.83,Yaya Nanto,,0,0,0,,Hikari.
+Dialogue: 0,0:07:26.61,0:07:28.84,Yaya Nanto,,0,0,0,,La presidentessa si prenderà cura di lei.
+Dialogue: 0,0:07:28.84,0:07:30.96,Yaya Nanto,,0,0,0,,Torniamo qui domani mattina.
+Dialogue: 0,0:07:30.96,0:07:33.26,Shion Toumori,,0,0,0,,Per favore, ascolta Yaya-san.
+Dialogue: 0,0:07:42.97,0:07:44.66,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:07:59.24,0:08:01.30,Hikari Konohana,,0,0,0,,Amane-senpai.
+Dialogue: 0,0:08:03.72,0:08:05.90,Amane Ootori,,0,0,0,,Che cosa mi è successo?
+Dialogue: 0,0:08:07.66,0:08:09.15,Yaya Nanto,,0,0,0,,Non è grandioso, Hikari?
+Dialogue: 0,0:08:09.15,0:08:10.10,Hikari Konohana,,0,0,0,,Sì!
+Dialogue: 0,0:08:10.10,0:08:12.12,Shion Toumori,,0,0,0,,Come si sente, Amane-san?
+Dialogue: 0,0:08:12.78,0:08:13.86,Amane Ootori,,0,0,0,,Come mi sento?
+Dialogue: 0,0:08:14.43,0:08:15.96,Amane Ootori,,0,0,0,,Mi fa male la testa.
+Dialogue: 0,0:08:16.47,0:08:17.61,Amane Ootori,,0,0,0,,Ah, già.
+Dialogue: 0,0:08:17.90,0:08:19.87,Amane Ootori,,0,0,0,,Star Bright mi ha fatta cadere.
+Dialogue: 0,0:08:23.85,0:08:25.70,Shion Toumori,,0,0,0,,Anche le scimmie cadono dagli alberi.
+Dialogue: 0,0:08:25.70,0:08:28.24,Hikari Konohana,,0,0,0,,Amane-senpai non è una scimmia!
+Dialogue: 0,0:08:28.24,0:08:29.38,Yaya Nanto,,0,0,0,,Uh, che paura.
+Dialogue: 0,0:08:29.38,0:08:31.28,Hikari Konohana,,0,0,0,,Ma dai!
+Dialogue: 0,0:08:33.42,0:08:34.67,Hikari Konohana,,0,0,0,,Grazie al cielo.
+Dialogue: 0,0:08:34.67,0:08:39.13,Hikari Konohana,,0,0,0,,Non so cos'avrei fatto se non si fosse più rialzata.
+Dialogue: 0,0:08:40.77,0:08:43.70,Hikari Konohana,,0,0,0,,Scusami per averti fatta preoccupare.
+Dialogue: 0,0:08:45.52,0:08:47.54,Shion Toumori,,0,0,0,,Non sarebbe meglio riposare ancora un po'?
+Dialogue: 0,0:08:49.27,0:08:50.51,Amane Ootori,,0,0,0,,Sto bene.
+Dialogue: 0,0:08:50.51,0:08:52.75,Amane Ootori,,0,0,0,,Vi ho fatte preoccupare.
+Dialogue: 0,0:08:52.75,0:08:54.27,Shion Toumori,,0,0,0,,Meno male.
+Dialogue: 0,0:08:54.27,0:08:59.07,Shion Toumori,,0,0,0,,Quindi l'annuncio si farà domani, come previsto.
+Dialogue: 0,0:08:59.07,0:09:00.51,Amane Ootori,,0,0,0,,L'annuncio?
+Dialogue: 0,0:09:00.51,0:09:01.55,Shion Toumori,,0,0,0,,Sì.
+Dialogue: 0,0:09:02.12,0:09:03.68,Amane Ootori,,0,0,0,,Di cosa parla?
+Dialogue: 0,0:09:04.32,0:09:05.67,Shion Toumori,,0,0,0,,Ma come.
+Dialogue: 0,0:09:05.67,0:09:09.27,Shion Toumori,,0,0,0,,Parlo dell'annuncio della sua candidatura come Étoile.
+Dialogue: 0,0:09:09.27,0:09:11.27,Amane Ootori,,0,0,0,,L'elezione dell'Étoile?
+Dialogue: 0,0:09:11.27,0:09:12.48,Amane Ootori,,0,0,0,,La mia candidatura?
+Dialogue: 0,0:09:12.48,0:09:14.70,Amane Ootori,,0,0,0,,La smetta di scherzare.
+Dialogue: 0,0:09:17.04,0:09:19.52,Amane Ootori,,0,0,0,,Le ho già detto che non sono interessata.
+Dialogue: 0,0:09:21.53,0:09:24.15,Amane Ootori,,0,0,0,,E poi, non ho nemmeno una partner.
+Dialogue: 0,0:09:25.77,0:09:27.92,Shion Toumori,,0,0,0,,Amane-san, lei...
+Dialogue: 0,0:09:27.92,0:09:29.74,Amane Ootori,,0,0,0,,Scusate il disturbo.
+Dialogue: 0,0:09:32.48,0:09:33.81,Yaya Nanto,,0,0,0,,Hikari.
+Dialogue: 0,0:09:33.81,0:09:35.05,Hikari Konohana,,0,0,0,,Perché,
+Dialogue: 0,0:09:35.05,0:09:36.62,Hikari Konohana,,0,0,0,,Amane-senpai?
+Dialogue: 0,0:09:36.62,0:09:38.07,Yaya Nanto,,0,0,0,,Hikari.
+Dialogue: 0,0:09:40.03,0:09:41.48,Nagisa Aoi,,0,0,0,,Tamao-chan.
+Dialogue: 0,0:09:41.48,0:09:43.48,Nagisa Aoi,,0,0,0,,
