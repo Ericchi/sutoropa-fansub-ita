@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第22話 「決闘」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 557
-Active Line: 558
-Video Position: 38331
+Video Zoom Percent: 0.875000
+Scroll Position: 166
+Active Line: 171
+Video Position: 5771
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -326,7 +326,7 @@ Dialogue: 0,0:03:42.55,0:03:43.63,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:03:55.32,0:03:57.11,Shizuma Hanazono,,0,0,0,,Di questo passo,
 Dialogue: 0,0:03:57.11,0:03:59.56,Shizuma Hanazono,,0,0,0,,marcirà senza poterci fare nulla.
 Dialogue: 0,0:03:59.56,0:04:00.68,Nagisa Aoi,,0,0,0,,No,
-Dialogue: 0,0:04:00.68,0:04:03.59,Nagisa Aoi,,0,0,0,,sono sicura che sboccerà di nuovo meravigliosamente.
+Dialogue: 0,0:04:00.68,0:04:03.59,Nagisa Aoi,,0,0,0,,sono sicura che sboccerà di nuovo in modo meraviglioso.
 Dialogue: 0,0:04:05.69,0:04:07.01,Shizuma Hanazono,,0,0,0,,Speriamo.
 Dialogue: 0,0:04:09.18,0:04:12.72,Gente random,,0,0,0,,Chissà se Amane-sama parteciperà all'elezione dell'Étoile.
 Dialogue: 0,0:04:12.72,0:04:14.47,Sorellina A,,0,0,0,,Speriamo di sì.
