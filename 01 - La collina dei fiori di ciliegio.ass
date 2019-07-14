@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第01話 「櫻の丘」 (DVD 960x720 H.264 AAC).mp4
-Video File: ../../Anime/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第01話 「櫻の丘」 (DVD 960x720 H.264 AAC).mp4
+Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第01話 「櫻の丘」 (DVD 960x720 H.264 AAC).mp4
+Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第01話 「櫻の丘」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 227
-Active Line: 240
-Video Position: 21010
+Video Zoom Percent: 0.750000
+Scroll Position: 390
+Active Line: 402
+Video Position: 209
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -388,114 +388,115 @@ Dialogue: 0,0:15:10.62,0:15:12.04,Miyuki Rokujou,,0,0,0,,Grazie infinite.
 Dialogue: 0,0:15:15.06,0:15:15.95,Miyuki Rokujou,,0,0,0,,Andiamo.
 Dialogue: 0,0:15:19.53,0:15:21.37,Miyuki Rokujou,,0,0,0,,Certo che sei sfortunata.
 Dialogue: 0,0:15:23.17,0:15:25.75,Miyuki Rokujou,,0,0,0,,Essere ripresa dalla sorella nel tuo primo giorno.
-Dialogue: 0,0:15:26.20,0:15:28.66,Nagisa Aoi,,0,0,0,,G-già... e...
+Dialogue: 0,0:15:26.20,0:15:28.66,Nagisa Aoi,,0,0,0,,G-già, e...
 Dialogue: 0,0:15:29.28,0:15:32.21,Tamao Suzumi,,0,0,0,,Questa è Rokujou Miyuki-sama, del sesto anno.
 Dialogue: 0,0:15:32.46,0:15:34.78,Tamao Suzumi,,0,0,0,,È la presidentessa del consiglio studentesco di Miator.
 Dialogue: 0,0:15:35.37,0:15:36.33,Nagisa Aoi,,0,0,0,,Ecco...
 Dialogue: 0,0:15:38.08,0:15:39.64,Nagisa Aoi,,0,0,0,,Mi dispiace moltissimo.
 Dialogue: 0,0:15:41.28,0:15:43.37,Miyuki Rokujou,,0,0,0,,Aoi Nagisa-san, giusto?
-Dialogue: 0,0:15:43.85,0:15:45.88,Miyuki Rokujou,,0,0,0,,Per favore, fai attenzione la prossima volta.
-Dialogue: 0,0:15:47.08,0:15:48.24,Nagisa Aoi,,0,0,0,,Ma, ma.
-Dialogue: 0,0:15:48.51,0:15:51.22,Nagisa Aoi,,0,0,0,,Far venire la presidentessa del consiglio studentesco fin qui...
-Dialogue: 0,0:15:51.68,0:15:52.66,Miyuki Rokujou,,0,0,0,,Non preoccuparti.
-Dialogue: 0,0:15:52.82,0:15:54.35,Miyuki Rokujou,,0,0,0,,È il mio mestiere, dopotutto.
-Dialogue: 0,0:15:54.78,0:15:57.84,Miyuki Rokujou,,0,0,0,,Comunque, se sei così agitata con me,
-Dialogue: 0,0:15:58.02,0:15:59.92,Miyuki Rokujou,,0,0,0,,come sarai quando incontrerai l'Étoile?
-Dialogue: 0,0:16:00.46,0:16:03.58,Nagisa Aoi,,0,0,0,,Étoile? Cos'è?
-Dialogue: 0,0:16:03.58,0:16:04.91,Nagisa Aoi,,0,0,0,,È un'insegnante?
-Dialogue: 0,0:16:07.03,0:16:08.45,Tamao Suzumi,,0,0,0,,È una studentessa.
-Dialogue: 0,0:16:08.57,0:16:12.40,Tamao Suzumi,,0,0,0,,È la rappresentante di Miator, Spica e Lulim.
-Dialogue: 0,0:16:12.53,0:16:14.57,Nagisa Aoi,,0,0,0,,La rappresentante di tutte e tre le accademie?
-Dialogue: 0,0:16:15.33,0:16:17.33,Nagisa Aoi,,0,0,0,,Fa più paura della sorella?
-Dialogue: 0,0:16:21.65,0:16:23.26,Miyuki Rokujou,,0,0,0,,No, affatto.
-Dialogue: 0,0:16:23.53,0:16:27.40,Tamao Suzumi,,0,0,0,,È amata e rispettata da tutte, nelle tre accademie.
-Dialogue: 0,0:16:27.80,0:16:29.82,Miyuki Rokujou,,0,0,0,,O almeno, dalla maggior parte delle persone.
-Dialogue: 0,0:16:30.06,0:16:33.04,Miyuki Rokujou,,0,0,0,,È lei quella che vuole essere amata di più.
-Dialogue: 0,0:16:33.05,0:16:34.66,Miyuki Rokujou,,0,0,0,,Non ho alcun dubbio a riguardo.
-Dialogue: 0,0:16:37.44,0:16:39.84,Nagisa Aoi,,0,0,0,,Questa sembra essere una scuola incredibile.
-Dialogue: 0,0:16:40.04,0:16:41.85,Nagisa Aoi,,0,0,0,,Una sorella direttrice del dormitorio spaventosa,
-Dialogue: 0,0:16:41.84,0:16:43.38,Nagisa Aoi,,0,0,0,,la presidentessa del consiglio studentesco...
+Dialogue: 0,0:15:43.81,0:15:45.88,Miyuki Rokujou,,0,0,0,,Per favore, fai attenzione la prossima volta.
+Dialogue: 0,0:15:47.08,0:15:48.37,Nagisa Aoi,,0,0,0,,Ma, ma.
+Dialogue: 0,0:15:48.37,0:15:51.22,Nagisa Aoi,,0,0,0,,Far venire la presidentessa del consiglio studentesco fin qui...
+Dialogue: 0,0:15:51.60,0:15:52.76,Miyuki Rokujou,,0,0,0,,Non preoccuparti.
+Dialogue: 0,0:15:52.76,0:15:54.49,Miyuki Rokujou,,0,0,0,,È il mio mestiere, dopotutto.
+Dialogue: 0,0:15:54.73,0:15:57.99,Miyuki Rokujou,,0,0,0,,Comunque, se sei così agitata con me,
+Dialogue: 0,0:15:57.99,0:15:59.92,Miyuki Rokujou,,0,0,0,,come sarai quando incontrerai l'Étoile?
+Dialogue: 0,0:16:00.42,0:16:03.52,Nagisa Aoi,,0,0,0,,Che cos'è l'Étoile?
+Dialogue: 0,0:16:03.52,0:16:04.91,Nagisa Aoi,,0,0,0,,È un'insegnante?
+Dialogue: 0,0:16:06.99,0:16:08.54,Tamao Suzumi,,0,0,0,,È una studentessa.
+Dialogue: 0,0:16:08.54,0:16:12.40,Tamao Suzumi,,0,0,0,,È la rappresentante di Miator, Spica e Lulim.
+Dialogue: 0,0:16:12.40,0:16:14.79,Nagisa Aoi,,0,0,0,,La rappresentante di tutte e tre le accademie?
+Dialogue: 0,0:16:15.27,0:16:17.62,Nagisa Aoi,,0,0,0,,Fa più paura della sorella?
+Dialogue: 0,0:16:21.61,0:16:23.42,Miyuki Rokujou,,0,0,0,,No, affatto.
+Dialogue: 0,0:16:23.42,0:16:27.40,Tamao Suzumi,,0,0,0,,È amata e rispettata da tutte, nelle tre accademie.
+Dialogue: 0,0:16:27.80,0:16:30.00,Miyuki Rokujou,,0,0,0,,O almeno, dalla maggior parte delle persone.
+Dialogue: 0,0:16:30.00,0:16:33.04,Miyuki Rokujou,,0,0,0,,È lei quella che vuole essere amata di più.
+Dialogue: 0,0:16:33.05,0:16:34.72,Miyuki Rokujou,,0,0,0,,Non ho alcun dubbio a riguardo.
+Dialogue: 0,0:16:37.44,0:16:39.98,Nagisa Aoi,,0,0,0,,Questa sembra essere una scuola incredibile.
+Dialogue: 0,0:16:39.98,0:16:41.79,Nagisa Aoi,,0,0,0,,Una sorella direttrice del dormitorio spaventosa,
+Dialogue: 0,0:16:41.79,0:16:43.38,Nagisa Aoi,,0,0,0,,la presidentessa del consiglio studentesco...
 Dialogue: 0,0:16:43.37,0:16:47.35,Nagisa Aoi,,0,0,0,,E al di sopra del consiglio studentesco c'è Éto-qualcosa...
-Dialogue: 0,0:16:47.35,0:16:48.00,Tamao Suzumi,,0,0,0,,Nagisa-chan?
-Dialogue: 0,0:16:50.73,0:16:52.20,Tamao Suzumi,,0,0,0,,Andiamo alla sala da pranzo?
-Dialogue: 0,0:16:52.60,0:16:53.15,Nagisa Aoi,,0,0,0,,Va bene.
-Dialogue: 0,0:17:00.31,0:17:03.50,Kizuna Hyuuga,,0,0,0,,Ehi, ehi! Come pensate che sarà la nuova studentessa?
-Dialogue: 0,0:17:03.50,0:17:05.58,Remon Natsume,,0,0,0,,Magari sarà bellissima!
-Dialogue: 0,0:17:06.65,0:17:08.42,Kizuna Hyuuga,,0,0,0,,Spero che sia così!
-Dialogue: 0,0:17:09.92,0:17:11.72,Kagome Byakudan,,0,0,0,,Percival,
-Dialogue: 0,0:17:11.97,0:17:14.55,Kagome Byakudan,,0,0,0,,sai qualcosa della nuova studentessa?
-Dialogue: 0,0:17:17.13,0:17:18.40,Remon Natsume,,0,0,0,,Ah! Scusami!
-Dialogue: 0,0:17:19.40,0:17:21.53,Chikaru Minamoto,,0,0,0,,Non ti preoccupare, fai attenzione.
-Dialogue: 0,0:17:23.06,0:17:27.53,Gente random,,0,0,0,,Hai sentito della nuova studentessa appena arrivata, Tsukidate-sama?
-Dialogue: 0,0:17:27.77,0:17:31.53,Chiyo Tsukidate,,0,0,0,,Eh, no, volevo dire, sì, ah, ecco...
-Dialogue: 0,0:17:34.35,0:17:36.77,Gente random,,0,0,0,,Hai sentito della nuova studentessa?
-Dialogue: 0,0:17:37.73,0:17:41.20,Tsubomi Okuwaka,,0,0,0,,Non mi interessa la nuova studentessa di Miator.
-Dialogue: 0,0:17:43.66,0:17:48.06,Yaya Nanto,,0,0,0,,Hikari, non mi piace che apprezzi altre persone oltre a me.
+Dialogue: 0,0:16:47.35,0:16:48.08,Tamao Suzumi,,0,0,0,,Nagisa-chan?
+Dialogue: 0,0:16:50.64,0:16:52.18,Tamao Suzumi,,0,0,0,,Andiamo alla sala da pranzo?
+Dialogue: 0,0:16:52.18,0:16:53.32,Nagisa Aoi,,0,0,0,,V-va bene.
+Dialogue: 0,0:17:00.25,0:17:03.36,Kizuna Hyuuga,,0,0,0,,Ehi, ehi! Come pensate che sarà la nuova studentessa?
+Dialogue: 0,0:17:03.36,0:17:05.54,Remon Natsume,,0,0,0,,Sarà sicuramente bellissima!
+Dialogue: 0,0:17:06.62,0:17:08.42,Kizuna Hyuuga,,0,0,0,,Spero che sia così!
+Dialogue: 0,0:17:09.92,0:17:11.92,Kagome Byakudan,,0,0,0,,Percival,
+Dialogue: 0,0:17:11.92,0:17:14.68,Kagome Byakudan,,0,0,0,,sai qualcosa della studentessa appena arrivata?
+Dialogue: 0,0:17:17.06,0:17:19.00,Remon Natsume,,0,0,0,,Ah, scusami!
+Dialogue: 0,0:17:19.36,0:17:21.78,Chikaru Minamoto,,0,0,0,,Non ti preoccupare, fai attenzione.
+Dialogue: 0,0:17:22.98,0:17:27.73,Gente random,,0,0,0,,Hai sentito della studentessa appena arrivata, Tsukidate-sama?
+Dialogue: 0,0:17:27.73,0:17:31.53,Chiyo Tsukidate,,0,0,0,,Eh, no, volevo dire, sì, ah, ecco...
+Dialogue: 0,0:17:34.28,0:17:36.94,Gente random,,0,0,0,,Hai sentito della nuova studentessa?
+Dialogue: 0,0:17:37.68,0:17:41.66,Tsubomi Okuwaka,,0,0,0,,Non mi interessa la nuova arrivata di Miator.
+Dialogue: 0,0:17:43.64,0:17:48.13,Yaya Nanto,,0,0,0,,Hikari, non mi piace che apprezzi altre persone oltre a me.
 Dialogue: 0,0:17:48.25,0:17:51.57,Hikari Konohana,,0,0,0,,Yaya-chan, la gente penserà male....
-Dialogue: 0,0:17:55.89,0:17:57.42,Amane Ootori,,0,0,0,,Nuova studentessa, eh...
+Dialogue: 0,0:17:55.88,0:17:57.72,Amane Ootori,,0,0,0,,Nuova studentessa, eh.
 Dialogue: 0,0:17:59.15,0:18:00.44,Miyuki Rokujou,,0,0,0,,Questa è la sala da pranzo.
-Dialogue: 0,0:18:01.88,0:18:05.71,Miyuki Rokujou,,0,0,0,,Prima di accomodarti, dovresti salutare l'Étoile.
-Dialogue: 0,0:18:06.44,0:18:07.20,Nagisa Aoi,,0,0,0,,Sì!
-Dialogue: 0,0:18:28.34,0:18:31.31,Nagisa Aoi,,0,0,0,,Sembra che tutti gli occhi siano puntati su di me.
-Dialogue: 0,0:18:34.75,0:18:35.93,Miyuki Rokujou,,0,0,0,,Questa è la nuova studentessa.
-Dialogue: 0,0:18:36.31,0:18:38.56,Miyuki Rokujou,,0,0,0,,È venuta a salutare l'Étoile.
-Dialogue: 0,0:18:41.73,0:18:43.55,Mizuho Kanou,,0,0,0,,Ah, al momento lei non-
-Dialogue: 0,0:18:43.55,0:18:44.71,Nagisa Aoi,,0,0,0,,Mi perdoni!
-Dialogue: 0,0:18:45.68,0:18:47.71,Nagisa Aoi,,0,0,0,,Piacere di conoscerla, Étoile-sama!
-Dialogue: 0,0:18:47.88,0:18:50.66,Nagisa Aoi,,0,0,0,,Mi sono trasferita oggi e sono del primo an-
-Dialogue: 0,0:18:50.84,0:18:51.97,Nagisa Aoi,,0,0,0,,No, non va bene.
-Dialogue: 0,0:18:52.20,0:18:54.66,Nagisa Aoi,,0,0,0,,Sono la studentessa del quarto anno, Aoi Nagisa.
-Dialogue: 0,0:18:54.93,0:18:55.97,Nagisa Aoi,,0,0,0,,Dunque, ecco...
-Dialogue: 0,0:18:56.26,0:18:57.68,Nagisa Aoi,,0,0,0,,Piacere di conoscerla!
-Dialogue: 0,0:18:57.73,0:18:59.44,Tamao Suzumi,,0,0,0,,Nagisa-chan, ti stai sbagliando!
-Dialogue: 0,0:19:02.51,0:19:04.22,Shizuma Hanazono,,0,0,0,,E quindi, ci incontriamo di nuovo.
+Dialogue: 0,0:18:01.83,0:18:06.08,Miyuki Rokujou,,0,0,0,,Prima di accomodarti, dovresti salutare l'Étoile.
+Dialogue: 0,0:18:06.40,0:18:07.57,Nagisa Aoi,,0,0,0,,Sì!
+Dialogue: 0,0:18:28.34,0:18:31.40,Nagisa Aoi,,0,0,0,,Sembra che tutti gli occhi siano puntati su di me.
+Dialogue: 0,0:18:34.64,0:18:36.26,Miyuki Rokujou,,0,0,0,,Questa è la nuova arrivata.
+Dialogue: 0,0:18:36.26,0:18:38.84,Miyuki Rokujou,,0,0,0,,È venuta a salutare l'Étoile.
+Dialogue: 0,0:18:41.66,0:18:43.50,Mizuho Kanou,,0,0,0,,Ah, al momento lei non-
+Dialogue: 0,0:18:43.50,0:18:44.78,Nagisa Aoi,,0,0,0,,Mi perdoni!
+Dialogue: 0,0:18:45.64,0:18:47.86,Nagisa Aoi,,0,0,0,,Piacere di conoscerla, Étoile-sama!
+Dialogue: 0,0:18:47.86,0:18:50.89,Nagisa Aoi,,0,0,0,,Mi sono trasferita oggi e sono del primo an-
+Dialogue: 0,0:18:50.89,0:18:52.15,Nagisa Aoi,,0,0,0,,No, non va bene.
+Dialogue: 0,0:18:52.15,0:18:54.87,Nagisa Aoi,,0,0,0,,Sono la studentessa del quarto anno, Aoi Nagisa.
+Dialogue: 0,0:18:54.87,0:18:55.97,Nagisa Aoi,,0,0,0,,Dunque, ecco...
+Dialogue: 0,0:18:56.17,0:18:57.68,Nagisa Aoi,,0,0,0,,Piacere di conoscerla!
+Dialogue: 0,0:18:57.68,0:18:59.62,Tamao Suzumi,,0,0,0,,Nagisa-chan, ti stai sbagliando!
+Dialogue: 0,0:19:02.44,0:19:04.19,Shizuma Hanazono,,0,0,0,,E quindi ci incontriamo di nuovo.
 Dialogue: 0,0:19:08.81,0:19:10.85,Nagisa Aoi,,0,0,0,,Q-q-q-questa mattina!
 Dialogue: 0,0:19:10.85,0:19:13.22,Shizuma Hanazono,,0,0,0,,Oh, te ne sei ricordata.
-Dialogue: 0,0:19:13.24,0:19:14.00,Shizuma Hanazono,,0,0,0,,Che onore.
-Dialogue: 0,0:19:15.00,0:19:16.68,Nagisa Aoi,,0,0,0,,Come si fa a dimenticare una cosa del genere?
-Dialogue: 0,0:19:16.81,0:19:20.51,Nagisa Aoi,,0,0,0,,Ti sei avvicinata a me all'improvviso e poi, e poi...
-Dialogue: 0,0:19:22.53,0:19:25.29,Nagisa Aoi,,0,0,0,,No! Dove pensi di essere?
-Dialogue: 0,0:19:25.28,0:19:27.02,Nagisa Aoi,,0,0,0,,Siamo di fronte ad Étoile-sama!
-Dialogue: 0,0:19:27.05,0:19:28.04,Shizuma Hanazono,,0,0,0,,Étoile?
-Dialogue: 0,0:19:28.05,0:19:31.20,Nagisa Aoi,,0,0,0,,Proprio così! Lei è una persona molto importante!
-Dialogue: 0,0:19:31.20,0:19:33.22,Nagisa Aoi,,0,0,0,,Ancora più della presidentessa del consiglio studentesco!
-Dialogue: 0,0:19:33.23,0:19:38.28,Nagisa Aoi,,0,0,0,,Perciò... perciò, davanti ad una persona del suo calibro tu non puoi...
-Dialogue: 0,0:19:42.57,0:19:44.35,Nagisa Aoi,,0,0,0,,È- è sbagliato!
-Dialogue: 0,0:19:48.95,0:19:50.22,Shizuma Hanazono,,0,0,0,,Non è sbagliato.
-Dialogue: 0,0:19:55.04,0:19:57.24,Nagisa Aoi,,0,0,0,,C-che cosa...
-Dialogue: 0,0:19:57.22,0:20:00.31,Nagisa Aoi,,0,0,0,,Cos'ha questa persona? Perché? Cosa...
-Dialogue: 0,0:20:10.16,0:20:11.97,Miyuki Rokujou,,0,0,0,,Shizuma, questo è troppo.
-Dialogue: 0,0:20:13.55,0:20:14.75,Shizuma Hanazono,,0,0,0,,Perché mi hai fermata?
-Dialogue: 0,0:20:16.51,0:20:17.34,Miyuki Rokujou,,0,0,0,,È ora.
-Dialogue: 0,0:20:27.57,0:20:28.66,Tamao Suzumi,,0,0,0,,Nagisa-chan!
-Dialogue: 0,0:20:28.95,0:20:30.11,Tamao Suzumi,,0,0,0,,Nagisa-chan.
-Dialogue: 0,0:20:33.37,0:20:35.13,Miyuki Rokujou,,0,0,0,,Tutte quante, al vostro posto.
+Dialogue: 0,0:19:13.22,0:19:14.42,Shizuma Hanazono,,0,0,0,,Che onore.
+Dialogue: 0,0:19:14.97,0:19:16.79,Nagisa Aoi,,0,0,0,,Come si fa a dimenticare una cosa del genere?
+Dialogue: 0,0:19:16.79,0:19:20.69,Nagisa Aoi,,0,0,0,,Ti sei avvicinata a me all'improvviso e poi, e poi...
+Dialogue: 0,0:19:22.47,0:19:25.24,Nagisa Aoi,,0,0,0,,No! Dove pensi di essere?
+Dialogue: 0,0:19:25.24,0:19:26.95,Nagisa Aoi,,0,0,0,,Siamo di fronte ad Étoile-sama!
+Dialogue: 0,0:19:26.95,0:19:27.97,Shizuma Hanazono,,0,0,0,,Étoile?
+Dialogue: 0,0:19:27.97,0:19:31.20,Nagisa Aoi,,0,0,0,,Proprio così! Lei è una persona molto importante!
+Dialogue: 0,0:19:31.20,0:19:33.22,Nagisa Aoi,,0,0,0,,Più della presidentessa del consiglio studentesco!
+Dialogue: 0,0:19:33.23,0:19:38.43,Nagisa Aoi,,0,0,0,,Perciò... perciò, davanti ad una persona del suo calibro tu non puoi...
+Dialogue: 0,0:19:42.52,0:19:44.55,Nagisa Aoi,,0,0,0,,È- è sbagliato!
+Dialogue: 0,0:19:48.91,0:19:50.30,Shizuma Hanazono,,0,0,0,,Non è sbagliato.
+Dialogue: 0,0:19:54.99,0:19:57.15,Nagisa Aoi,,0,0,0,,C-che cosa...
+Dialogue: 0,0:19:57.15,0:20:00.32,Nagisa Aoi,,0,0,0,,Cos'ha questa persona? Perché? Cosa...
+Dialogue: 0,0:20:10.16,0:20:12.32,Miyuki Rokujou,,0,0,0,,Shizuma, questo è troppo.
+Dialogue: 0,0:20:13.53,0:20:14.96,Shizuma Hanazono,,0,0,0,,Perché mi hai fermata?
+Dialogue: 0,0:20:16.41,0:20:17.52,Miyuki Rokujou,,0,0,0,,È ora.
+Dialogue: 0,0:20:27.52,0:20:28.95,Tamao Suzumi,,0,0,0,,Nagisa-chan!
+Dialogue: 0,0:20:28.95,0:20:30.60,Tamao Suzumi,,0,0,0,,Nagisa-chan.
+Dialogue: 0,0:20:33.35,0:20:35.44,Miyuki Rokujou,,0,0,0,,Tutte quante, al vostro posto.
 Dialogue: 0,0:20:48.84,0:20:51.12,Miyuki Rokujou,,0,0,0,,Ora, reciti la preghiera prima del pasto,
-Dialogue: 0,0:20:51.12,0:20:53.80,Miyuki Rokujou,,0,0,0,,Étoile, Hanazono Shizuma-sama.
+Dialogue: 0,0:20:51.05,0:20:52.32,Miyuki Rokujou,,0,0,0,,Étoile,
+Dialogue: 0,0:20:52.32,0:20:54.13,Miyuki Rokujou,,0,0,0,,Hanazono Shizuma-sama.
 Dialogue: 0,0:20:58.73,0:21:03.44,Nagisa Aoi,,0,0,0,,É-É-Éto-, Éto-, non è possibile.
-Dialogue: 0,0:21:03.64,0:21:04.28,Tamao Suzumi,,0,0,0,,Nagisa-chan?
-Dialogue: 0,0:21:10.77,0:21:11.42,Shizuma Hanazono,,0,0,0,,Signore,
+Dialogue: 0,0:21:03.59,0:21:04.56,Tamao Suzumi,,0,0,0,,Nagisa-chan?
+Dialogue: 0,0:21:10.66,0:21:11.65,Shizuma Hanazono,,0,0,0,,Signore,
 Dialogue: 0,0:21:12.20,0:21:15.66,Shizuma Hanazono,,0,0,0,,ti siamo grati per il cibo che ci hai offerto oggi.
 Dialogue: 0,0:21:16.66,0:21:19.18,Shizuma Hanazono,,0,0,0,,Per favore, benedici questo cibo,
-Dialogue: 0,0:21:19.62,0:21:23.99,Shizuma - secondo piano,,0,0,0,,nutri il nostro corpo e la nostra anima,
+Dialogue: 0,0:21:19.62,0:21:23.99,Shizuma - secondo piano,,0,0,0,,nutri il nostro corpo e la nostra anima
 Dialogue: 0,0:21:21.86,0:21:24.48,Nagisa Aoi,,0,0,0,,Quella ragazza è... l'Étoile?
 Dialogue: 0,0:21:24.17,0:21:28.26,Shizuma - secondo piano,,0,0,0,,per renderci in grado di servirti secondo i tuoi desideri.
-Dialogue: 0,0:21:24.95,0:21:28.91,Nagisa Aoi,,0,0,0,,La rappresentante delle tre scuole, la più amata e rispettata da tutte?
-Dialogue: 0,0:21:29.26,0:21:31.14,Shizuma Hanazono,,0,0,0,,Preghiamo nel nome dello spirito santo.
-Dialogue: 0,0:21:31.37,0:21:32.34,Shizuma Hanazono,,0,0,0,,Amen.
-Dialogue: 0,0:21:36.28,0:21:38.40,Nagisa Aoi,,0,0,0,,N-n-n-non...
-Dialogue: 0,0:21:38.62,0:21:41.24,Nagisa Aoi,,0,0,0,,Non ci credo!
-Dialogue: 0,0:21:42.15,0:21:44.14,Tamao Suzumi,,0,0,0,,È stato un grande debutto!
-Dialogue: 0,0:21:44.37,0:21:48.48,Tamao Suzumi,,0,0,0,,Per l'Étoile Shizuma-sama, corteggiarti in quel modo!
-Dialogue: 0,0:21:50.37,0:21:51.57,Nagisa Aoi,,0,0,0,,Debutto...
-Dialogue: 0,0:21:51.85,0:21:55.80,Tamao Suzumi,,0,0,0,,Dopotutto, la mia Nagisa-chan è davvero carinissima.
-Dialogue: 0,0:21:56.08,0:21:59.88,Nagisa Aoi,,0,0,0,,Ehm. In realtà non sono esattamente tua...
-Dialogue: 0,0:21:59.97,0:22:01.14,Tamao Suzumi,,0,0,0,,Non muoverti.
-Dialogue: 0,0:22:01.31,0:22:02.05,Nagisa Aoi,,0,0,0,,Va bene.
-Dialogue: 0,0:22:02.28,0:22:04.02,Tamao Suzumi,,0,0,0,,Hai davvero dei capelli bellissimi.
-Dialogue: 0,0:22:04.42,0:22:07.51,Tamao Suzumi,,0,0,0,,D'ora in poi dovrai prendertene cura ogni giorno.
-Dialogue: 0,0:22:12.60,0:22:17.60,Nagisa Aoi,,0,0,0,,Sembra che io sia capitata proprio in una scuola incredibile.
-Dialogue: 0,0:22:18.87,0:22:22.34,Nagisa Aoi,,0,0,0,,Chissà cosa accadrà in futuro.
+Dialogue: 0,0:21:24.95,0:21:29.17,Nagisa Aoi,,0,0,0,,La rappresentante delle tre scuole, la più amata e rispettata da tutte?
+Dialogue: 0,0:21:29.17,0:21:31.14,Shizuma Hanazono,,0,0,0,,Preghiamo nel nome dello spirito santo.
+Dialogue: 0,0:21:31.32,0:21:32.36,Shizuma Hanazono,,0,0,0,,Amen.
+Dialogue: 0,0:21:36.28,0:21:38.51,Nagisa Aoi,,0,0,0,,N-n-n-non...
+Dialogue: 0,0:21:38.51,0:21:41.24,Nagisa Aoi,,0,0,0,,Non ci credo!
+Dialogue: 0,0:21:42.07,0:21:44.32,Tamao Suzumi,,0,0,0,,È stato un grande debutto!
+Dialogue: 0,0:21:44.32,0:21:48.48,Tamao Suzumi,,0,0,0,,Per l'Étoile Shizuma-sama, corteggiarti in quel modo!
+Dialogue: 0,0:21:50.32,0:21:51.79,Nagisa Aoi,,0,0,0,,Debutto...
+Dialogue: 0,0:21:51.79,0:21:56.01,Tamao Suzumi,,0,0,0,,Dopotutto, la mia Nagisa-chan è davvero carinissima.
+Dialogue: 0,0:21:56.01,0:21:59.88,Nagisa Aoi,,0,0,0,,Ehm, in realtà non sono esattamente tua...
+Dialogue: 0,0:21:59.88,0:22:01.26,Tamao Suzumi,,0,0,0,,Non muoverti.
+Dialogue: 0,0:22:01.26,0:22:02.25,Nagisa Aoi,,0,0,0,,Va bene.
+Dialogue: 0,0:22:02.25,0:22:04.36,Tamao Suzumi,,0,0,0,,Hai davvero dei capelli bellissimi.
+Dialogue: 0,0:22:04.36,0:22:07.51,Tamao Suzumi,,0,0,0,,D'ora in poi dovrai prendertene cura ogni giorno.
+Dialogue: 0,0:22:12.54,0:22:18.11,Nagisa Aoi,,0,0,0,,Sembra che io sia capitata proprio in una scuola incredibile.
+Dialogue: 0,0:22:18.85,0:22:22.74,Nagisa Aoi,,0,0,0,,Chissà cosa accadrà d'ora in poi.
 Comment: 0,0:22:39.95,0:22:43.62,Default,,0,0,0,karaoke,{\k36}Sa{\k31}mi{\k39}shi{\k21}i {\k63}to {\k33}sa{\k29}mi{\k37}shi{\k24}i {\k54}to
 Comment: 0,0:22:43.76,0:22:47.31,Default,,0,0,0,karaoke,{\k42}Ko{\k45}ko{\k36}ro {\k23}ga {\k38}sa{\k65}wa{\k26}i{\k80}da
 Comment: 0,0:22:47.42,0:22:51.05,Default,,0,0,0,karaoke,{\k33}I{\k31}ke{\k28}na{\k24}i{\k68}wa {\k37}u{\k32}ba{\k24}wa{\k26}re{\k60}ru
@@ -520,19 +521,18 @@ Dialogue: 0,0:23:29.35,0:23:32.94,Lyrics traduzione,,0,0,0,,Voglio piangere e vo
 Dialogue: 0,0:23:33.33,0:23:36.59,Lyrics traduzione,,0,0,0,,Bacia ogni mia lacrima.
 Dialogue: 0,0:23:37.20,0:23:44.04,Lyrics traduzione,,0,0,0,,Questa porta socchiusa sarà il nostro segreto.
 Dialogue: 0,0:23:55.03,0:23:59.95,Traduzioni bordate,,0,0,0,,{\fad(450,450)}{\pos(737.333,577.333)}Anteprima del prossimo episodio
-Dialogue: 0,0:23:55.60,0:23:58.16,Nagisa Aoi,,0,0,0,,Ehi Tamao-chan, che cos'è una "Étoile"?
-Dialogue: 0,0:23:58.13,0:24:02.20,Tamao Suzumi,,0,0,0,,Étoile significa "stella" in francese.
+Dialogue: 0,0:23:55.56,0:23:58.12,Nagisa Aoi,,0,0,0,,Ehi Tamao-chan, che cos'è una "Étoile"?
+Dialogue: 0,0:23:58.12,0:24:02.20,Tamao Suzumi,,0,0,0,,Étoile significa "stella" in francese.
 Dialogue: 0,0:24:02.20,0:24:08.97,Tamao Suzumi,,0,0,0,,Ad Astraea la studentessa al di sopra delle tre accademie viene chiamata Étoile.
-Dialogue: 0,0:24:08.97,0:24:09.88,Nagisa Aoi,,0,0,0,,Davvero?
-Dialogue: 0,0:24:09.88,0:24:11.65,Tamao Suzumi,,0,0,0,,Ma fai attenzione, Nagisa-chan.
+Dialogue: 0,0:24:09.88,0:24:11.77,Tamao Suzumi,,0,0,0,,Ma fai attenzione, Nagisa-chan.
 Dialogue: 0,0:24:11.77,0:24:14.93,Tamao Suzumi,,0,0,0,,Le studentesse più giovani che hanno delle relazioni con l'Étoile Shizuma-sama, loro...
 Dialogue: 0,0:24:14.93,0:24:16.09,Tamao Suzumi,,0,0,0,,Loro...
-Dialogue: 0,0:24:16.21,0:24:17.49,Nagisa Aoi,,0,0,0,,Cosa gli succede?
-Dialogue: 0,0:24:17.71,0:24:19.67,Nagisa Aoi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
-Dialogue: 0,0:24:17.71,0:24:19.67,Tamao Suzumi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:16.09,0:24:17.49,Nagisa Aoi,,0,0,0,,Cosa gli succede?
+Dialogue: 0,0:24:17.65,0:24:19.67,Nagisa Aoi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
+Dialogue: 0,0:24:17.65,0:24:19.67,Tamao Suzumi,,0,0,0,,Nel prossimo episodio di Strawberry Panic:
 Dialogue: 0,0:24:19.68,0:24:20.80,Nagisa Aoi,,0,0,0,,Étoile
 Dialogue: 0,0:24:19.68,0:24:20.80,Tamao Suzumi,,0,0,0,,Étoile
-Dialogue: 0,0:24:21.52,0:24:23.86,Tamao Suzumi,,0,0,0,,Non posso proprio dire altro!
+Dialogue: 0,0:24:21.47,0:24:24.27,Tamao Suzumi,,0,0,0,,Non posso proprio dire altro!
 Dialogue: 1,0:00:08.68,0:00:10.08,Default,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord2\3c&HFFFFFF&\blur4\fscx2\fscy2\an5\move(233,11,229,80)\fad(230,0)\t(0,1400,\fscy3\fscx3\fad(0,500)\p1)}!la_vang[math.random(2)]!
 Dialogue: 1,0:00:08.70,0:00:10.10,Default,,0,0,0,fx,{\fad(0,100)\c&HFFFFFF&\bord2\3c&HFFFFFF&\blur4\fscx2\fscy2\an5\move(256,11,206,39)\fad(230,0)\t(0,1405,\fscy3\fscx3\fad(0,500)\p1)}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
 Dialogue: 0,0:00:08.39,0:00:09.58,Default,,0,0,0,fx,{\move(203,6,243,46,0,325)\an5\bord0\fsc120\alpha&ff&\t(0,225,\alpha&HAF\fsc100)\t(225,325,\alpha&ff&)}Y
