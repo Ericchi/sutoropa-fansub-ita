@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第19話 「リフレイン」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 319
-Active Line: 324
-Video Position: 23220
+Video Zoom Percent: 0.750000
+Scroll Position: 322
+Active Line: 329
+Video Position: 23820
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -476,11 +476,11 @@ Dialogue: 0,0:15:56.56,0:15:59.77,Miyuki Rokujou,,0,0,0,,Non c'è nessuno che po
 Dialogue: 0,0:16:00.97,0:16:03.68,Miyuki Rokujou,,0,0,0,,L'unica cosa importante è che riusciate ad arrivare sul palco.
 Dialogue: 0,0:16:04.90,0:16:06.12,Miyuki Rokujou,,0,0,0,,E poi,
 Dialogue: 0,0:16:06.12,0:16:08.26,Miyuki Rokujou,,0,0,0,,l'Étoile di quest'anno verrà eletta.
-Dialogue: 0,0:16:22.40,0:16:26.92,Mizuho Kanou,,0,0,0,,A breve avrà inizio la proclamazione della nuova Étoile.
-Dialogue: 0,0:16:26.92,0:16:29.30,Mizuho Kanou,,0,0,0,,L'Étoile decisa per quest'anno saranno
-Dialogue: 0,0:16:29.30,0:16:31.42,Mizuho Kanou,,0,0,0,,le studentesse dell'accademia femminile St. Miator,
-Dialogue: 0,0:16:31.42,0:16:33.51,Mizuho Kanou,,0,0,0,,Hanazono Shizuma-sama
-Dialogue: 0,0:16:33.51,0:16:36.46,Mizuho Kanou,,0,0,0,,e Sakuragi Kaori-sama.
+Dialogue: 0,0:16:22.40,0:16:26.92,Presidentessa club,,0,0,0,,A breve avrà inizio la proclamazione della nuova Étoile.
+Dialogue: 0,0:16:26.92,0:16:29.30,Presidentessa club,,0,0,0,,Ecco l'Étoile di quest'anno.
+Dialogue: 0,0:16:29.30,0:16:31.42,Presidentessa club,,0,0,0,,Per l'accademia femminile St. Miator,
+Dialogue: 0,0:16:31.42,0:16:33.51,Presidentessa club,,0,0,0,,Hanazono Shizuma-sama
+Dialogue: 0,0:16:33.51,0:16:36.46,Presidentessa club,,0,0,0,,e Sakuragi Kaori-sama sono state elette.
 Dialogue: 0,0:16:59.36,0:17:00.80,Miyuki Rokujou,,0,0,0,,È tutto a posto.
 Dialogue: 0,0:17:01.35,0:17:03.20,Miyuki Rokujou,,0,0,0,,Sei davvero bella.
 Dialogue: 0,0:17:03.88,0:17:05.08,Kaori Sakuragi,,0,0,0,,Grazie.

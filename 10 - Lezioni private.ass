@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 415
-Active Line: 421
-Video Position: 38371
+Scroll Position: 352
+Active Line: 357
+Video Position: 30189
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -507,8 +507,8 @@ Dialogue: 0,0:20:32.21,0:20:33.18,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:20:46.23,0:20:48.34,Shizuma Hanazono,,0,0,0,,Oh no, che peccato.
 Dialogue: 0,0:20:53.51,0:20:54.81,Shizuma Hanazono,,0,0,0,,Però sono buoni.
 Dialogue: 0,0:20:54.81,0:20:56.40,Nagisa Aoi,,0,0,0,,Davvero?
-Dialogue: 0,0:20:57.59,0:20:59.16,Shizuma Hanazono,,0,0,0,,Non trovi?
-Dialogue: 0,0:20:59.16,0:21:02.59,Nagisa Aoi,,0,0,0,,Sì, sembra che il loro sapore sia migliorato, dopo che sono stati schiacciati.
+Dialogue: 0,0:20:57.59,0:20:59.16,Shizuma Hanazono,,0,0,0,,Non trovi che siano buoni?
+Dialogue: 0,0:20:59.16,0:21:02.59,Nagisa Aoi,,0,0,0,,Sì, sembra che il loro sapore sia migliorato dopo essere stati schiacciati.
 Dialogue: 0,0:21:14.67,0:21:17.12,Shizuma Hanazono,,0,0,0,,Questi biscotti, li hai cucinati da sola?
 Dialogue: 0,0:21:17.12,0:21:19.48,Nagisa Aoi,,0,0,0,,Ho imparato da un'amica.
 Dialogue: 0,0:21:20.08,0:21:21.78,Shizuma Hanazono,,0,0,0,,Sono davvero deliziosi.
