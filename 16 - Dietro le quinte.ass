@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第16話 「舞台裏」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 360
-Active Line: 367
-Video Position: 25443
+Video Zoom Percent: 0.625000
+Scroll Position: 280
+Active Line: 295
+Video Position: 16741
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -444,7 +444,7 @@ Dialogue: 0,0:11:19.50,0:11:21.84,Chiyo Tsukidate,,0,0,0,,Vorrei esserci anche i
 Dialogue: 0,0:11:31.37,0:11:33.44,Tamao Suzumi,,0,0,0,,Grandioso.
 Dialogue: 0,0:11:33.44,0:11:34.70,Nagisa Aoi,,0,0,0,,C'è il pienone.
 Dialogue: 0,0:11:34.70,0:11:35.60,Tamao Suzumi,,0,0,0,,Già!
-Dialogue: 0,0:11:38.23,0:11:42.82,Mizuho Kanou,,0,0,0,,La recita del dormitorio Ichigo, {\i1}Carmen{\i0}, sta per iniziare.
+Dialogue: 0,0:11:38.23,0:11:42.82,Presidentessa club,,0,0,0,,La recita del dormitorio Ichigo, {\i1}Carmen{\i0}, sta per iniziare.
 Dialogue: 0,0:12:00.19,0:12:01.25,Miyuki Rokujou,,0,0,0,,Sta iniziando.
 Dialogue: 0,0:12:33.78,0:12:34.84,Gente random,,0,0,0,,Bellissima.
 Dialogue: 0,0:12:34.36,0:12:35.37,Gente random,,0,0,0,,Meravigliosa.

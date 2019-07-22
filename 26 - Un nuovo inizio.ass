@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 405
-Active Line: 412
-Video Position: 35171
+Video Zoom Percent: 1.000000
+Scroll Position: 379
+Active Line: 384
+Video Position: 31084
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -546,18 +546,18 @@ Dialogue: 0,0:20:45.70,0:20:49.58,Presidentessa club,,0,0,0,,Avrà ora inizio la
 Dialogue: 0,0:20:49.58,0:20:51.27,Presidentessa club,,0,0,0,,Ecco l'Étoile di quest'anno.
 Dialogue: 0,0:20:51.27,0:20:52.80,Presidentessa club,,0,0,0,,Per l'accademia femminile St. Spica,
 Dialogue: 0,0:20:52.80,0:20:54.68,Presidentessa club,,0,0,0,,Ootori Amane-sama
-Dialogue: 0,0:20:54.68,0:20:57.62,Presidentessa club,,0,0,0,,e Konohana Hikari-sama sono state elette.
+Dialogue: 0,0:20:54.68,0:20:57.62,Presidentessa club,,0,0,0,,e Konohana Hikari-sama sono state scelte.
 Dialogue: 0,0:21:01.15,0:21:03.42,Amane Ootori,,0,0,0,,Non sono molto soddisfatta di questa vittoria.
-Dialogue: 0,0:21:03.42,0:21:04.32,Hikari Konohana,,0,0,0,,È vero,
-Dialogue: 0,0:21:04.32,0:21:05.44,Hikari Konohana,,0,0,0,,però...
+Dialogue: 0,0:21:03.42,0:21:04.32,Hikari Konohana,,0,0,0,,Già,
+Dialogue: 0,0:21:04.32,0:21:05.44,Hikari Konohana,,0,0,0,,però
 Dialogue: 0,0:21:05.44,0:21:08.45,Hikari Konohana,,0,0,0,,io sono davvero felice.
-Dialogue: 0,0:21:08.45,0:21:09.96,Hikari Konohana,,0,0,0,,Non è strano?
+Dialogue: 0,0:21:08.45,0:21:10.06,Hikari Konohana,,0,0,0,,Non è strano?
 Dialogue: 0,0:21:10.45,0:21:11.82,Amane Ootori,,0,0,0,,Anche per me è così.
 Comment: 0,0:21:11.97,0:21:13.97,Amane Ootori,,0,0,0,,Sidenote: È tutto finito.
 Dialogue: 0,0:21:28.25,0:21:29.76,Nagisa Aoi,,0,0,0,,Finita!
 Dialogue: 0,0:21:29.76,0:21:31.54,Shizuma Hanazono,,0,0,0,,Anche la mia.
 Dialogue: 0,0:21:36.62,0:21:38.46,Hikari Konohana,,0,0,0,,Grazie davvero.
-Dialogue: 0,0:22:09.01,0:22:19.90,Note,,0,0,510,,{\fad(1000,1000)}Un ringraziamento speciale a tutte le persone che hanno voluto le serate anime e le hanno seguite.\NSenza di voi non credo che avrei mai finito di tradurre quest'opera meravigliosa.
+Dialogue: 0,0:22:09.01,0:22:19.90,Note,,0,0,510,,{\fad(500,1000)}Un ringraziamento speciale a tutte le persone che hanno voluto le serate anime e le hanno seguite.\NSenza di voi non credo che avrei mai trovato la motivazione per tradurre quest'opera meravigliosa.
 Comment: 0,0:22:25.32,0:22:25.32,Default,,0,0,0,,Sidenote: Qui c'è il bacio.
 Comment: 0,0:22:30.36,0:22:33.07,Default,,0,0,0,karaoke,{\k44}Shi{\k36}n{\k34}ji{\k36}ta{\k33}i {\k88}to
 Dialogue: 0,0:22:30.36,0:22:33.07,Lyrics traduzione,,0,0,0,,Ci ho creduto,

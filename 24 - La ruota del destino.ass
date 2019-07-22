@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 234
-Active Line: 235
-Video Position: 12773
+Scroll Position: 138
+Active Line: 142
+Video Position: 4129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -299,7 +299,7 @@ Dialogue: 0,0:02:25.39,0:02:26.74,Nagisa Aoi,,0,0,0,,L'elezione dell'Étoile.
 Dialogue: 0,0:02:26.74,0:02:29.17,Nagisa Aoi,,0,0,0,,Facciamo del nostro meglio, Tamao-chan.
 Dialogue: 0,0:02:32.89,0:02:34.32,Nagisa Aoi,,0,0,0,,Mi chiedo se
 Dialogue: 0,0:02:34.32,0:02:35.76,Nagisa Aoi,,0,0,0,,così vada bene.
-Dialogue: 0,0:02:52.20,0:02:57.20,Titolo episodio,,0,0,0,,Il cerchio del destino
+Dialogue: 0,0:02:52.20,0:02:57.20,Titolo episodio,,0,0,0,,La ruota del destino
 Dialogue: 0,0:02:58.08,0:02:59.35,Shizuma Hanazono,,0,0,0,,La loro coach?
 Dialogue: 0,0:02:59.35,0:03:01.07,Shizuma Hanazono,,0,0,0,,Vorresti che fossi io?
 Dialogue: 0,0:03:01.41,0:03:04.52,Miyuki Rokujou,,0,0,0,,Sì, non posso farcela da sola.
