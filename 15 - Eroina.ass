@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第15話 「ヒロイン」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.625000
-Scroll Position: 216
-Active Line: 234
-Video Position: 10943
+Video Zoom Percent: 0.750000
+Scroll Position: 459
+Active Line: 467
+Video Position: 29225
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -127,6 +127,7 @@ Style: Tsubomi Okuwaka,PT Serif,52,&H00FFADB4,&H000000FF,&H00282226,&H80000000,-
 Style: Miyuki Rokujou,PT Serif,52,&H007CDC49,&H000000FF,&H00282F28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Hitomi Tougi,PT Serif,52,&H005C37D6,&H000000FF,&H001F1E23,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
 Style: Mizuho Kanou,PT Serif,52,&H00FF9391,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,2,10,10,10,1
+Style: Scartoffie Lettera,Bradley Hand ITC,30,&H002C2E2E,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -497,7 +498,7 @@ Dialogue: 0,0:15:23.28,0:15:24.95,Miyuki Rokujou,,0,0,0,,rivale di Don José,
 Dialogue: 0,0:15:24.95,0:15:27.08,Miyuki Rokujou,,0,0,0,,il sergente della guardia militare,
 Dialogue: 0,0:15:27.62,0:15:30.05,Miyuki Rokujou,,0,0,0,,sarà Kenjou Kaname-sama di Spica.
 Dialogue: 0,0:15:32.10,0:15:34.64,Miyuki Rokujou,,0,0,0,,L'innamorata di Don José, Micaëla,
-Comment: 0,0:15:34.64,0:15:35.01,Miyuki Rokujou,,0,0,0,,Sidenote: Questa è da rivedere assolutamente dopo l'episodio 16 perché non sono sicura che sia lei.\NEdit: Ci avevo azzeccato! Era proprio Micaëla!
+Comment: 0,0:15:34.64,0:15:35.01,Miyuki Rokujou,,0,0,0,,Sidenote: Questa è da rivedere assolutamente dopo l'episodio 16 perché non sono sicura che sia lei.\NEdit: Infatti era proprio Micaëla.
 Dialogue: 0,0:15:35.01,0:15:37.83,Miyuki Rokujou,,0,0,0,,sarà interpretata da Kiyashiki Momomi-sama di Spica.
 Dialogue: 0,0:15:39.01,0:15:40.54,Miyuki Rokujou,,0,0,0,,L'amante di Carmen,
 Dialogue: 0,0:15:40.54,0:15:42.92,Miyuki Rokujou,,0,0,0,,il torero Escamillo,
@@ -582,22 +583,22 @@ Dialogue: 0,0:19:19.03,0:19:19.58,Gente random,,0,0,0,,Nove!
 Dialogue: 0,0:19:19.58,0:19:21.31,Gente random,,0,0,0,,Dieci!
 Dialogue: 0,0:19:21.31,0:19:23.35,Kizuna Hyuuga,,0,0,0,,Kagome-chan sarà Romeo!
 Dialogue: 0,0:19:24.12,0:19:25.76,Yaya Nanto,,0,0,0,,Non è possibile...
-Dialogue: 0,0:19:25.95,0:19:28.16,Scartoffie,,0,0,0,,{\move(443.964,58.94,444.314,-150.526,23,2191)\frz359.2}Torneo di sumo con le dita
+Dialogue: 0,0:19:25.95,0:19:28.16,Scartoffie,,0,0,0,,{\move(443.964,58.94,444.314,-150.526,23,2191)\frz359.2}Torneo di lotta con le dita
 Dialogue: 0,0:19:25.95,0:19:28.16,Scartoffie,,0,0,0,,{\frz349.6\move(663.965,220.274,672.314,-40.193,10,2191)}Ruolo di Romeo
 Dialogue: 0,0:19:26.84,0:19:29.09,Kagome Byakudan,,0,0,0,,Romeo, Romeo.
 Dialogue: 0,0:19:29.09,0:19:32.32,Kagome Byakudan,,0,0,0,,Perché sei tu, Romeo?
 Dialogue: 0,0:19:32.32,0:19:34.32,Tsubomi Okuwaka,,0,0,0,,Ed io, invece...
 Dialogue: 0,0:19:34.32,0:19:36.96,Tsubomi Okuwaka,,0,0,0,,interpreterò il ruolo di Giulietta.
 Dialogue: 0,0:19:39.16,0:19:40.86,Tsubomi Okuwaka,,0,0,0,,Applaudite!
-Dialogue: 0,0:19:46.14,0:19:48.43,Kenjou Kaname,,0,0,0,,Ma l'hai vista la faccia della presidentessa?
-Dialogue: 0,0:19:48.74,0:19:50.16,Momomi Kiyashiki,,0,0,0,,Le sta bene.
+Dialogue: 0,0:19:46.14,0:19:48.72,Kenjou Kaname,,0,0,0,,Ma l'hai vista la faccia della presidentessa?
+Dialogue: 0,0:19:48.72,0:19:50.48,Momomi Kiyashiki,,0,0,0,,Le sta bene.
 Dialogue: 0,0:19:50.48,0:19:55.44,Momomi Kiyashiki,,0,0,0,,Pensava che se Amane avesse avuto il ruolo di protagonista, sarebbe stato più facile per lei diventare Étoile.
 Dialogue: 0,0:19:56.28,0:19:58.61,Kenjou Kaname,,0,0,0,,Ma tra noi tre,
-Dialogue: 0,0:19:58.61,0:20:00.79,Kenjou Kaname,,0,0,0,,Amane ha avuto comunque un ruolo migliore.
+Dialogue: 0,0:19:58.61,0:20:01.06,Kenjou Kaname,,0,0,0,,Amane ha avuto comunque il ruolo migliore.
 Dialogue: 0,0:20:01.56,0:20:04.49,Momomi Kiyashiki,,0,0,0,,Beh, sempre ammesso che possa recitare in sicurezza
 Dialogue: 0,0:20:05.18,0:20:07.07,Momomi Kiyashiki,,0,0,0,,fino alla fine dello spettacolo, no?
 Dialogue: 0,0:20:07.07,0:20:09.70,Kenjou Kaname,,0,0,0,,Già, il palco è imprevedibile.
-Dialogue: 0,0:20:10.75,0:20:13.08,Kenjou Kaname,,0,0,0,,Nessuno può sapere ciò che succederà.
+Dialogue: 0,0:20:10.70,0:20:13.08,Kenjou Kaname,,0,0,0,,Nessuno può sapere ciò che succederà.
 Dialogue: 0,0:20:37.91,0:20:39.49,Hikari Konohana,,0,0,0,,Amane-senpai.
 Dialogue: 0,0:20:40.15,0:20:41.28,Amane Ootori,,0,0,0,,Hikari.
 Dialogue: 0,0:20:43.77,0:20:46.77,Scartoffie,,0,0,0,,{\frz143.3\org(500.572,327.999)\pos(499.429,326.857)\frx16\fry348}Carmen

@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 280
-Active Line: 295
-Video Position: 16741
+Scroll Position: 285
+Active Line: 303
+Video Position: 18607
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -304,7 +304,7 @@ Dialogue: 0,0:01:18.68,0:01:21.84,Lyrics traduzione,,0,0,0,,Staremo insieme in q
 Dialogue: 0,0:00:04.64,0:00:11.98,Copyright Sutoropa,,0,0,0,,{\fad(1200,1200}Fansub: EricchiYukia
 Dialogue: 0,0:01:32.59,0:01:35.16,Chikaru Minamoto,,0,0,0,,Miator, Spica e Lulim.
 Dialogue: 0,0:01:35.16,0:01:39.16,Chikaru Minamoto,,0,0,0,,Il festival della cultura di Astraea delle tre accademie sta per iniziare.
-Dialogue: 0,0:01:39.61,0:01:43.92,Chikaru Minamoto,,0,0,0,,L'evento più importante sarà {\i1}Carmen{\i0}, la recita delle studentesse del dormitorio Ichigo.
+Dialogue: 0,0:01:39.61,0:01:43.92,Chikaru Minamoto,,0,0,0,,L'evento più importante sarà "Carmen", la recita delle studentesse del dormitorio Ichigo.
 Dialogue: 0,0:01:44.32,0:01:46.93,Chikaru Minamoto,,0,0,0,,Nelle tre scuole non si parla d'altro.
 Dialogue: 0,0:01:46.64,0:01:53.35,Lavagna,,0,0,0,,{\t(0,9000,\fscx125\fscy125)\move(513.713,280,513.714,266.857,24,6698)}Club di sartoria
 Dialogue: 0,0:01:47.80,0:01:51.44,Chikaru Minamoto,,0,0,0,,Io interpreterò il ruolo di Carmen e creerò i costumi.
@@ -444,7 +444,7 @@ Dialogue: 0,0:11:19.50,0:11:21.84,Chiyo Tsukidate,,0,0,0,,Vorrei esserci anche i
 Dialogue: 0,0:11:31.37,0:11:33.44,Tamao Suzumi,,0,0,0,,Grandioso.
 Dialogue: 0,0:11:33.44,0:11:34.70,Nagisa Aoi,,0,0,0,,C'è il pienone.
 Dialogue: 0,0:11:34.70,0:11:35.60,Tamao Suzumi,,0,0,0,,Già!
-Dialogue: 0,0:11:38.23,0:11:42.82,Presidentessa club,,0,0,0,,La recita del dormitorio Ichigo, {\i1}Carmen{\i0}, sta per iniziare.
+Dialogue: 0,0:11:38.23,0:11:42.82,Presidentessa club,,0,0,0,,La recita del dormitorio Ichigo, "Carmen", sta per iniziare.
 Dialogue: 0,0:12:00.19,0:12:01.25,Miyuki Rokujou,,0,0,0,,Sta iniziando.
 Dialogue: 0,0:12:33.78,0:12:34.84,Gente random,,0,0,0,,Bellissima.
 Dialogue: 0,0:12:34.36,0:12:35.37,Gente random,,0,0,0,,Meravigliosa.
@@ -588,7 +588,6 @@ Dialogue: 0,0:21:52.60,0:21:55.94,Lyrics traduzione canti,,0,0,0,,della nostra
 Dialogue: 0,0:21:55.95,0:22:00.82,Lyrics traduzione canti,,0,0,0,,vergine madre.
 Dialogue: 0,0:22:00.84,0:22:06.55,Lyrics traduzione canti,,0,0,0,,A voci riunite
 Dialogue: 0,0:22:06.55,0:22:13.20,Lyrics traduzione canti,,0,0,0,,noi ti preghiamo.
-Comment: 0,0:21:41.52,0:21:41.52,Lyrics traduzione canti,,0,0,0,,Sidenote: La canzone è da finire. Finita.
 Dialogue: 0,0:21:45.86,0:21:47.20,Shizuma Hanazono,,0,0,0,,Sei stata bravissima,
 Dialogue: 0,0:21:47.20,0:21:47.99,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:21:48.75,0:21:52.36,Nagisa Aoi,,0,0,0,,Stare sul palco insieme a lei,

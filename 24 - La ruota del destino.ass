@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 138
-Active Line: 142
-Video Position: 4129
+Scroll Position: 410
+Active Line: 419
+Video Position: 30667
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -388,7 +388,7 @@ Dialogue: 0,0:08:28.24,0:08:29.38,Yaya Nanto,,0,0,0,,Uh, che paura.
 Dialogue: 0,0:08:29.38,0:08:31.28,Hikari Konohana,,0,0,0,,Ma dai!
 Dialogue: 0,0:08:33.42,0:08:34.67,Hikari Konohana,,0,0,0,,Grazie al cielo.
 Dialogue: 0,0:08:34.67,0:08:39.13,Hikari Konohana,,0,0,0,,Non so cos'avrei fatto se non si fosse più rialzata.
-Dialogue: 0,0:08:40.77,0:08:43.70,Amane Ootori,,0,0,0,,Scusami per averti fatta preoccupare.
+Dialogue: 0,0:08:40.77,0:08:43.23,Amane Ootori,,0,0,0,,Scusatemi per avervi fatte preoccupare.
 Dialogue: 0,0:08:45.52,0:08:47.54,Shion Toumori,,0,0,0,,Non sarebbe meglio riposare ancora un po'?
 Dialogue: 0,0:08:49.27,0:08:50.51,Amane Ootori,,0,0,0,,Sto bene.
 Dialogue: 0,0:08:50.51,0:08:52.75,Amane Ootori,,0,0,0,,Vi ho fatte preoccupare.
@@ -457,7 +457,7 @@ Dialogue: 0,0:12:57.44,0:13:01.35,Miyuki Rokujou,,0,0,0,,non mi importa delle vo
 Comment: 0,0:12:58.97,0:12:59.43,Miyuki Rokujou,,0,0,0,,Étoile
 Dialogue: 0,0:13:16.08,0:13:18.65,Amane Ootori,,0,0,0,,Perché finisco sempre in questo posto?
 Dialogue: 0,0:13:32.72,0:13:35.18,Tamao Suzumi,,0,0,0,,È stata davvero insensibile.
-Dialogue: 0,0:13:35.18,0:13:37.49,Nagisa Aoi,,0,0,0,,È proprio il demone di tutte le Étoile.
+Dialogue: 0,0:13:35.18,0:13:37.51,Nagisa Aoi,,0,0,0,,È proprio il demone di tutte le Étoile.
 Dialogue: 0,0:13:41.04,0:13:42.72,Nagisa Aoi,,0,0,0,,Ehi, Tamao-chan,
 Dialogue: 0,0:13:42.72,0:13:46.44,Nagisa Aoi,,0,0,0,,secondo te perché è così severa?
 Dialogue: 0,0:13:46.44,0:13:50.72,Tamao Suzumi,,0,0,0,,Credo che semplicemente ci tenga ad avere un'Étoile di Miator.
@@ -566,7 +566,7 @@ Dialogue: 0,0:20:31.74,0:20:33.59,Nagisa Aoi,,0,0,0,,per andare avanti insieme.
 Dialogue: 0,0:20:41.18,0:20:43.04,Nagisa Aoi,,0,0,0,,Shizuma-sama.
 Dialogue: 0,0:20:43.04,0:20:44.25,Shizuma Hanazono,,0,0,0,,Cosa state facendo?
 Dialogue: 0,0:20:45.60,0:20:47.28,Shizuma Hanazono,,0,0,0,,È ora del vostro allenamento intensivo.
-Dialogue: 0,0:20:47.28,0:20:49.51,Shizuma Hanazono,,0,0,0,,Sbrigatevi ad andare sul palco.
+Dialogue: 0,0:20:47.28,0:20:49.51,Shizuma Hanazono,,0,0,0,,Sbrigatevi a salire sul palco.
 Dialogue: 0,0:20:51.46,0:20:52.84,Nagisa Aoi,,0,0,0,,Sì!
 Dialogue: 0,0:20:51.46,0:20:52.84,Tamao Suzumi,,0,0,0,,Sì!
 Dialogue: 0,0:20:57.26,0:21:00.53,Shizuma Hanazono,,0,0,0,,Quindi tu hai scelto di partecipare all'elezione dell'Étoile.
@@ -577,7 +577,7 @@ Dialogue: 0,0:21:06.17,0:21:07.80,Shizuma Hanazono,,0,0,0,,Diventa Étoile,
 Dialogue: 0,0:21:07.80,0:21:08.99,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:21:09.67,0:21:10.95,Shizuma Hanazono,,0,0,0,,No,
 Dialogue: 0,0:21:10.95,0:21:14.16,Shizuma Hanazono,,0,0,0,,tu devi per forza diventare Étoile.
-Dialogue: 0,0:21:14.16,0:21:16.29,Shizuma Hanazono,,0,0,0,,L'hai voluto di tua spontanea volontà.
+Dialogue: 0,0:21:14.16,0:21:16.29,Shizuma Hanazono,,0,0,0,,Hai scelto tu di volerlo essere.
 Dialogue: 0,0:21:22.17,0:21:23.44,Shizuma Hanazono,,0,0,0,,Non abbiamo molto tempo.
 Dialogue: 0,0:21:23.44,0:21:24.69,Shizuma Hanazono,,0,0,0,,Iniziamo.
 Dialogue: 0,0:21:25.09,0:21:26.40,Nagisa Aoi,,0,0,0,,Sì!

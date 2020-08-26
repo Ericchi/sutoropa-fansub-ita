@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 295
-Active Line: 300
-Video Position: 23435
+Scroll Position: 304
+Active Line: 312
+Video Position: 24292
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -439,11 +439,11 @@ Dialogue: 0,0:16:34.44,0:16:35.88,Amane Ootori,,0,0,0,,Certo che sei mattiniera.
 Dialogue: 0,0:16:37.26,0:16:38.15,Hikari Konohana,,0,0,0,,No,
 Dialogue: 0,0:16:38.67,0:16:40.22,Hikari Konohana,,0,0,0,,non riuscivo a dormire.
 Dialogue: 0,0:16:42.33,0:16:44.12,Hikari Konohana,,0,0,0,,Ootori-sama, lei è sveglia così presto per-
-Dialogue: 0,0:16:44.12,0:16:44.97,Amane Ootori,,0,0,0,,"Amane".
+Dialogue: 0,0:16:44.12,0:16:44.97,Amane Ootori,,0,0,0,,Amane.
 Dialogue: 0,0:16:45.26,0:16:46.29,Hikari Konohana,,0,0,0,,Sì.
-Dialogue: 0,0:16:50.09,0:16:51.29,Amane Ootori,,0,0,0,,Soltanto "Amane".
+Dialogue: 0,0:16:50.09,0:16:51.29,Amane Ootori,,0,0,0,,Soltanto Amane.
 Dialogue: 0,0:16:51.58,0:16:53.18,Hikari Konohana,,0,0,0,,Amane-sama-
-Dialogue: 0,0:16:53.18,0:16:54.54,Amane Ootori,,0,0,0,,Non c'è bisogno del "sama".
+Dialogue: 0,0:16:53.18,0:16:54.54,Amane Ootori,,0,0,0,,Non c'è bisogno del sama.
 Dialogue: 0,0:16:55.25,0:16:58.20,Hikari Konohana,,0,0,0,,Amane-senpai, cosa ci fa sveglia così presto?
 Dialogue: 0,0:16:58.20,0:16:59.46,Amane Ootori,,0,0,0,,Faccio allenamento.
 Dialogue: 0,0:16:59.81,0:17:00.77,Hikari Konohana,,0,0,0,,Allenamento?
