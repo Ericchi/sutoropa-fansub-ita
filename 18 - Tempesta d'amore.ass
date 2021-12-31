@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 160
-Active Line: 164
-Video Position: 6765
+Scroll Position: 214
+Active Line: 223
+Video Position: 16765
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -374,7 +374,7 @@ Dialogue: 0,0:11:31.72,0:11:32.90,Nagisa Aoi,,0,0,0,,Quella ragazza è...
 Dialogue: 0,0:11:33.48,0:11:35.42,Nagisa Aoi,,0,0,0,,l'altra Étoile.
 Dialogue: 0,0:11:36.05,0:11:37.52,Shizuma Hanazono,,0,0,0,,Il suo nome è
 Dialogue: 0,0:11:38.48,0:11:39.23,Shizuma Hanazono,,0,0,0,,Kaori.
-Dialogue: 0,0:11:39.23,0:11:45.88,Note,,0,0,0,,Nota: Shizuma pronuncia il nome di Kaori nel suo monologo all'inizio del primo episodio. Una delle traduzioni di "Kaori" è "fragranza". Shizuma dice di non riuscire più a percepire la "fragranza" dei fiori, probabilmente riferendosi a Kaori.
+Dialogue: 0,0:11:39.23,0:11:48.54,Note,,0,0,0,,Nota: Shizuma ha pronunciato il nome di Kaori nel suo monologo all'inizio del primo episodio. In giapponese "Kaori" significa "fragranza". Durante il suo monologo, Shizuma si domanda da quanto tempo non riesce più a percepire la "fragranza" dei fiori, riferendosi in realtà al tempo trascorso dalla scomparsa di Kaori.
 Dialogue: 0,0:11:51.34,0:11:53.31,Nagisa Aoi,,0,0,0,,Kaori-san.
 Dialogue: 0,0:11:54.36,0:11:56.96,Shizuma Hanazono,,0,0,0,,Già, Sakuragi Kaori.
 Dialogue: 0,0:11:57.43,0:11:59.96,Nagisa Aoi,,0,0,0,,Sakuragi Kaori.
