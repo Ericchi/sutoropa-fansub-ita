@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 285
-Active Line: 295
-Video Position: 17933
+Video Zoom Percent: 0.875000
+Scroll Position: 171
+Active Line: 179
+Video Position: 1887
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -164,9 +164,72 @@ Style: Scartoffie GROSSE,Bookman Old Style,60,&H00070707,&H000000FF,&H00000000,&
 Style: Shion - Secondo piano,PT Serif,52,&H00E0FF7A,&H000000FF,&H00282F28,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,8,10,10,10,1
 Style: Hikari - Secondo piano,PT Serif,52,&H0060FFF6,&H000000FF,&H00222628,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,2,8,10,10,10,1
 Style: Lyrics traduzione sx,Magnolia Script,52,&H00D5F9FF,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,1,20,10,10,1
+Style: Opening2,Magnolia Script,60,&H00FF938C,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,8,10,10,10,1
+Style: Opening2 traduzione,Magnolia Script,60,&H00FF938C,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,2,10,10,10,1
+Style: Opening2 traduzione cori,Magnolia Script,60,&H00FF938C,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,2,10,10,10,1
+Style: Ending2,Magnolia Script,60,&H009959D6,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,8,10,10,10,1
+Style: Ending2 traduzione,Magnolia Script,60,&H009959D6,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,2,10,10,10,1
+Style: Opening traduzione,Magnolia Script,60,&H00D0BAFF,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,2,10,10,10,1
+Style: Opening,Magnolia Script,60,&H00D0BAFF,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,8,10,10,10,1
+Style: Ending,Magnolia Script,60,&H00B0B0B0,&H009E139D,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,1.5,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,high=300
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,perc={1;0.9;0.8;0.7;0.6;0.5;0.4}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code syl all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,ci = {0,0}; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,color={"&H0000FF&","&H007FFF&","&H00FFFF&","&H00FF64&","&HFFFF00&","&H4D52D7&","&H4D52D7&"}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,stt=0; stc=0; dau=1; pri=0;
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,function dem2(a) stt=stt+1; return ""; end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,function colorval(a) a=a+dau; if a==8 then dau=dau*(-1); a=6; end; if a==0 then dau=dau*(-1); a=2; end; pri=a; stc=a; return a; end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,high=300
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,perc={1;0.9;0.8;0.7;0.6;0.5;0.4}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,color0={"&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&"}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,stt=0
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once all,function dem4(a) stt=stt+1; return stt; end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once,la_vang = { "m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2 "}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code syl all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,ci = { 0}; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 1,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template char notext,!char_counter(1)!!retime("start2syl",-900+(ci[1]-1)*20,500+(ci[1]-1)*25)!{\fad(0,100)\c&HFFFFFF&\bord2\3c&HFFFFFF&\blur4\fscx2\fscy2\an5\move($scenter,!$smiddle-25!,!$scenter+math.random(-50,50)!,!$smiddle+math.random(-25,70)!)\fad(230,0)\t(0,!line.duration!,\fscy3\fscx3\fad(0,500)\p1)}!la_vang[math.random(2)]!
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code line all,ci2 = { 0 }; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,code once,la = {"m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2 "}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template char loop 2,!dem2(1)!!retime("start2syl",-1200+stt*5+j*10,0)!{\move(!$scenter-30!,!$smiddle-30!,!$scenter+10!,!$smiddle+10!,0,!300+j*25!)\an5\bord0\fsc120\alpha&ff&\t(0,!200+j*25!,\alpha&HAF\fsc100)\t(!200+j*25!,!300+j*25!,\alpha&ff&)}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template noblank char,!dem2(1)!!retime("start2syl",-1200+stt*5+120,0)!{\pos($scenter,$smiddle)\an5\1c&ffffff&\bord0\blur8\t(0,60,\alpha&HAF\blur0)}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template char loop 2,!dem2(1)!!retime("start2syl",-1200+stt*5+j*10,0)!{\move(!$scenter+30!,!$smiddle+30!,!$scenter-10!,!$smiddle-10!,0,!300+j*25!)\an5\bord0\fsc120\alpha&ff&\t(0,!200+j*25!,\alpha&HAF\fsc100)\t(!200+j*25!,!300+j*25!,\alpha&ff&)}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template syl noblank,!retime("syl",0,0)!{\pos($scenter,$sbottom)\an2\3c&H7E111A&\t(0,!line.duration/4.5!,0.65,\bord2\blur7\fscy120)\t(!line.duration/2.5!,!line.duration!,1.35,\3c&HD7524D&\fscy100\bord1\blur2)}
+Comment: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template noblank char,!retime("syl2end",0,$lright)!{\pos($scenter,$smiddle)\\bord1\blur2\an5\t(!line.duration-$lright-1000+$scenter+(j-1)*8!,!line.duration-$lright-950+$scenter+(j-1)*8!,0.5,\fsc80\bord1.3\blur2\3c&H000000&)\t(!line.duration-$lright-950+$scenter+(j-1)*8!,!line.duration-$lright-600+$scenter+(j-1)*8!,0.5,\fsc120\alpha&ff&\bord1\blur0)}
+Comment: 0,0:00:16.98,0:00:16.98,Opening2,,0,0,0,template noblank char,!retime("start2syl",-1200,0)!{\pos($scenter,$smiddle)\an5\1c&HD7524D&\alpha&ff&\fsc120\bord0\blur8\be8\frs2\t(!(dem4(1)-1)*50!,!(dem4(1)+7)*50!,0.75,\alpha&HAF\blur0\be0\frs0\fsc100)}
+Comment: 1,0:00:00.00,0:00:00.00,Opening2,,0,0,0,template noblank notext,!retime("syl",-200,500)!{\fscx20\fscy30\c&HD7524D&\3c&HD7524D&\fad(0,200)\bord2\blur3\an5\frz!math.random(-40,45)!\move(!$scenter+math.random(-20,20)!,!$smiddle+math.random(-50,-30)!,!$scenter+math.random(-70,70)!,!$smiddle+math.random(30,50)!)\t(0,3000,\frz!math.random(-200,200)!)\t(0,100,\bord0.5\blur4\3c&HD7524D&)\p1}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
+Dialogue: 0,0:00:00.00,0:00:00.00,Opening2,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,high=300
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,perc={1;0.9;0.8;0.7;0.6;0.5;0.4}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code syl all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,ci = {0,0}; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,color={"&H0000FF&","&H007FFF&","&H00FFFF&","&H00FF64&","&HFFFF00&","&HFF66FF&","&HFF008C&"}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,stt=0; stc=0; dau=1; pri=0;
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,function dem2(a) stt=stt+1; return ""; end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,function colorval(a) a=a+dau; if a==8 then dau=dau*(-1); a=6; end; if a==0 then dau=dau*(-1); a=2; end; pri=a; stc=a; return a; end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,high=300
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,perc={1;0.9;0.8;0.7;0.6;0.5;0.4}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,color0={"&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&","&HE2E2E2&"}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,stt=0
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once all,function dem4(a) stt=stt+1; return stt; end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once,la_vang = { "m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2 "}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code syl all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,ci = { 0}; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 1,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template char notext,!char_counter(1)!!retime("start2syl",-900+(ci[1]-1)*20,500+(ci[1]-1)*25)!{\fad(0,100)\c&HFFFFFF&\bord2\3c&HFFFFFF&\blur4\fscx2\fscy2\an5\move($scenter,!$smiddle-25!,!$scenter+math.random(-50,50)!,!$smiddle+math.random(-25,70)!)\fad(230,0)\t(0,!line.duration!,\fscy3\fscx3\fad(0,500)\p1)}!la_vang[math.random(2)]!
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code syl all,function char_counter2(ref) ci2[ref] = ci2[ref] + 1; return "" end
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code line all,ci2 = { 0 }; cn = _G.unicode.len(orgline.text_stripped:gsub(" ",""))
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,code once,la = {"m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2 "}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template char loop 2,!dem2(1)!!retime("start2syl",-1200+stt*5+j*10,0)!{\move(!$scenter-30!,!$smiddle-30!,!$scenter+10!,!$smiddle+10!,0,!300+j*25!)\an5\bord0\fsc120\alpha&ff&\t(0,!200+j*25!,\alpha&HAF\fsc100)\t(!200+j*25!,!300+j*25!,\alpha&ff&)}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template noblank char,!dem2(1)!!retime("start2syl",-1200+stt*5+120,0)!{\pos($scenter,$smiddle)\an5\1c&ffffff&\bord0\blur8\t(0,60,\alpha&HAF\blur0)}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template char loop 2,!dem2(1)!!retime("start2syl",-1200+stt*5+j*10,0)!{\move(!$scenter+30!,!$smiddle+30!,!$scenter-10!,!$smiddle-10!,0,!300+j*25!)\an5\bord0\fsc120\alpha&ff&\t(0,!200+j*25!,\alpha&HAF\fsc100)\t(!200+j*25!,!300+j*25!,\alpha&ff&)}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template syl noblank,!retime("syl",0,0)!{\pos($scenter,$sbottom)\an2\3c&HFFFFFF&\t(0,!line.duration/4.5!,0.65,\bord2\blur7\fscy120)\t(!line.duration/2.5!,!line.duration!,1.35,\3c&HE2E2E2&\fscy100\bord1\blur2)}
+Comment: 0,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template noblank char,!retime("syl2end",0,$lright)!{\pos($scenter,$smiddle)\\bord1\blur2\an5\t(!line.duration-$lright-1000+$scenter+(j-1)*8!,!line.duration-$lright-950+$scenter+(j-1)*8!,0.5,\fsc80\bord1.3\blur2\3c&ffffff&)\t(!line.duration-$lright-950+$scenter+(j-1)*8!,!line.duration-$lright-600+$scenter+(j-1)*8!,0.5,\fsc120\alpha&ff&\bord1\blur0)}
+Comment: 0,0:00:16.98,0:00:16.98,Ending2,,0,0,0,template noblank char,!retime("start2syl",-1200,0)!{\pos($scenter,$smiddle)\an5\1c&ffffff&\alpha&ff&\fsc120\bord0\blur8\be8\frs2\t(!(dem4(1)-1)*50!,!(dem4(1)+7)*50!,0.75,\alpha&HAF\blur0\be0\frs0\fsc100)}
+Comment: 1,0:00:00.00,0:00:00.00,Ending2,,0,0,0,template noblank notext,!retime("syl",-200,500)!{\fscx20\fscy30\c&H9959D6&\3c&H9959D6&\fad(0,200)\bord2\blur3\an5\frz!math.random(-40,45)!\move(!$scenter+math.random(-20,20)!,!$smiddle+math.random(-50,-30)!,!$scenter+math.random(-70,70)!,!$smiddle+math.random(30,50)!)\t(0,3000,\frz!math.random(-200,200)!)\t(0,100,\bord0.5\blur4\3c&H9959D6&)\p1}m 0 0 l -1 1 l -2 -1 l -1 -2 l -1 -2 b -25 -7 -12 -28 -15 -39 b -15 -39 -15 -39 -15 -39 b -15 -39 -15 -39 -15 -39 l 1 -3 l 1 0 l 1 -3 b 1 -3 1 -3 1 -3 b 1 -2 2 -2 2 -1 b 2 -1 2 -1 2 -1 b 14 -31 -11 -29 -15 -39 b 1 -2 1 -2 1 -1 b 2 -2 2 -3 3 -4 b 7 -14 17 -9 24 -12 b 17 -9 13 6 3 -2
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once all,high=300
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code once all,perc={1;0.9;0.8;0.7;0.6;0.5;0.4}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,code syl all,function char_counter(ref) ci[ref] = ci[ref] + 1; return "" end
@@ -462,7 +525,7 @@ Dialogue: 0,0:12:01.97,0:12:03.26,Miyuki Rokujou,,0,0,0,,Hai ragione.
 Dialogue: 0,0:12:23.30,0:12:24.52,Amane Ootori,,0,0,0,,Io,
 Dialogue: 0,0:12:24.52,0:12:26.23,Amane Ootori,,0,0,0,,Ootori Amane,
 Dialogue: 0,0:12:26.23,0:12:27.96,Amane Ootori,,0,0,0,,nei confronti di Konohana Hikari
-Dialogue: 0,0:12:27.96,0:12:30.55,Amane Ootori,,0,0,0,,donerò protezione con tutto il corpo e l'anima.
+Dialogue: 0,0:12:27.96,0:12:30.55,Amane Ootori,,0,0,0,,offrirò protezione con tutto il corpo e l'anima.
 Dialogue: 0,0:12:30.55,0:12:31.96,Amane Ootori,,0,0,0,,Lo giuro.
 Dialogue: 0,0:13:01.12,0:13:03.11,Nagisa Aoi,,0,0,0,,C-certo.
 Dialogue: 0,0:13:04.55,0:13:06.09,Nagisa Aoi,,0,0,0,,Grazie mille.
@@ -514,13 +577,13 @@ Dialogue: 0,0:18:18.76,0:18:20.22,Nagisa Aoi,,0,0,0,,ma...!
 Dialogue: 0,0:18:21.48,0:18:23.02,Tamao Suzumi,,0,0,0,,A quanto pare,
 Dialogue: 0,0:18:23.02,0:18:25.42,Tamao Suzumi,,0,0,0,,non posso proprio farci nulla.
 Dialogue: 0,0:18:25.42,0:18:26.91,Nagisa Aoi,,0,0,0,,Tamao-chan?
-Dialogue: 0,0:18:27.87,0:18:29.52,Tamao Suzumi,,0,0,0,,Vai,
+Dialogue: 0,0:18:27.87,0:18:29.52,Tamao Suzumi,,0,0,0,,Buona giornata,
 Dialogue: 0,0:18:29.52,0:18:31.02,Tamao Suzumi,,0,0,0,,Nagisa-chan.
 Dialogue: 0,0:18:42.59,0:18:44.41,Nagisa Aoi,,0,0,0,,Tamao-chan.
 Dialogue: 0,0:19:04.02,0:19:05.64,Nagisa Aoi,,0,0,0,,Shizuma-sama!
 Dialogue: 0,0:19:07.90,0:19:09.08,Shizuma Hanazono,,0,0,0,,Nagisa.
 Dialogue: 0,0:19:20.69,0:19:22.00,Shizuma Hanazono,,0,0,0,,Andiamo.
-Dialogue: 0,0:19:22.00,0:19:23.80,Nagisa Aoi,,0,0,0,,C-come?
+Dialogue: 0,0:19:22.00,0:19:23.80,Nagisa Aoi,,0,0,0,,S-sì?
 Dialogue: 0,0:19:28.92,0:19:30.54,Shizuma Hanazono,,0,0,0,,Andiamo!
 Dialogue: 0,0:19:34.28,0:19:35.72,Miyuki Rokujou,,0,0,0,,Shizuma!
 Dialogue: 0,0:19:39.75,0:19:41.60,Miyuki Rokujou,,0,0,0,,Shizuma!
@@ -563,11 +626,11 @@ Dialogue: 0,0:22:30.36,0:22:33.07,Lyrics traduzione,,0,0,0,,Ci ho creduto,
 Comment: 0,0:22:33.17,0:22:37.00,Default,,0,0,0,karaoke,{\k42}Shi{\k36}n{\k35}ji{\k36}te {\k33}i{\k71}ru {\k35}no {\k95}to
 Dialogue: 0,0:22:33.17,0:22:37.00,Lyrics traduzione,,0,0,0,,ci sto credendo.
 Comment: 0,0:22:37.41,0:22:41.88,Default,,0,0,0,karaoke,{\k21}Chi{\k21}ka{\k104}u {\k27}a{\k74}su {\k37}ga {\k67}a{\k96}ru
-Dialogue: 0,0:22:37.41,0:22:41.88,Lyrics traduzione,,0,0,0,,Farò in modo che ci sia un domani
+Dialogue: 0,0:22:37.41,0:22:41.88,Lyrics traduzione,,0,0,0,,Giuro che ci sarà un domani
 Comment: 0,0:22:42.32,0:22:45.33,Canti,,0,0,0,karaoke,{\k36}To{\k35}wa {\k27}ni {\k70}shou{\k45}jo {\k88}wa
-Dialogue: 0,0:22:42.32,0:22:45.33,Lyrics traduzione sx,,0,0,0,,in questa storia che continua
+Dialogue: 0,0:22:42.32,0:22:45.33,Lyrics traduzione sx,,0,0,0,,in questa storia eterna che
 Comment: 0,0:22:45.80,0:22:52.53,Canti,,0,0,0,karaoke,{\k22}Tsu{\k15}mu{\k68}gi {\k36}tsu{\k68}zu{\k65}ke{\k40}ru {\k66}mo{\k39}no{\k75}ga{\k67}ta{\k112}ri
-Dialogue: 0,0:22:45.80,0:22:52.53,Lyrics traduzione sx,,0,0,0,,e racconta di una ragazza in eterno.
+Dialogue: 0,0:22:45.80,0:22:52.53,Lyrics traduzione sx,,0,0,0,,racconta di questa giovane ragazza.
 Comment: 0,0:22:52.82,0:22:55.31,Canti,,0,0,0,karaoke,{\k27}A{\k42}na{\k34}ta {\k34}no {\k32}na{\k80}ka
 Dialogue: 0,0:22:52.82,0:22:55.31,Lyrics traduzione sx,,0,0,0,,Dentro di te,
 Comment: 0,0:22:55.62,0:22:59.37,Canti,,0,0,0,karaoke,{\k31}A{\k36}na{\k33}ta {\k28}no {\k38}na{\k74}ka {\k36}ni {\k99}mo

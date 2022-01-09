@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 194
-Active Line: 198
-Video Position: 13452
+Scroll Position: 350
+Active Line: 363
+Video Position: 25717
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -331,7 +331,7 @@ Dialogue: 0,0:08:11.28,0:08:13.58,Tamao Suzumi,,0,0,0,,Bene, ora mettiti a gambe
 Dialogue: 0,0:08:14.91,0:08:16.12,Nagisa Aoi,,0,0,0,,Mi fai il solletico!
 Dialogue: 0,0:08:16.12,0:08:18.27,Tamao Suzumi,,0,0,0,,Per favore, cerca di rimanere ferma.
 Dialogue: 0,0:08:18.27,0:08:19.40,Nagisa Aoi,,0,0,0,,Sì...
-Dialogue: 0,0:08:19.40,0:08:20.42,Scartoffie,,0,0,0,,{\frz51.07\pos(524.564,388.572)\frx18\fry302}Aula del negozio
+Dialogue: 0,0:08:19.40,0:08:23.20,Scartoffie,,0,0,0,,{\frz51.07\move(539.252,377.905,908.067,-96,1325,3577)}Negozio
 Dialogue: 0,0:08:25.40,0:08:29.91,Scartoffie,,0,0,0,,{\frz21.08\pos(310.858,196.572)}Modulo d'ordine delle uniformi
 Dialogue: 0,0:08:25.40,0:08:29.91,Scartoffie,,0,0,0,,{\frz21.08\pos(369.144,432.001)}Nome completo
 Dialogue: 0,0:08:25.40,0:08:29.91,Scartoffie,,0,0,0,,{\frz21.08\pos(716.573,297.143)}Aoi Nagisa
@@ -361,8 +361,8 @@ Dialogue: 0,0:09:04.68,0:09:07.28,Tamao Suzumi,,0,0,0,,Tutte le informazioni su 
 Dialogue: 0,0:09:07.28,0:09:10.11,Tamao Suzumi,,0,0,0,,per me sono come un tesoro prezioso!
 Dialogue: 0,0:09:13.09,0:09:16.68,Tamao Suzumi,,0,0,0,,I tuoi genitori si sono trasferiti all'estero?
 Dialogue: 0,0:09:16.68,0:09:21.06,Nagisa Aoi,,0,0,0,,Già, e io ho vissuto da sola.
-Dialogue: 0,0:09:21.06,0:09:24.96,Nagisa Aoi,,0,0,0,,Mia zia frequentò St. Miator e disse che mi ci avrebbe portata,
-Dialogue: 0,0:09:24.96,0:09:28.08,Nagisa Aoi,,0,0,0,,quindi il mio trasferimento qui è stato deciso immediatamente.
+Dialogue: 0,0:09:21.06,0:09:24.96,Nagisa Aoi,,0,0,0,,Mia zia frequentò Miator e disse che mi ci avrebbe portata,
+Dialogue: 0,0:09:24.96,0:09:28.08,Nagisa Aoi,,0,0,0,,di conseguenza il mio trasferimento qui è stato deciso immediatamente.
 Dialogue: 0,0:09:28.08,0:09:29.84,Tamao Suzumi,,0,0,0,,Ho capito.
 Dialogue: 0,0:09:30.08,0:09:33.92,Tamao Suzumi,,0,0,0,,Di solito le studentesse non si trasferiscono qui al quarto anno,
 Dialogue: 0,0:09:33.92,0:09:35.89,Tamao Suzumi,,0,0,0,,quindi ho pensato che fosse strano.
@@ -457,11 +457,11 @@ Dialogue: 0,0:14:54.35,0:14:55.62,Miyuki Rokujou,,0,0,0,,Scusi il disturbo.
 Dialogue: 0,0:14:57.69,0:15:02.44,Miyuki Rokujou,,0,0,0,,Questa volta vorrei occuparmene personalmente, se per lei non è un problema.
 Dialogue: 0,0:15:02.77,0:15:04.36,Sorella,,0,0,0,,No, non è un problema.
 Dialogue: 0,0:15:04.36,0:15:07.59,Sorella,,0,0,0,,Se la presidentessa del consiglio studentesco è venuta apposta,
-Dialogue: 0,0:15:07.59,0:15:10.16,Sorella,,0,0,0,,lascerò che se ne occupi lei.
+Dialogue: 0,0:15:07.59,0:15:10.16,Sorella,,0,0,0,,lascerò che stavolta se ne occupi lei.
 Dialogue: 0,0:15:10.62,0:15:12.36,Miyuki Rokujou,,0,0,0,,Grazie infinite.
 Dialogue: 0,0:15:15.02,0:15:16.07,Miyuki Rokujou,,0,0,0,,Andiamo.
 Dialogue: 0,0:15:19.53,0:15:21.37,Miyuki Rokujou,,0,0,0,,Certo che sei sfortunata.
-Dialogue: 0,0:15:23.17,0:15:25.75,Miyuki Rokujou,,0,0,0,,Sgridata dalla sorella al tuo primo giorno.
+Dialogue: 0,0:15:23.17,0:15:25.80,Miyuki Rokujou,,0,0,0,,Sgridata dalla sorella al tuo primo giorno.
 Dialogue: 0,0:15:26.20,0:15:28.81,Nagisa Aoi,,0,0,0,,G-già, ecco...
 Dialogue: 0,0:15:29.28,0:15:32.21,Tamao Suzumi,,0,0,0,,Lei è Rokujou Miyuki-sama, del sesto anno.
 Dialogue: 0,0:15:32.46,0:15:34.78,Tamao Suzumi,,0,0,0,,È la presidentessa del consiglio studentesco di Miator.
@@ -472,14 +472,14 @@ Dialogue: 0,0:15:43.81,0:15:45.88,Miyuki Rokujou,,0,0,0,,Per favore, fai attenzi
 Dialogue: 0,0:15:47.08,0:15:48.37,Nagisa Aoi,,0,0,0,,Ma, ma.
 Dialogue: 0,0:15:48.37,0:15:51.22,Nagisa Aoi,,0,0,0,,Far venire la presidentessa del consiglio studentesco fin qui...
 Dialogue: 0,0:15:51.60,0:15:52.76,Miyuki Rokujou,,0,0,0,,Non preoccuparti.
-Dialogue: 0,0:15:52.76,0:15:54.49,Miyuki Rokujou,,0,0,0,,È il mio mestiere, dopotutto.
-Dialogue: 0,0:15:54.73,0:15:57.99,Miyuki Rokujou,,0,0,0,,Comunque, se sei così agitata con me,
+Dialogue: 0,0:15:52.76,0:15:54.49,Miyuki Rokujou,,0,0,0,,È il mio lavoro, dopotutto.
+Dialogue: 0,0:15:54.73,0:15:57.99,Miyuki Rokujou,,0,0,0,,E poi, se sei così agitata con me,
 Dialogue: 0,0:15:57.99,0:15:59.92,Miyuki Rokujou,,0,0,0,,come sarai quando incontrerai l'Étoile?
 Dialogue: 0,0:16:00.42,0:16:03.52,Nagisa Aoi,,0,0,0,,Che cos'è l'Étoile?
 Dialogue: 0,0:16:03.52,0:16:04.91,Nagisa Aoi,,0,0,0,,È un'insegnante?
 Dialogue: 0,0:16:06.99,0:16:08.54,Tamao Suzumi,,0,0,0,,È una studentessa.
 Dialogue: 0,0:16:08.54,0:16:12.40,Tamao Suzumi,,0,0,0,,È la rappresentante di Miator, Spica e Lulim.
-Dialogue: 0,0:16:12.40,0:16:14.79,Nagisa Aoi,,0,0,0,,La rappresentante di tutte e tre le accademie?
+Dialogue: 0,0:16:12.40,0:16:14.79,Nagisa Aoi,,0,0,0,,La rappresentante di tutte e tre?
 Dialogue: 0,0:16:15.27,0:16:17.62,Nagisa Aoi,,0,0,0,,Fa più paura della sorella?
 Dialogue: 0,0:16:21.61,0:16:23.42,Miyuki Rokujou,,0,0,0,,No, affatto.
 Dialogue: 0,0:16:23.42,0:16:27.40,Tamao Suzumi,,0,0,0,,È amata e rispettata da tutte, nelle tre accademie.
@@ -495,7 +495,7 @@ Dialogue: 0,0:16:50.64,0:16:52.18,Tamao Suzumi,,0,0,0,,Andiamo alla sala da pran
 Dialogue: 0,0:16:52.18,0:16:53.32,Nagisa Aoi,,0,0,0,,V-va bene.
 Dialogue: 0,0:17:00.25,0:17:03.36,Kizuna Hyuuga,,0,0,0,,Ehi, ehi! Come pensate che sarà la nuova studentessa?
 Dialogue: 0,0:17:03.36,0:17:05.54,Remon Natsume,,0,0,0,,Sarà sicuramente bellissima!
-Dialogue: 0,0:17:06.62,0:17:08.42,Kizuna Hyuuga,,0,0,0,,Spero che sia così!
+Dialogue: 0,0:17:06.62,0:17:08.42,Kizuna Hyuuga,,0,0,0,,Non vedo l'ora di incontrarla!
 Dialogue: 0,0:17:09.92,0:17:11.92,Kagome Byakudan,,0,0,0,,Percival,
 Dialogue: 0,0:17:11.92,0:17:14.68,Kagome Byakudan,,0,0,0,,sai qualcosa della studentessa appena arrivata?
 Dialogue: 0,0:17:17.06,0:17:19.00,Remon Natsume,,0,0,0,,Ah, scusami!
@@ -504,7 +504,7 @@ Dialogue: 0,0:17:22.98,0:17:27.73,Gente random,,0,0,0,,Hai sentito della student
 Dialogue: 0,0:17:27.73,0:17:31.53,Chiyo Tsukidate,,0,0,0,,Eh, no, volevo dire, sì, ah, ecco...
 Dialogue: 0,0:17:34.28,0:17:36.94,Gente random,,0,0,0,,Hai sentito della nuova studentessa?
 Dialogue: 0,0:17:37.68,0:17:41.66,Tsubomi Okuwaka,,0,0,0,,Non mi interessa la nuova arrivata di Miator.
-Dialogue: 0,0:17:43.64,0:17:48.13,Yaya Nanto,,0,0,0,,Hikari, non mi piace che apprezzi altre persone oltre a me.
+Dialogue: 0,0:17:43.64,0:17:47.94,Yaya Nanto,,0,0,0,,Hikari, così non va. Non mi piace che apprezzi altre persone oltre a me.
 Dialogue: 0,0:17:48.25,0:17:51.57,Hikari Konohana,,0,0,0,,Yaya-chan, la gente penserà male...
 Dialogue: 0,0:17:55.88,0:17:57.72,Amane Ootori,,0,0,0,,Nuova studentessa, eh.
 Dialogue: 0,0:17:59.15,0:18:00.44,Miyuki Rokujou,,0,0,0,,Questa è la sala da pranzo.
