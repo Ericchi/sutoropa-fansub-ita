@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 176
-Active Line: 191
-Video Position: 8512
+Scroll Position: 122
+Active Line: 124
+Video Position: 2613
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -261,7 +261,7 @@ Dialogue: 0,0:01:37.02,0:01:39.43,Tamao Suzumi,,0,0,0,,Oppure è il confine dell
 Dialogue: 0,0:01:40.08,0:01:42.16,Tamao Suzumi,,0,0,0,,Ad ogni modo, non lo rimpiango.
 Dialogue: 0,0:01:42.51,0:01:46.98,Tamao Suzumi,,0,0,0,,Anche se dovessi morire in un raggio di luce invernale.
 Dialogue: 0,0:01:47.05,0:01:48.98,Tamao Suzumi,,0,0,0,,Oh, arcobaleno!
-Dialogue: 0,0:01:48.99,0:01:52.33,Tamao Suzumi,,0,0,0,,Arcobaleno, arcobaleno, mio amato arcobaleno.
+Dialogue: 0,0:01:48.99,0:01:52.33,Tamao Suzumi,,0,0,0,,Arcobaleno, arcobaleno, mio caro arcobaleno.
 Dialogue: 0,0:01:52.51,0:01:54.33,Tamao Suzumi,,0,0,0,,Mio caro arcobaleno.
 Dialogue: 0,0:01:54.48,0:01:56.33,Tamao Suzumi,,0,0,0,,Mio caro arcobaleno...
 Dialogue: 0,0:01:56.56,0:01:58.65,Tamao Suzumi,,0,0,0,,Mio caro... arcobaleno...
