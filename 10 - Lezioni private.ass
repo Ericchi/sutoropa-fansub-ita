@@ -16,8 +16,8 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 233
-Active Line: 236
+Scroll Position: 410
+Active Line: 429
 Video Position: 38324
 
 [V4+ Styles]
@@ -416,7 +416,7 @@ Dialogue: 0,0:09:35.13,0:09:36.98,Shizuma Hanazono,,0,0,0,,Cos'altro ci dovrebbe
 Dialogue: 0,0:09:49.08,0:09:49.79,Shizuma Hanazono,,0,0,0,,Eh?
 Dialogue: 0,0:09:58.98,0:10:00.51,Shizuma Hanazono,,0,0,0,,Étoile-sama?
 Dialogue: 0,0:10:00.76,0:10:02.78,Shizuma Hanazono,,0,0,0,,Mi sembri molto stanca.
-Dialogue: 0,0:10:02.91,0:10:05.54,Nagisa Aoi,,0,0,0,,N-no, sto benissimo.
+Dialogue: 0,0:10:02.91,0:10:05.54,Nagisa Aoi,,0,0,0,,N-no, non è vero.
 Dialogue: 0,0:10:05.89,0:10:07.58,Shizuma Hanazono,,0,0,0,,Meglio così, suppongo.
 Dialogue: 0,0:10:14.63,0:10:16.29,Shizuma Hanazono,,0,0,0,,Tutte le notti, fino al mattino?
 Dialogue: 0,0:10:16.64,0:10:18.55,Tamao Suzumi,,0,0,0,,Sì, e poi...
@@ -424,14 +424,14 @@ Dialogue: 0,0:10:19.56,0:10:21.24,Tamao Suzumi,,0,0,0,,Anche per le strade della
 Dialogue: 0,0:10:21.70,0:10:24.26,Tamao Suzumi,,0,0,0,,durante le pause e all'ora di pranzo,
 Dialogue: 0,0:10:24.92,0:10:26.77,Tamao Suzumi,,0,0,0,,mentre fa il bagno...
 Dialogue: 0,0:10:27.80,0:10:28.78,Shizuma Hanazono,,0,0,0,,Capisco.
-Dialogue: 0,0:10:28.78,0:10:29.80,Shizuma Hanazono,,0,0,0,,Così tanto...
+Dialogue: 0,0:10:28.78,0:10:29.80,Shizuma Hanazono,,0,0,0,,È così...
 Dialogue: 0,0:10:35.97,0:10:38.17,Mizuho Kanou,,0,0,0,,Mi domando se stia bene.
-Dialogue: 0,0:10:38.37,0:10:42.61,Hitomi Tougi,,0,0,0,,Se non verrà promossa, non farà altro che mettere in cattiva luce Shizuma-sama.
+Dialogue: 0,0:10:38.37,0:10:42.61,Mizuho Kanou,,0,0,0,,Se non verrà promossa, non farà altro che mettere in cattiva luce Shizuma-sama.
 Dialogue: 0,0:10:42.84,0:10:46.08,Hitomi Tougi,,0,0,0,,Però, nonostante tutto, Shizuma-sama sembra coinvolta.
 Dialogue: 0,0:10:46.37,0:10:47.96,Nagisa Aoi,,0,0,0,,Questo è giusto?
 Dialogue: 0,0:10:48.25,0:10:49.24,Shizuma Hanazono,,0,0,0,,Sì, va bene.
 Dialogue: 0,0:10:49.45,0:10:50.93,Shizuma Hanazono,,0,0,0,,Hai fatto un buon lavoro.
-Dialogue: 0,0:10:50.93,0:10:53.67,Shizuma Hanazono,,0,0,0,,Hai imparato tantissimo, in una sola settimana.
+Dialogue: 0,0:10:50.93,0:10:53.67,Shizuma Hanazono,,0,0,0,,Hai imparato tantissimo in una sola settimana.
 Dialogue: 0,0:10:53.67,0:10:55.48,Nagisa Aoi,,0,0,0,,Dice davvero?
 Dialogue: 0,0:10:55.48,0:10:56.66,Shizuma Hanazono,,0,0,0,,Mancano tre giorni.
 Dialogue: 0,0:10:56.66,0:10:58.14,Shizuma Hanazono,,0,0,0,,Facciamo del nostro meglio.
@@ -449,7 +449,7 @@ Dialogue: 0,0:11:34.16,0:11:36.38,Nagisa Aoi,,0,0,0,,Ho fiducia nella mia resist
 Dialogue: 0,0:11:37.06,0:11:38.17,Shizuma Hanazono,,0,0,0,,Va bene.
 Dialogue: 0,0:11:39.28,0:11:42.00,Nagisa Aoi,,0,0,0,,Devo impegnarmi fino alla fine, ad ogni costo.
 Dialogue: 0,0:11:55.03,0:11:58.76,Nagisa Aoi,,0,0,0,,Ah! Finalmente l'esame di francese è finito!
-Dialogue: 0,0:11:58.71,0:12:00.33,Nagisa Aoi,,0,0,0,,Ora vado a fare un pisolino.
+Dialogue: 0,0:11:58.76,0:12:00.33,Nagisa Aoi,,0,0,0,,Ora vado a fare un pisolino.
 Dialogue: 0,0:12:00.96,0:12:05.08,Tamao Suzumi,,0,0,0,,Parli come se avessi già terminato tutti gli esami.
 Dialogue: 0,0:12:06.52,0:12:08.70,Tamao Suzumi,,0,0,0,,Oggi è solo il primo giorno.
 Dialogue: 0,0:12:08.70,0:12:10.26,Nagisa Aoi,,0,0,0,,G-già, è vero.
@@ -532,7 +532,7 @@ Dialogue: 0,0:17:14.58,0:17:15.92,Nagisa Aoi,,0,0,0,,Étoile-sama.
 Dialogue: 0,0:17:25.93,0:17:29.38,Nagisa Aoi,,0,0,0,,Étoile-sama, dov'è finita?
 Dialogue: 0,0:17:30.56,0:17:31.97,Nagisa Aoi,,0,0,0,,M-mi scusi.
 Dialogue: 0,0:17:32.30,0:17:35.28,Nagisa Aoi,,0,0,0,,Ha per caso visto Étoile-sama?
-Dialogue: 0,0:17:35.28,0:17:36.07,Miyuki Rokujou,,0,0,0,,No.
+Dialogue: 0,0:17:35.28,0:17:36.17,Miyuki Rokujou,,0,0,0,,No.
 Dialogue: 0,0:17:36.39,0:17:37.89,Miyuki Rokujou,,0,0,0,,Ti serve qualcosa da Shizuma?
 Dialogue: 0,0:17:37.89,0:17:39.97,Nagisa Aoi,,0,0,0,,No, nulla di importante.
 Dialogue: 0,0:17:40.39,0:17:41.88,Nagisa Aoi,,0,0,0,,Mi perdoni.
@@ -588,7 +588,7 @@ Dialogue: 0,0:21:45.73,0:21:47.41,Chiyo Tsukidate,,0,0,0,,Nagisa-oneesama!
 Dialogue: 0,0:21:48.01,0:21:50.27,Chiyo Tsukidate,,0,0,0,,Tamao-oneesama mi ha raccontato tutto.
 Dialogue: 0,0:21:50.27,0:21:52.49,Chiyo Tsukidate,,0,0,0,,Congratulazioni per aver superato gli esami.
 Dialogue: 0,0:21:52.49,0:21:53.77,Nagisa Aoi,,0,0,0,,Grazie.
-Dialogue: 0,0:21:53.77,0:21:56.12,Tamao Suzumi,,0,0,0,,Stanotte organizzeremo un ritrovo del tè per festeggiare.
+Dialogue: 0,0:21:53.77,0:21:56.12,Tamao Suzumi,,0,0,0,,Stanotte organizzeremo un raduno del tè per festeggiare.
 Dialogue: 0,0:21:56.12,0:21:56.91,Chiyo Tsukidate,,0,0,0,,Sì!
 Dialogue: 0,0:21:58.08,0:21:58.70,Miyuki Rokujou,,0,0,0,,Capisco.
 Dialogue: 0,0:21:59.05,0:22:01.23,Miyuki Rokujou,,0,0,0,,È grandioso che abbia passato l'esame.
