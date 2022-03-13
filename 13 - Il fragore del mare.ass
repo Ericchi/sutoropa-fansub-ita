@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 270
-Active Line: 286
-Video Position: 1290
+Scroll Position: 276
+Active Line: 284
+Video Position: 15246
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -443,7 +443,7 @@ Dialogue: 0,0:10:23.83,0:10:25.88,Kenjou Kaname,,0,0,0,,«La luna è davvero bel
 Dialogue: 0,0:10:29.15,0:10:31.38,Kenjou Kaname,,0,0,0,,Natsume Souseki era un genio.
 Dialogue: 0,0:10:31.38,0:10:34.22,Kenjou Kaname,,0,0,0,,Ha tradotto così una certa frase inglese.
 Dialogue: 0,0:10:35.90,0:10:37.91,Kenjou Kaname,,0,0,0,,«I love you».
-Dialogue: 0,0:10:35.90,0:10:41.31,Note,,0,0,0,,Nota: Natsume Souseki fu uno scrittore e professore di inglese che tradusse la frase «I love you» in «La luna è davvero bella, non trovi?» perché all'epoca in Giappone era scandaloso dichiarare esplicitamente il proprio amore. Questa frase è un modo velato per dire «Ti amo».
+Dialogue: 0,0:10:35.90,0:10:41.31,Note,,0,0,0,,Nota: Natsume Souseki fu uno scrittore e professore di inglese che tradusse la frase «I love you» in «La luna è davvero bella, non trovi?» perché nel 19esimo secolo era ritenuto indelicato dichiarare esplicitamente il proprio amore. Questa frase è un modo velato per dichiararsi.
 Dialogue: 0,0:10:42.67,0:10:43.82,Kenjou Kaname,,0,0,0,,Lo capisci, vero?
 Comment: 0,0:10:44.34,0:10:48.32,Note,,0,0,0,,Questa, invece, è la vostra faccia dopo aver letto la spiegazione di prima mentre vi chiedete cosa ha fatto di male Hikari nella sua vita per meritare una cosa del genere.
 Dialogue: 0,0:10:51.42,0:10:53.13,Momomi Kiyashiki,,0,0,0,,Per favore, ci rifletta.
