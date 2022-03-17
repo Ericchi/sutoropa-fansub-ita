@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第26話(終) 「はじまり」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.750000
 Scroll Position: 406
-Active Line: 410
-Video Position: 17892
+Active Line: 423
+Video Position: 19475
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -610,7 +610,7 @@ Dialogue: 0,0:13:17.81,0:13:20.56,Remon Natsume,,0,0,0,,Kizuna-chan, perché sti
 Dialogue: 0,0:13:21.12,0:13:25.48,Kizuna Hyuuga,,0,0,0,,Come membri del club dell'anticipazione, dobbiamo arrivare prime al teatro di danza!
 Dialogue: 0,0:13:27.19,0:13:29.10,Remon Natsume,,0,0,0,,Che veloce!
 Dialogue: 0,0:13:30.35,0:13:32.28,Shizuma Hanazono,,0,0,0,,Non trovi che siano buoni?
-Dialogue: 0,0:13:32.28,0:13:35.64,Nagisa Aoi,,0,0,0,,Sì, sembra che il loro sapore sia migliorato dopo essere stati schiacciati.
+Dialogue: 0,0:13:32.28,0:13:35.64,Nagisa Aoi,,0,0,0,,Sì, sembra che il loro sapore sia migliorato dopo che sono stati schiacciati.
 Dialogue: 0,0:13:39.86,0:13:41.13,Nagisa Aoi,,0,0,0,,No,
 Dialogue: 0,0:13:41.13,0:13:44.08,Nagisa Aoi,,0,0,0,,sono sicura che sboccerà di nuovo in modo meraviglioso.
 Dialogue: 0,0:14:10.27,0:14:12.71,Miyuki Rokujou,,0,0,0,,Questa è la danza decisiva.
