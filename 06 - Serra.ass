@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 304
-Active Line: 308
-Video Position: 17307
+Scroll Position: 344
+Active Line: 353
+Video Position: 23698
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -268,24 +268,24 @@ Comment: 0,0:23:37.26,0:23:44.02,Ending,,0,0,0,karaoke,{\k65}So{\k21}tto {\k28}h
 Dialogue: 0,0:00:09.58,0:00:09.58,Default,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:00.00,Opening,,0,0,0,,
 Dialogue: 0,0:00:05.84,0:00:09.47,Copyright Sutoropa,,0,0,0,,{\fad(200,400}Fansub: EricchiYukia
-Dialogue: 0,0:00:09.56,0:00:12.86,Opening traduzione,,0,0,0,,Questo cuore agitato batte forte come un pendolo,
-Dialogue: 0,0:00:13.00,0:00:16.42,Opening traduzione,,0,0,0,,palpitando a destra e soffrendo a sinistra.
-Dialogue: 0,0:00:16.63,0:00:19.94,Opening traduzione,,0,0,0,,Si scioglie dolcemente, ora che
-Dialogue: 0,0:00:19.93,0:00:23.18,Opening traduzione,,0,0,0,,ci osserviamo dolorosamente a vicenda.
-Dialogue: 0,0:00:23.67,0:00:26.90,Opening traduzione,,0,0,0,,Giovani ragazze, purezza e boccioli in fiore...
-Dialogue: 0,0:00:27.24,0:00:30.52,Opening traduzione,,0,0,0,,Queste parole sono soltanto stereotipi
-Dialogue: 0,0:00:30.72,0:00:37.45,Opening traduzione,,0,0,0,,perché nessuno ha idea della mia delicata sofferenza!
-Dialogue: 0,0:00:37.45,0:00:44.36,Opening traduzione,,0,0,0,,Labirinto: anche se è un sentimento puro e innocente,
-Dialogue: 0,0:00:44.58,0:00:47.28,Opening traduzione,,0,0,0,,Sì: c'è questa ardente passione
-Dialogue: 0,0:00:47.28,0:00:52.30,Opening traduzione,,0,0,0,,che lo tramuta in un amore maturo.
-Dialogue: 0,0:00:52.39,0:00:56.68,Opening traduzione,,0,0,0,,Lo sto desiderando, ne sono immensamente attratta.
-Dialogue: 0,0:00:56.68,0:00:59.74,Opening traduzione,,0,0,0,,Mi sto aggrappando ad un sogno,
-Dialogue: 0,0:00:59.74,0:01:02.09,Opening traduzione,,0,0,0,,perché desidero un amore che
-Dialogue: 0,0:01:02.09,0:01:06.40,Opening traduzione,,0,0,0,,mi porterà via dalla fanciullezza.
-Dialogue: 0,0:01:06.44,0:01:10.64,Opening traduzione,,0,0,0,,Non sono soltanto io, non ha a che fare solo con me.
-Dialogue: 0,0:01:10.90,0:01:14.00,Opening traduzione,,0,0,0,,Non c'è niente che lo fermerà,
-Dialogue: 0,0:01:14.00,0:01:15.97,Opening traduzione,,0,0,0,,anche se tutti lo rinnegano.
-Dialogue: 0,0:01:15.97,0:01:21.14,Opening traduzione,,0,0,0,,Perché voglio incontrarti così tanto?
+Dialogue: 0,0:00:09.58,0:00:12.88,Opening traduzione,,0,0,0,,Questo cuore agitato batte forte come un pendolo,
+Dialogue: 0,0:00:13.02,0:00:16.44,Opening traduzione,,0,0,0,,palpitando a destra e soffrendo a sinistra.
+Dialogue: 0,0:00:16.65,0:00:19.95,Opening traduzione,,0,0,0,,Si scioglie dolcemente, ora che
+Dialogue: 0,0:00:19.95,0:00:23.20,Opening traduzione,,0,0,0,,i nostri sguardi si incontrano a fatica.
+Dialogue: 0,0:00:23.69,0:00:26.92,Opening traduzione,,0,0,0,,Giovani ragazze, purezza e boccioli in fiore...
+Dialogue: 0,0:00:27.26,0:00:30.54,Opening traduzione,,0,0,0,,Queste parole sono soltanto stereotipi
+Dialogue: 0,0:00:30.74,0:00:37.47,Opening traduzione,,0,0,0,,perché nessuno ha idea della mia delicata sofferenza!
+Dialogue: 0,0:00:37.47,0:00:44.38,Opening traduzione,,0,0,0,,Labirinto: anche se è un sentimento puro e innocente,
+Dialogue: 0,0:00:44.60,0:00:47.30,Opening traduzione,,0,0,0,,Sì: c'è questa ardente passione
+Dialogue: 0,0:00:47.30,0:00:52.32,Opening traduzione,,0,0,0,,che lo tramuta in un amore maturo.
+Dialogue: 0,0:00:52.41,0:00:56.70,Opening traduzione,,0,0,0,,Lo sto desiderando, ne sono immensamente attratta.
+Dialogue: 0,0:00:56.70,0:00:59.76,Opening traduzione,,0,0,0,,Mi sto aggrappando ad un sogno,
+Dialogue: 0,0:00:59.76,0:01:02.11,Opening traduzione,,0,0,0,,perché desidero un amore che
+Dialogue: 0,0:01:02.11,0:01:06.42,Opening traduzione,,0,0,0,,mi porterà via dalla fanciullezza.
+Dialogue: 0,0:01:06.46,0:01:10.66,Opening traduzione,,0,0,0,,Non sono soltanto io, non ha a che fare solo con me.
+Dialogue: 0,0:01:10.92,0:01:14.02,Opening traduzione,,0,0,0,,Non c'è niente che lo fermerà,
+Dialogue: 0,0:01:14.02,0:01:15.99,Opening traduzione,,0,0,0,,anche se tutti lo rinnegano.
+Dialogue: 0,0:01:15.99,0:01:21.16,Opening traduzione,,0,0,0,,Perché voglio incontrarti così tanto?
 Dialogue: 0,0:01:31.50,0:01:33.04,Chikaru Minamoto,,0,0,0,,Vi do il benvenuto a Lulim.
 Dialogue: 0,0:01:33.69,0:01:36.85,Chikaru Minamoto,,0,0,0,,Lulim ha una grande varietà di club.
 Dialogue: 0,0:01:38.72,0:01:39.68,Chikaru Minamoto,,0,0,0,,Il club di carte.
@@ -404,7 +404,7 @@ Dialogue: 0,0:06:49.59,0:06:51.76,Chikaru Minamoto,,0,0,0,,Allora trasferisciti 
 Dialogue: 0,0:06:53.64,0:06:54.57,Chikaru Minamoto,,0,0,0,,Sto scherzando.
 Dialogue: 0,0:06:54.81,0:06:58.27,Chikaru Minamoto,,0,0,0,,Le attività dei club di Lulim non sono limitate alla nostra scuola.
 Dialogue: 0,0:06:58.27,0:07:00.08,Chikaru Minamoto,,0,0,0,,Chiunque può parteciparvi.
-Dialogue: 0,0:07:00.61,0:07:03.47,Chikaru Minamoto,,0,0,0,,Se vorrai unirti a noi sarai sempre la benvenuta.
+Dialogue: 0,0:07:00.61,0:07:03.47,Chikaru Minamoto,,0,0,0,,Se vorrai unirti a noi, sarai sempre la benvenuta.
 Dialogue: 0,0:07:04.57,0:07:07.17,Nagisa Aoi,,0,0,0,,Le attività dei club di Lulim sembrano divertenti.
 Dialogue: 0,0:07:07.17,0:07:10.51,Nagisa Aoi,,0,0,0,,Sarebbe bello se anche Miator ne avesse di simili.
 Dialogue: 0,0:07:14.35,0:07:16.83,Nagisa Aoi,,0,0,0,,Mi sono sempre chiesta cosa fosse questo posto.
@@ -480,7 +480,7 @@ Dialogue: 0,0:13:06.42,0:13:07.47,Shizuma Hanazono,,0,0,0,,Non c'è di che.
 Dialogue: 0,0:13:13.13,0:13:15.27,Shizuma Hanazono,,0,0,0,,Per oggi è abbastanza.
 Dialogue: 0,0:13:15.58,0:13:16.57,Nagisa Aoi,,0,0,0,,Va bene.
 Dialogue: 0,0:13:17.02,0:13:18.17,Shizuma Hanazono,,0,0,0,,Grazie.
-Dialogue: 0,0:13:18.44,0:13:19.62,Shizuma Hanazono,,0,0,0,,Ci hai dato una mano.
+Dialogue: 0,0:13:18.44,0:13:19.62,Shizuma Hanazono,,0,0,0,,Ci hai aiutate.
 Dialogue: 0,0:13:20.79,0:13:22.12,Nagisa Aoi,,0,0,0,,Di nulla.
 Dialogue: 0,0:13:23.43,0:13:29.52,Nagisa Aoi,,0,0,0,,Non mi ero mai accorta di quanto fosse intenso il colore degli occhi di Étoile-sama...
 Dialogue: 0,0:13:31.34,0:13:34.03,Shizuma Hanazono,,0,0,0,,Coraggio, dobbiamo ancora fare le decorazioni floreali.
@@ -492,7 +492,7 @@ Dialogue: 0,0:13:49.80,0:13:50.79,Nagisa Aoi,,0,0,0,,Va bene.
 Dialogue: 0,0:13:56.55,0:13:58.84,Nagisa Aoi,,0,0,0,,Dove stiamo portando questi fiori?
 Dialogue: 0,0:13:59.33,0:14:00.80,Shizuma Hanazono,,0,0,0,,All'entrata principale.
 Dialogue: 0,0:14:02.53,0:14:04.31,Nagisa Aoi,,0,0,0,,Non lo sapevo.
-Dialogue: 0,0:14:04.67,0:14:07.99,Nagisa Aoi,,0,0,0,,Quindi questi fiori vengono portati qui da lei.
+Dialogue: 0,0:14:04.67,0:14:07.99,Nagisa Aoi,,0,0,0,,Quindi questi fiori vengono coltivati da lei.
 Dialogue: 0,0:14:08.29,0:14:10.63,Shizuma Hanazono,,0,0,0,,Lo faccio di mia spontanea volontà.
 Dialogue: 0,0:14:15.09,0:14:16.80,Nagisa Aoi,,0,0,0,,È così misteriosa...
 Dialogue: 0,0:14:17.05,0:14:21.10,Nagisa Aoi,,0,0,0,,Oggi riesco a guardare negli occhi Étoile-sama senza problemi.
@@ -508,7 +508,7 @@ Dialogue: 0,0:16:11.97,0:16:12.76,Shizuma Hanazono,,0,0,0,,Ti va?
 Dialogue: 0,0:16:16.31,0:16:17.02,Nagisa Aoi,,0,0,0,,Va bene.
 Dialogue: 0,0:16:22.87,0:16:24.36,Shizuma Hanazono,,0,0,0,,Cosa ti piacerebbe suonare?
 Dialogue: 0,0:16:24.36,0:16:26.76,Nagisa Aoi,,0,0,0,,Ecco, io in realtà...
-Dialogue: 0,0:16:26.76,0:16:28.61,Shizuma Hanazono,,0,0,0,,Cosa ne pensi di questa?
+Dialogue: 0,0:16:26.76,0:16:28.61,Shizuma Hanazono,,0,0,0,,Allora... la conosci questa?
 Dialogue: 0,0:16:33.74,0:16:34.33,Nagisa Aoi,,0,0,0,,Sì.
 Dialogue: 0,0:16:34.33,0:16:35.70,Shizuma Hanazono,,0,0,0,,Allora, insieme.
 Dialogue: 0,0:16:36.17,0:16:36.91,Nagisa Aoi,,0,0,0,,Va bene.
