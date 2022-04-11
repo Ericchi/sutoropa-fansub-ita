@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第08話 「紫陽花」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.750000
-Scroll Position: 214
-Active Line: 221
-Video Position: 10695
+Video Zoom Percent: 0.500000
+Scroll Position: 315
+Active Line: 321
+Video Position: 19658
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -483,7 +483,7 @@ Dialogue: 0,0:13:28.00,0:13:29.91,Hikari Konohana,,0,0,0,,La preparo subito.
 Dialogue: 0,0:13:30.20,0:13:33.67,Tsubomi Okuwaka,,0,0,0,,Ah, fate attenzione, l'acqua sarà fredda all'inizio.
 Dialogue: 0,0:13:33.67,0:13:35.09,Tsubomi Okuwaka,,0,0,0,,Lasciate che vi aiuti a prepar-
 Dialogue: 0,0:13:37.94,0:13:39.89,Yaya Nanto,,0,0,0,,Io e Hikari la faremo per conto nostro.
-Dialogue: 0,0:13:39.89,0:13:42.54,Tsubomi Okuwaka,,0,0,0,,Se proprio ci tieni puoi andare per prima, Yaya-senpai.
+Dialogue: 0,0:13:39.89,0:13:42.54,Tsubomi Okuwaka,,0,0,0,,Se proprio ci tieni, puoi andare per prima, Yaya-senpai.
 Dialogue: 0,0:13:44.01,0:13:46.29,Yaya Nanto,,0,0,0,,Ho detto che la farò insieme ad Hikari.
 Dialogue: 0,0:13:51.86,0:13:53.53,Chikaru Minamoto,,0,0,0,,È proprio un mistero.
 Dialogue: 0,0:13:55.76,0:13:57.57,Chikaru Minamoto,,0,0,0,,Un ombrello che sparisce improvvisamente.
