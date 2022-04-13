@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第09話 「記憶」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.500000
-Scroll Position: 323
-Active Line: 348
-Video Position: 17698
+Video Zoom Percent: 0.750000
+Scroll Position: 220
+Active Line: 236
+Video Position: 9223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -311,7 +311,7 @@ Dialogue: 0,0:02:21.76,0:02:23.32,Tamao Suzumi,,0,0,0,,Ma è meraviglioso!
 Dialogue: 0,0:02:23.32,0:02:26.01,Yaya Nanto,,0,0,0,,Li ho ordinati da un po' ma mi sono arrivati soltanto oggi.
 Dialogue: 0,0:02:26.35,0:02:28.68,Yaya Nanto,,0,0,0,,Dovremmo mangiarli prima che marciscano.
 Dialogue: 0,0:02:28.68,0:02:31.20,Tamao Suzumi,,0,0,0,,Allora io preparerò il tè.
-Dialogue: 0,0:02:31.55,0:02:34.96,Hikari Konohana,,0,0,0,,Comunque sia, dov'è andata Nagisa-san?
+Dialogue: 0,0:02:31.55,0:02:34.96,Hikari Konohana,,0,0,0,,A proposito, dov'è andata Nagisa-san?
 Dialogue: 0,0:02:41.68,0:02:42.60,Yaya Nanto,,0,0,0,,Ma cosa?
 Dialogue: 0,0:02:42.60,0:02:47.76,Tamao Suzumi,,0,0,0,,Oggi le hanno consegnato il costume da bagno scolastico.
 Dialogue: 0,0:02:50.25,0:02:52.22,Yaya Nanto,,0,0,0,,Nagisa-san, apri la porta.
@@ -395,7 +395,7 @@ Dialogue: 0,0:06:09.94,0:06:11.82,Chihaya Takemura,,0,0,0,,Più di quanto mi asp
 Dialogue: 0,0:06:11.82,0:06:15.88,Tamao Suzumi,,0,0,0,,I misteri che conosce Chihaya-chan sono diversi da quelli che conosco io...
 Dialogue: 0,0:06:16.64,0:06:20.02,Noriko Mizushima,,0,0,0,,Beh, i sette misteri sono solo fandonie.
 Dialogue: 0,0:06:20.02,0:06:22.40,Noriko Mizushima,,0,0,0,,È normale che siano diversi di persona in persona.
-Dialogue: 0,0:06:22.82,0:06:25.54,Chihaya Takemura,,0,0,0,,Stai esagerando a definirli fandonie.
+Dialogue: 0,0:06:22.82,0:06:25.54,Chihaya Takemura,,0,0,0,,Stai esagerando a definirli "fandonie".
 Dialogue: 0,0:06:25.54,0:06:27.45,Noriko Mizushima,,0,0,0,,Ma è esattamente ciò che sono.
 Dialogue: 0,0:06:27.72,0:06:31.10,Noriko Mizushima,,0,0,0,,Perciò, non c'è nulla di cui preoccuparsi, Nagisa-chan.
 Dialogue: 0,0:06:35.26,0:06:37.32,Insegnanti,,0,0,0,,Ragazze, buongiorno.
