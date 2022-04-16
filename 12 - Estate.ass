@@ -15,10 +15,10 @@ Audio File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry Panic RAW (DVD 960x720 H.264 AAC)/ストロベリー・パニック Strawberry Panic 第12話 「夏時間」 (DVD 960x720 H.264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 0.875000
-Scroll Position: 385
-Active Line: 387
-Video Position: 27102
+Video Zoom Percent: 0.750000
+Scroll Position: 282
+Active Line: 299
+Video Position: 17916
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -365,18 +365,18 @@ Dialogue: 0,0:07:14.26,0:07:15.56,Tamao Suzumi,,0,0,0,,Hai ragione.
 Dialogue: 0,0:07:21.64,0:07:23.43,Tamao Suzumi,,0,0,0,,T-Tamao-chan?
 Dialogue: 0,0:07:24.47,0:07:26.09,Tamao Suzumi,,0,0,0,,Questo è un portafortuna.
 Dialogue: 0,0:07:29.23,0:07:33.44,Miyuki Rokujou,,0,0,0,,Merci, mais je peux me débrouiller toute seule.
-Dialogue: 0,0:07:29.23,0:07:33.44,Note,,0,0,0,,Nota: "Grazie, ma posso farcela da sola."
+Dialogue: 0,0:07:29.23,0:07:33.44,Note,,0,0,0,,Nota: «Grazie, ma posso farcela da sola.»
 Dialogue: 0,0:07:33.86,0:07:38.33,Nagisa Aoi,,0,0,0,,Merci, mais je peu me doubrier tout doux.
-Dialogue: 0,0:07:33.86,0:07:38.33,Note,,0,0,0,,Nota: "Grazie, ma mi posso quasi raddoppiare."
+Dialogue: 0,0:07:33.86,0:07:38.33,Note,,0,0,0,,Nota: «Grazie, ma mi posso quasi raddoppiare.»
 Dialogue: 0,0:07:38.76,0:07:39.68,Miyuki Rokujou,,0,0,0,,Sbagliato.
 Dialogue: 0,0:07:40.21,0:07:41.31,Miyuki Rokujou,,0,0,0,,Toute seule.
-Dialogue: 0,0:07:40.21,0:07:41.31,Note,,0,0,0,,Nota: "Tutta sola."
+Dialogue: 0,0:07:40.21,0:07:41.31,Note,,0,0,0,,Nota: «Da sola.»
 Dialogue: 0,0:07:41.68,0:07:42.95,Nagisa Aoi,,0,0,0,,Toute seule.
-Dialogue: 0,0:07:41.68,0:07:42.95,Note,,0,0,0,,Nota: "Tutta sola."
+Dialogue: 0,0:07:41.68,0:07:42.95,Note,,0,0,0,,Nota: «Da sola.»
 Dialogue: 0,0:07:44.43,0:07:45.58,Miyuki Rokujou,,0,0,0,,Ora va bene.
 Dialogue: 0,0:07:45.91,0:07:47.37,Miyuki Rokujou,,0,0,0,,Dato che questo è un nome femminile,
 Dialogue: 0,0:07:47.61,0:07:48.67,Miyuki Rokujou,,0,0,0,,Vive la vie.
-Dialogue: 0,0:07:47.61,0:07:48.67,Note,,0,0,0,,Nota: "Viva la vita."
+Dialogue: 0,0:07:47.61,0:07:48.67,Note,,0,0,0,,Nota: «Viva la vita.»
 Dialogue: 0,0:07:49.54,0:07:51.44,Nagisa Aoi,,0,0,0,,Dunque...
 Dialogue: 0,0:08:00.15,0:08:02.27,Nagisa Aoi,,0,0,0,,M-mi dispiace.
 Dialogue: 0,0:08:02.85,0:08:03.84,Shizuma Hanazono,,0,0,0,,Non preoccuparti.
@@ -458,21 +458,21 @@ Dialogue: 0,0:12:14.86,0:12:16.33,Amane Ootori,,0,0,0,,Principe, eh?
 Dialogue: 0,0:12:20.10,0:12:21.53,Amane Ootori,,0,0,0,,Anche io
 Dialogue: 0,0:12:22.27,0:12:23.73,Amane Ootori,,0,0,0,,sono in una gabbia.
 Dialogue: 0,0:12:27.23,0:12:29.01,Shizuma Hanazono,,0,0,0,,Ton grand-père et moi.
-Dialogue: 0,0:12:27.23,0:12:29.01,Note,,0,0,0,,Nota: "Tuo nonno ed io."
+Dialogue: 0,0:12:27.23,0:12:29.01,Note,,0,0,0,,Nota: «Tuo nonno ed io.»
 Dialogue: 0,0:12:32.45,0:12:34.03,Shizuma Hanazono,,0,0,0,,Miyuki si è scusata.
 Dialogue: 0,0:12:34.58,0:12:36.74,Shizuma Hanazono,,0,0,0,,Ha detto che era inquieta.
 Dialogue: 0,0:12:37.33,0:12:39.90,Nagisa Aoi,,0,0,0,,N-no, è che io...
 Dialogue: 0,0:12:40.29,0:12:42.23,Shizuma Hanazono,,0,0,0,,Ton grand-père et moi,
-Dialogue: 0,0:12:40.29,0:12:42.23,Note,,0,0,0,,Nota: "Tuo nonno ed io,"
+Dialogue: 0,0:12:40.29,0:12:42.23,Note,,0,0,0,,Nota: «Tuo nonno ed io,»
 Dialogue: 0,0:12:41.89,0:12:46.44,Nagisa Aoi,,0,0,0,,Mi chiedo perché sia venuta fin là a prendermi.
 Dialogue: 0,0:12:43.06,0:12:44.59,Shizuma Hanazono,,0,0,0,,on s'est rencontrés
-Dialogue: 0,0:12:43.06,0:12:44.59,Note,,0,0,0,,Nota: "ci siamo incontrati"
+Dialogue: 0,0:12:43.06,0:12:44.59,Note,,0,0,0,,Nota: «ci siamo incontrati»
 Dialogue: 0,0:12:45.47,0:12:47.88,Shizuma Hanazono,,0,0,0,,l'été 1958.
-Dialogue: 0,0:12:45.47,0:12:47.88,Note,,0,0,0,,Nota: "l'estate del 1958."
+Dialogue: 0,0:12:45.47,0:12:47.88,Note,,0,0,0,,Nota: «l'estate del 1958.»
 Dialogue: 0,0:12:54.03,0:12:56.26,Shizuma Hanazono,,0,0,0,,Ton grand-père passait par là,
-Dialogue: 0,0:12:54.03,0:12:56.26,Note,,0,0,0,,Nota: "Tuo nonno passò di là,"
+Dialogue: 0,0:12:54.03,0:12:56.26,Note,,0,0,0,,Nota: «Tuo nonno passò di là,»
 Dialogue: 0,0:12:56.73,0:12:58.84,Shizuma Hanazono,,0,0,0,,et s'est arrêté en...
-Dialogue: 0,0:12:56.73,0:12:58.84,Note,,0,0,0,,Nota: "e si fermò a..."
+Dialogue: 0,0:12:56.73,0:12:58.84,Note,,0,0,0,,Nota: «e si fermò a...»
 Dialogue: 0,0:12:57.50,0:13:01.48,Nagisa Aoi,,0,0,0,,Adesso siamo soltanto noi due.
 Dialogue: 0,0:13:02.34,0:13:04.90,Nagisa Aoi,,0,0,0,,Per qualche motivo, il mio cuore sta battendo forte.
 Dialogue: 0,0:13:05.70,0:13:06.61,Shizuma Hanazono,,0,0,0,,Nagisa?
