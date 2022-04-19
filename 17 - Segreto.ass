@@ -16,8 +16,8 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 402
-Active Line: 407
+Scroll Position: 342
+Active Line: 356
 Video Position: 26373
 
 [V4+ Styles]
@@ -377,9 +377,9 @@ Dialogue: 0,0:05:00.22,0:05:02.12,Nagisa Aoi,,0,0,0,,Cos'è l'elezione dell'Éto
 Dialogue: 0,0:05:02.12,0:05:03.96,Tamao Suzumi,,0,0,0,,Come fai a non saperlo?
 Dialogue: 0,0:05:05.31,0:05:09.00,Nagisa Aoi,,0,0,0,,Tutte ne parlavano e lo davano per scontato, quindi ho fatto finta di nulla.
 Dialogue: 0,0:05:11.24,0:05:14.24,Tamao Suzumi,,0,0,0,,Il nome ufficiale dell'elezione dell'Étoile è
-Dialogue: 0,0:05:14.24,0:05:17.96,Tamao Suzumi,,0,0,0,,«Le souffle de Dieu danse et soulève une Étoile».
-Dialogue: 0,0:05:14.24,0:05:17.96,Note,,0,0,0,,Nota: "Il soffio di Dio danza e solleva una Stella".
-Dialogue: 0,0:05:18.62,0:05:20.41,Nagisa Aoi,,0,0,0,,Le souffle de...
+Dialogue: 0,0:05:14.24,0:05:17.96,Tamao Suzumi,,0,0,0,,«Le souffe de Dieu danse et soulève une Étoile».
+Dialogue: 0,0:05:14.24,0:05:17.96,Note,,0,0,0,,Nota: «Il soffio di Dio danza e solleva una Stella».
+Dialogue: 0,0:05:18.62,0:05:20.41,Nagisa Aoi,,0,0,0,,Le souffe de...
 Dialogue: 0,0:05:20.41,0:05:23.61,Tamao Suzumi,,0,0,0,,È letteralmente l'evento in cui viene eletta la nuova Étoile.
 Dialogue: 0,0:05:24.72,0:05:27.43,Nagisa Aoi,,0,0,0,,Ma quindi l'Étoile deve essere eletta?
 Dialogue: 0,0:05:28.39,0:05:30.74,Tamao Suzumi,,0,0,0,,Come pensavi che fosse scelta?
