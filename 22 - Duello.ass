@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 226
-Active Line: 227
-Video Position: 30877
+Scroll Position: 300
+Active Line: 309
+Video Position: 13383
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -471,10 +471,10 @@ Dialogue: 0,0:08:40.39,0:08:42.08,Nagisa Aoi,,0,0,0,,Già.
 Dialogue: 0,0:08:44.68,0:08:46.07,Nagisa Aoi,,0,0,0,,Io...
 Dialogue: 0,0:08:46.07,0:08:50.27,Nagisa Aoi,,0,0,0,,non riesco ad immaginare qualcuno prendere il posto di Shizuma-sama come Étoile.
 Dialogue: 0,0:08:53.49,0:08:55.04,Tamao Suzumi,,0,0,0,,Già.
-Dialogue: 0,0:09:04.98,0:09:06.99,Kenjou Kaname,,0,0,0,,Io ti sfido a duello.
-Dialogue: 0,0:09:07.60,0:09:09.03,Amane Ootori,,0,0,0,,Duello?
-Dialogue: 0,0:09:12.33,0:09:14.60,Amane Ootori,,0,0,0,,Non ho intenzione di duellare con te.
-Dialogue: 0,0:09:15.66,0:09:18.47,Kenjou Kaname,,0,0,0,,Voglio un duello contro di te!
+Dialogue: 0,0:09:04.98,0:09:06.99,Kenjou Kaname,,0,0,0,,Io vorrei sfidarti.
+Dialogue: 0,0:09:07.60,0:09:09.03,Amane Ootori,,0,0,0,,Sfidarmi?
+Dialogue: 0,0:09:12.33,0:09:14.60,Amane Ootori,,0,0,0,,Ma io non voglio battermi contro di te.
+Dialogue: 0,0:09:15.66,0:09:18.47,Kenjou Kaname,,0,0,0,,Concedimi una sfida contro di te!
 Dialogue: 0,0:09:20.51,0:09:21.44,Kenjou Kaname,,0,0,0,,Per favore.
 Dialogue: 0,0:09:25.94,0:09:27.02,Amane Ootori,,0,0,0,,Va bene.
 Dialogue: 0,0:09:28.48,0:09:29.74,Kenjou Kaname,,0,0,0,,Grazie davvero.
@@ -618,7 +618,7 @@ Dialogue: 0,0:16:36.32,0:16:38.08,Hikari Konohana,,0,0,0,,Yaya-chan, canta.
 Dialogue: 0,0:16:42.22,0:16:43.72,Yaya Nanto,,0,0,0,,Mi arrendo.
 Dialogue: 0,0:16:43.72,0:16:45.00,Hikari Konohana,,0,0,0,,Yaya-chan?
 Dialogue: 0,0:16:45.55,0:16:48.42,Yaya Nanto,,0,0,0,,Dopo averti sentita dire queste cose,
-Dialogue: 0,0:16:48.92,0:16:51.56,Yaya Nanto,,0,0,0,,Smettere di cantare
+Dialogue: 0,0:16:48.92,0:16:51.56,Yaya Nanto,,0,0,0,,smettere di cantare
 Dialogue: 0,0:16:51.56,0:16:53.01,Yaya Nanto,,0,0,0,,non ha più senso.
 Dialogue: 0,0:16:54.04,0:16:56.84,Kenjou Kaname,,0,0,0,,Una star non può ignorare i desideri di chi la ammira.
 Dialogue: 0,0:16:56.84,0:16:58.09,Kenjou Kaname,,0,0,0,,Quelle ragazze

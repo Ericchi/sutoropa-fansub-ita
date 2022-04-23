@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 436
-Active Line: 448
-Video Position: 26214
+Scroll Position: 418
+Active Line: 435
+Video Position: 25255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -407,7 +407,7 @@ Dialogue: 0,0:05:04.86,0:05:07.19,Miyuki Rokujou,,0,0,0,,accettassi la mia decis
 Dialogue: 0,0:05:08.72,0:05:10.64,Miyuki Rokujou,,0,0,0,,Spero che tu sia d'accordo, Shizuma.
 Dialogue: 0,0:05:29.21,0:05:34.97,Shion Toumori,,0,0,0,,Poco fa il consiglio studentesco ha confermato la tua candidatura per le elezioni dell'Étoile.
 Dialogue: 0,0:05:35.32,0:05:37.10,Amane Ootori,,0,0,0,,Grazie mille.
-Dialogue: 0,0:05:37.10,0:05:38.52,Shion Toumori,,0,0,0,,Dunque,
+Dialogue: 0,0:05:37.10,0:05:38.52,Shion Toumori,,0,0,0,,E quindi, domani
 Dialogue: 0,0:05:38.88,0:05:42.82,Shion Toumori,,0,0,0,,dovrai annunciare la tua partner di fronte a tutte le studentesse
 Dialogue: 0,0:05:42.82,0:05:46.79,Shion Toumori,,0,0,0,,insieme alla tua volontà di essere eletta come Étoile.
 Dialogue: 0,0:05:46.79,0:05:48.00,Shion Toumori,,0,0,0,,Va bene?
@@ -501,7 +501,7 @@ Dialogue: 0,0:09:44.71,0:09:47.28,Miyuki Rokujou,,0,0,0,,Capisco che tu non abbi
 Dialogue: 0,0:09:48.96,0:09:50.88,Miyuki Rokujou,,0,0,0,,ma devi farlo.
 Dialogue: 0,0:09:52.19,0:09:55.00,Miyuki Rokujou,,0,0,0,,Non puoi passare la vita ad essere preoccupata per Shizuma.
 Dialogue: 0,0:09:55.00,0:09:59.08,Miyuki Rokujou,,0,0,0,,Voglio che tu metta da parte i tuoi sentimenti per Shizuma e che partecipi all'elezione.
-Dialogue: 0,0:09:59.08,0:10:00.91,Miyuki Rokujou,,0,0,0,,Probabilmente Shizuma sarà d'accordo.
+Dialogue: 0,0:09:59.08,0:10:00.91,Miyuki Rokujou,,0,0,0,,Sicuramente Shizuma sarà d'accordo.
 Dialogue: 0,0:10:02.22,0:10:06.84,Miyuki Rokujou,,0,0,0,,Anche lei è consapevole del fatto che tu e Tamao-san siete le candidate ideali.
 Dialogue: 0,0:10:07.16,0:10:08.52,Nagisa Aoi,,0,0,0,,Étoile-sama?
 Dialogue: 0,0:10:09.59,0:10:10.66,Miyuki Rokujou,,0,0,0,,Sì.
