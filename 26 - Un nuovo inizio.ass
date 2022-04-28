@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 406
-Active Line: 423
-Video Position: 19475
+Scroll Position: 370
+Active Line: 373
+Video Position: 13422
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -560,6 +560,7 @@ Dialogue: 0,0:09:01.54,0:09:03.21,Tamao Suzumi,,0,0,0,,Va tutto bene?
 Dialogue: 0,0:09:09.50,0:09:11.52,Tamao Suzumi,,0,0,0,,Per favore, guardami.
 Dialogue: 0,0:09:16.60,0:09:17.83,Nagisa Aoi,,0,0,0,,Va tutto bene.
 Dialogue: 0,0:09:17.83,0:09:18.88,Tamao Suzumi,,0,0,0,,Andiamo.
+Dialogue: 0,0:09:19.80,0:09:20.47,Nagisa Aoi,,0,0,0,,Sì.
 Dialogue: 0,0:09:40.12,0:09:43.83,Chikaru Minamoto,,0,0,0,,Nagisa-san e Tamao-san sono carinissime.
 Dialogue: 0,0:09:43.83,0:09:48.34,Chikaru Minamoto,,0,0,0,,Beh, certamente anche la coppia Amane-san e Hikari-san è perfetta.
 Dialogue: 0,0:09:48.34,0:09:51.99,Chikaru Minamoto,,0,0,0,,Assomiglia ad un valoroso principe con un'adorabile principessa.
