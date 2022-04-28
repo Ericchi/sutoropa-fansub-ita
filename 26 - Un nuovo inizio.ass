@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 370
-Active Line: 373
-Video Position: 13422
+Scroll Position: 256
+Active Line: 262
+Video Position: 3561
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -449,7 +449,7 @@ Dialogue: 0,0:02:11.00,0:02:16.00,Titolo episodio,,0,0,0,,Un nuovo inizio
 Dialogue: 0,0:02:20.60,0:02:22.40,Kizuna Hyuuga,,0,0,0,,Che freddo...
 Dialogue: 0,0:02:22.40,0:02:26.97,Remon Natsume,,0,0,0,,C'è un motivo per cui siamo qui di mattina presto, Chikaru-sama?
 Dialogue: 0,0:02:27.42,0:02:29.05,Chikaru Minamoto,,0,0,0,,Voi non avete idea.
-Dialogue: 0,0:02:28.51,0:02:33.38,Scartoffie cartellone souffle,,0,0,0,,{\frx354\fry6\frz24.42\move(547.428,339.428,547.428,-119.143,30,4868)}Il soffio di Dio danza e solleva una stella.
+Comment: 0,0:02:28.51,0:02:33.38,Scartoffie cartellone souffle,,0,0,0,,{\frx354\fry6\frz24.42\move(547.428,339.428,547.428,-119.143,30,4868)}Il soffio di Dio danza e solleva una stella.
 Dialogue: 0,0:02:29.05,0:02:32.21,Chikaru Minamoto,,0,0,0,,L'elezione dell'Étoile è l'evento più importante di tutta Astraea.
 Dialogue: 0,0:02:32.21,0:02:35.80,Chikaru Minamoto,,0,0,0,,Di sicuro il salone sarà pieno e alcune persone dovranno stare in piedi.
 Dialogue: 0,0:02:36.38,0:02:37.61,Scartoffie GROSSE,,0,0,0,,{\blur0.8\pos(488,10)\frz0.598}Club delle prime arrivate
