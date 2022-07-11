@@ -16,9 +16,9 @@ Video File: ../../../AnimeProjects/ストロベリー・パニック Strawberry 
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 267
-Active Line: 288
-Video Position: 14367
+Scroll Position: 303
+Active Line: 317
+Video Position: 19039
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -478,7 +478,7 @@ Dialogue: 0,0:12:54.76,0:12:56.64,Miyuki Rokujou,,0,0,0,,Anche io ne sono felice
 Dialogue: 0,0:13:00.48,0:13:02.96,Traduzioni bordate,,0,0,0,,{\pos(480,580)\fad(450,0)}Un anno dopo, inverno
 Dialogue: 0,0:13:05.45,0:13:06.69,Shizuma Hanazono,,0,0,0,,Che succede?
 Dialogue: 0,0:13:07.44,0:13:09.88,Shizuma Hanazono,,0,0,0,,Oggi non dovresti essere con il consiglio studentesco?
-Dialogue: 0,0:13:11.48,0:13:13.96,Miyuki Rokujou,,0,0,0,,Shizuma, che significa questo?
+Dialogue: 0,0:13:11.48,0:13:13.97,Miyuki Rokujou,,0,0,0,,Shizuma, che significa questo?
 Dialogue: 0,0:13:16.98,0:13:18.90,Shizuma Hanazono,,0,0,0,,Mi sembra ovvio.
 Dialogue: 0,0:13:18.90,0:13:20.94,Shizuma Hanazono,,0,0,0,,È una candidatura per l'elezione dell'Étoile.
 Dialogue: 0,0:13:21.48,0:13:23.52,Shizuma Hanazono,,0,0,0,,Esattamente come tu desideravi,
