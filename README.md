@@ -6,4 +6,4 @@ Ottieni i file video dell'anime base e trascina dentro al tuo player i sottotito
 
 I media player che ho testato personalmente sono VLC e mpv.
 
-Vai al canale https://t.me/strawberrypanicfansubita su Telegram e leggi il messaggio fissato per avere più informazioni su come ottenere i file video a cui applicare i sottotitoli.
+Vai al [canale dei miei fansub](https://t.me/EricchiFansub) su Telegram e leggi il messaggio fissato per avere più informazioni su come ottenere i file video a cui applicare i sottotitoli.
