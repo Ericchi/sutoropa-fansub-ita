@@ -345,7 +345,7 @@ Dialogue: 0,0:01:43.33,0:01:46.19,Miyuki Rokujou,,0,0,0,,Non lascerò che venga 
 Dialogue: 0,0:01:46.19,0:01:47.69,Miyuki Rokujou,,0,0,0,,Perciò,
 Dialogue: 0,0:01:47.69,0:01:50.52,Miyuki Rokujou,,0,0,0,,dovrò trovare un modo per convincere quelle due.
 Dialogue: 0,0:01:51.04,0:01:52.09,Miyuki Rokujou,,0,0,0,,A tutti i costi.
-Dialogue: 0,0:01:52.69,0:01:56.12,Miyuki Rokujou,,0,0,0,,È mio dovere come presidentessa del consiglio studentesco.
+Dialogue: 0,0:01:52.69,0:01:56.12,Miyuki Rokujou,,0,0,0,,È il mio ultimo dovere come presidentessa del consiglio studentesco.
 Dialogue: 0,0:01:57.02,0:02:02.03,Titolo episodio,,0,0,0,,Labirinto
 Dialogue: 0,0:02:03.89,0:02:05.21,Tamao Suzumi,,0,0,0,,È permesso?
 Dialogue: 0,0:02:11.32,0:02:14.36,Tamao Suzumi,,0,0,0,,Qual è la questione importante di cui voleva parlarmi?
@@ -368,8 +368,8 @@ Dialogue: 0,0:02:57.41,0:02:58.92,Tamao Suzumi,,0,0,0,,E-ecco.
 Dialogue: 0,0:02:58.92,0:03:05.04,Tamao Suzumi,,0,0,0,,Sono davvero onorata di essere stata scelta come candidata e non potrei essere più felice.
 Dialogue: 0,0:03:05.04,0:03:06.34,Miyuki Rokujou,,0,0,0,,Se è così...
 Dialogue: 0,0:03:06.84,0:03:09.55,Tamao Suzumi,,0,0,0,,N-no, non è ciò che intendevo.
-Dialogue: 0,0:03:10.12,0:03:12.39,Tamao Suzumi,,0,0,0,,Nagisa-chan, nei confronti di Shizuma-sama...
-Dialogue: 0,0:03:12.39,0:03:14.83,Tamao Suzumi,,0,0,0,,so che lei è davvero innamorata di Étoile-sama
+Dialogue: 0,0:03:10.12,0:03:12.39,Tamao Suzumi,,0,0,0,,Nagisa-chan per Shizuma-sama è...
+Dialogue: 0,0:03:12.39,0:03:14.83,Tamao Suzumi,,0,0,0,,So che Nagisa è davvero innamorata di Étoile-sama,
 Dialogue: 0,0:03:14.83,0:03:20.70,Tamao Suzumi,,0,0,0,,e ho vissuto in prima persona il dolore che ha subito a causa sua.
 Dialogue: 0,0:03:22.83,0:03:26.88,Tamao Suzumi,,0,0,0,,Perciò, per quanto riguarda la scelta di me e Nagisa-chan come candidate,
 Dialogue: 0,0:03:26.88,0:03:30.81,Tamao Suzumi,,0,0,0,,non voglio fare nulla che possa ferire Nagisa-chan ulteriormente.
@@ -412,7 +412,7 @@ Dialogue: 0,0:05:38.88,0:05:42.82,Shion Toumori,,0,0,0,,dovrai annunciare la tua
 Dialogue: 0,0:05:42.82,0:05:46.79,Shion Toumori,,0,0,0,,insieme alla tua volontà di essere eletta come Étoile.
 Dialogue: 0,0:05:46.79,0:05:48.00,Shion Toumori,,0,0,0,,Va bene?
 Dialogue: 0,0:05:48.72,0:05:49.59,Amane Ootori,,0,0,0,,Sì.
-Dialogue: 0,0:05:50.20,0:05:51.38,Shion Toumori,,0,0,0,,Ehi, Amane-san.
+Dialogue: 0,0:05:50.20,0:05:51.38,Shion Toumori,,0,0,0,,Comunque, Amane-san.
 Dialogue: 0,0:05:51.38,0:05:53.76,Shion Toumori,,0,0,0,,Va tutto bene con Hikari-san?
 Dialogue: 0,0:05:53.76,0:05:54.90,Amane Ootori,,0,0,0,,Certamente.
 Dialogue: 0,0:05:56.86,0:06:00.64,Shion Toumori,,0,0,0,,Adesso Spica potrà veder sbocciare la sua agognata Étoile.
@@ -485,7 +485,7 @@ Dialogue: 0,0:09:08.26,0:09:09.90,Miyuki Rokujou,,0,0,0,,Sono certa che ce la fa
 Comment: 0,0:09:08.26,0:09:09.90,Miyuki Rokujou,,0,0,0,,Miyuki, avevi appena finito di chiedere scusa a Nagisa per le pretese impossibili che hai nei suoi confronti.
 Dialogue: 0,0:09:09.90,0:09:12.77,Miyuki Rokujou,,0,0,0,,Anzi, per favore, mettetecela tutta.
 Dialogue: 0,0:09:12.77,0:09:14.44,Nagisa Aoi,,0,0,0,,Ma io...
-Dialogue: 0,0:09:14.44,0:09:16.30,Miyuki Rokujou,,0,0,0,,In passato
+Dialogue: 0,0:09:14.44,0:09:16.30,Miyuki Rokujou,,0,0,0,,Nel nostro lungo passato
 Dialogue: 0,0:09:16.30,0:09:20.97,Miyuki Rokujou,,0,0,0,,non c'è mai stata una volta in cui non abbiamo presentato una candidatura per le elezioni.
 Dialogue: 0,0:09:21.48,0:09:22.96,Miyuki Rokujou,,0,0,0,,Ecco perché
 Dialogue: 0,0:09:22.96,0:09:25.52,Miyuki Rokujou,,0,0,0,,non possiamo evitare di presentare qualcuno.
@@ -499,7 +499,7 @@ Dialogue: 0,0:09:41.63,0:09:43.03,Tamao Suzumi,,0,0,0,,Nagisa-chan.
 Dialogue: 0,0:09:43.69,0:09:44.71,Nagisa Aoi,,0,0,0,,Ma...
 Dialogue: 0,0:09:44.71,0:09:47.28,Miyuki Rokujou,,0,0,0,,Capisco che tu non abbia ancora dimenticato Shizuma,
 Dialogue: 0,0:09:48.96,0:09:50.88,Miyuki Rokujou,,0,0,0,,ma devi farlo.
-Dialogue: 0,0:09:52.19,0:09:55.00,Miyuki Rokujou,,0,0,0,,Non puoi passare la vita ad essere preoccupata per Shizuma.
+Dialogue: 0,0:09:52.19,0:09:55.00,Miyuki Rokujou,,0,0,0,,Non puoi passare la vita a preoccuparti per Shizuma.
 Dialogue: 0,0:09:55.00,0:09:59.08,Miyuki Rokujou,,0,0,0,,Voglio che tu metta da parte i tuoi sentimenti per Shizuma e che partecipi all'elezione.
 Dialogue: 0,0:09:59.08,0:10:00.91,Miyuki Rokujou,,0,0,0,,Sicuramente Shizuma sarà d'accordo.
 Dialogue: 0,0:10:02.22,0:10:06.84,Miyuki Rokujou,,0,0,0,,Anche lei è consapevole del fatto che tu e Tamao-san siete le candidate ideali.

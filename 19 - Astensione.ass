@@ -418,8 +418,9 @@ Dialogue: 0,0:07:16.43,0:07:18.13,Kaori Sakuragi,,0,0,0,,Grazie davvero,
 Dialogue: 0,0:07:18.13,0:07:19.45,Kaori Sakuragi,,0,0,0,,Hanazono-sama.
 Dialogue: 0,0:07:20.13,0:07:21.30,Shizuma Hanazono,,0,0,0,,Shizuma.
 Dialogue: 0,0:07:22.33,0:07:25.27,Shizuma Hanazono,,0,0,0,,Chiamami soltanto Shizuma.
-Dialogue: 0,0:07:49.36,0:07:53.04,Miyuki Rokujou,,0,0,0,,Stasera prenderemo una miscela per la notte che ho portato da casa.
+Dialogue: 0,0:07:49.36,0:07:53.04,Miyuki Rokujou,,0,0,0,,Stasera prenderemo una tisana che ho portato da casa.
 Comment: 0,0:07:49.53,0:07:51.92,Miyuki Rokujou,,0,0,0,,Sidenote: Questa la chiedo a Didì.\NEdit: A quanto pare il blend in Italia viene chiamato "miscela" o semplicemente, appunto, blend. Non so davvero come tradurlo, dato che stando alle mie ricerche sembra qualcosa che in italiano non è diffuso e tutti ne parlano su gruppi di discussione prevalentemente inglesi.
+Comment: 0,0:07:49.53,0:07:51.92,Miyuki Rokujou,,0,0,0,,Sidenote: A distanza di anni e dopo aver visto di persona i tè di Didì, ho deciso di adattarla in "Tisana".
 Dialogue: 0,0:07:54.15,0:07:56.25,Miyuki Rokujou,,0,0,0,,È un po' diversa da quella di Shizuma.
 Dialogue: 0,0:08:02.90,0:08:07.42,Shizuma Hanazono,,0,0,0,,Da tempo immemore, la famiglia Rokujou la prepara in un modo strano.
 Dialogue: 0,0:08:07.94,0:08:09.09,Miyuki Rokujou,,0,0,0,,Ma guarda.
@@ -449,7 +450,7 @@ Dialogue: 0,0:09:53.60,0:09:54.60,Miyuki Rokujou,,0,0,0,,Se non mi sbaglio,
 Dialogue: 0,0:09:54.60,0:09:56.51,Miyuki Rokujou,,0,0,0,,dicono che tra tre estati,
 Dialogue: 0,0:09:56.51,0:09:58.17,Miyuki Rokujou,,0,0,0,,in questo stesso periodo,
 Dialogue: 0,0:09:59.22,0:10:02.81,Miyuki Rokujou,,0,0,0,,sarà possibile vedere le Perseidi.
-Dialogue: 0,0:09:59.22,0:10:05.19,Note,,0,0,0,,Nota: Le Perseidi sono uno sciame di stelle cadenti.
+Comment: 0,0:09:59.22,0:10:05.19,Note,,0,0,0,,Nota: Le Perseidi sono uno sciame di stelle cadenti.
 Dialogue: 0,0:10:03.22,0:10:05.17,Shizuma Hanazono,,0,0,0,,Manca ancora molto tempo.
 Dialogue: 0,0:10:05.48,0:10:07.03,Miyuki Rokujou,,0,0,0,,Che peccato.
 Dialogue: 0,0:10:08.76,0:10:10.25,Kaori Sakuragi,,0,0,0,,Chissà se io...
@@ -465,7 +466,7 @@ Dialogue: 0,0:11:58.19,0:12:02.16,Miyuki Rokujou,,0,0,0,,Forse dovrei dirle di c
 Dialogue: 0,0:12:02.16,0:12:03.38,Miyuki Rokujou,,0,0,0,,Così non va bene.
 Dialogue: 0,0:12:11.40,0:12:13.60,Miyuki Rokujou,,0,0,0,,Kaori-san?
 Dialogue: 0,0:12:14.92,0:12:16.31,Kaori Sakuragi,,0,0,0,,Rokujou-san.
-Dialogue: 0,0:12:16.99,0:12:23.11,Kaori Sakuragi,,0,0,0,,Prima che arrivassi qui, il mio corpo era fragile e non riuscivo nemmeno ad uscire di casa.
+Dialogue: 0,0:12:16.99,0:12:23.11,Kaori Sakuragi,,0,0,0,,Prima che arrivassi qui, il mio corpo era fragile e non riuscivo nemmeno a uscire di casa.
 Dialogue: 0,0:12:23.82,0:12:27.13,Kaori Sakuragi,,0,0,0,,Prima di arrivare a Miator, io...
 Dialogue: 0,0:12:27.48,0:12:30.48,Kaori Sakuragi,,0,0,0,,mi sentivo come se non appartenessi a questo mondo.
 Dialogue: 0,0:12:31.88,0:12:34.53,Kaori Sakuragi,,0,0,0,,Mi sentivo priva di vita.
@@ -496,7 +497,7 @@ Dialogue: 0,0:13:51.42,0:13:53.74,Miyuki Rokujou,,0,0,0,,Significa rappresentare
 Dialogue: 0,0:13:54.27,0:13:57.93,Miyuki Rokujou,,0,0,0,,Significa essere la studentessa più importante ed è un'enorme responsabilità.
 Dialogue: 0,0:13:58.27,0:14:01.46,Miyuki Rokujou,,0,0,0,,Pensi davvero che Kaori-san riuscirà a sopportare una cosa del genere?
 Dialogue: 0,0:14:04.90,0:14:06.47,Shizuma Hanazono,,0,0,0,,Sopportare quelle cose...
-Dialogue: 0,0:14:06.47,0:14:07.40,Shizuma Hanazono,,0,0,0,,non ce la farà.
+Dialogue: 0,0:14:06.47,0:14:07.40,Shizuma Hanazono,,0,0,0,,Non ce la farà.
 Dialogue: 0,0:14:08.92,0:14:10.64,Miyuki Rokujou,,0,0,0,,E allora perché?
 Dialogue: 0,0:14:10.94,0:14:12.21,Miyuki Rokujou,,0,0,0,,Perché?
 Dialogue: 0,0:14:20.52,0:14:21.53,Shizuma Hanazono,,0,0,0,,Kaori,

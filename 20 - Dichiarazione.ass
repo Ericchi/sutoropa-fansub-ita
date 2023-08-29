@@ -380,7 +380,7 @@ Dialogue: 0,0:04:20.43,0:04:22.01,Gente random,,0,0,0,,Hikari e Amane-sama...?
 Dialogue: 0,0:04:22.01,0:04:23.91,Sorellina A,,0,0,0,,Ho sentito che c'è qualcosa tra di loro.
 Dialogue: 0,0:04:23.91,0:04:25.15,Sorellina B,,0,0,0,,Eh, davvero?
 Dialogue: 0,0:04:25.15,0:04:26.56,Sorellina A-2,,0,0,0,,Non ne avevo idea.
-Dialogue: 0,0:04:26.56,0:04:27.69,Sorellina B,,0,0,0,,Nemmeno io.
+Dialogue: 0,0:04:26.56,0:04:27.69,Sorellina B,,0,0,0,,È sicuro.
 Dialogue: 0,0:04:46.54,0:04:48.08,Nagisa Aoi,,0,0,0,,Che fame.
 Dialogue: 0,0:04:48.08,0:04:49.60,Tamao Suzumi,,0,0,0,,A chi lo dici.
 Dialogue: 0,0:04:49.60,0:04:52.20,Nagisa Aoi,,0,0,0,,Mangiamo qui, allora.
@@ -434,7 +434,7 @@ Dialogue: 0,0:09:11.80,0:09:13.52,Nagisa Aoi,,0,0,0,,Ma cosa...
 Dialogue: 0,0:09:13.84,0:09:15.04,Kagome Byakudan,,0,0,0,,Hai pianto
 Dialogue: 0,0:09:15.66,0:09:17.21,Kagome Byakudan,,0,0,0,,tutto il tempo.
 Dialogue: 0,0:09:53.06,0:09:55.90,Chiyo Tsukidate,,0,0,0,,Cos'è successo a Nagisa-oneesama?
-Dialogue: 0,0:09:56.40,0:09:58.96,Tsubomi Okuwaka,,0,0,0,,Fino ad un attimo fa sembrava felice.
+Dialogue: 0,0:09:56.40,0:09:58.96,Tsubomi Okuwaka,,0,0,0,,Fino a un attimo fa sembrava felice.
 Dialogue: 0,0:09:59.68,0:10:02.47,Chiyo Tsukidate,,0,0,0,,C'è qualcosa che possiamo fare per lei?
 Dialogue: 0,0:10:02.87,0:10:06.05,Tamao Suzumi,,0,0,0,,Le dirò che eravate preoccupate per lei.
 Dialogue: 0,0:10:06.05,0:10:08.00,Tamao Suzumi,,0,0,0,,Però, per stanotte...
@@ -456,7 +456,7 @@ Dialogue: 0,0:11:51.71,0:11:54.38,Shion Toumori,,0,0,0,,Se una persona venisse e
 Dialogue: 0,0:11:55.64,0:11:57.67,Shion Toumori,,0,0,0,,Io non mi arrenderò.
 Dialogue: 0,0:11:59.64,0:12:00.81,Chikaru Minamoto,,0,0,0,,Capisco.
 Dialogue: 0,0:12:00.81,0:12:02.47,Chikaru Minamoto,,0,0,0,,Nagisa-chan, eh?
-Dialogue: 0,0:12:02.75,0:12:05.29,Kizuna Hyuuga,,0,0,0,,Cosa possiamo fare per renderla felice?
+Dialogue: 0,0:12:02.75,0:12:05.29,Kizuna Hyuuga,,0,0,0,,Cosa possiamo fare per farla stare meglio?
 Dialogue: 0,0:12:05.81,0:12:08.02,Kagome Byakudan,,0,0,0,,Anche Percival è preoccupato.
 Dialogue: 0,0:12:08.28,0:12:11.21,Remon Natsume,,0,0,0,,Però, non abbiamo nessuna idea.
 Dialogue: 0,0:12:48.87,0:12:51.52,Chiyo Tsukidate,,0,0,0,,Preparare qualcosa di delizioso?
@@ -464,7 +464,7 @@ Dialogue: 0,0:12:48.87,0:12:51.52,Tsubomi Okuwaka,,0,0,0,,Preparare qualcosa di 
 Dialogue: 0,0:12:51.97,0:12:53.37,Kizuna Hyuuga,,0,0,0,,Già!
 Dialogue: 0,0:12:51.97,0:12:53.37,Remon Natsume,,0,0,0,,Già!
 Dialogue: 0,0:12:55.52,0:12:57.92,Chikaru Minamoto,,0,0,0,,Un modo per rendere felice Nagisa-chan...
-Dialogue: 0,0:12:59.04,0:13:02.96,Chikaru Minamoto,,0,0,0,,Ho un'idea, che ne dite di prepararle qualcosa di delizioso?
+Dialogue: 0,0:12:59.04,0:13:02.96,Chikaru Minamoto,,0,0,0,,Ho un'idea. Che ne dite di prepararle qualcosa di delizioso?
 Dialogue: 0,0:13:05.84,0:13:08.46,Tsubomi Okuwaka,,0,0,0,,Non è una cosa un po' troppo semplice?
 Dialogue: 0,0:13:08.46,0:13:11.72,Tsubomi Okuwaka,,0,0,0,,È vero che Nagisa-sama ama mangiare, ma...
 Dialogue: 0,0:13:11.72,0:13:13.53,Chiyo Tsukidate,,0,0,0,,No, avete ragione.
@@ -559,7 +559,7 @@ Dialogue: 0,0:19:15.76,0:19:17.70,Tamao Suzumi,,0,0,0,,Grazie davvero,
 Dialogue: 0,0:19:17.70,0:19:19.25,Tamao Suzumi,,0,0,0,,Nagisa-chan.
 Dialogue: 0,0:19:19.25,0:19:22.82,Tamao Suzumi,,0,0,0,,Sono davvero felice che tu sia arrivata qui.
 Dialogue: 0,0:19:24.64,0:19:29.74,Tamao Suzumi,,0,0,0,,Quindi, per favore, non dire più frasi come «Se solo non fossi venuta a Miator...»
-Dialogue: 0,0:19:35.93,0:19:42.06,Tamao Suzumi,,0,0,0,,Non sarai stata in grado di restituire il sorriso ad una persona a te cara,
+Dialogue: 0,0:19:35.93,0:19:42.06,Tamao Suzumi,,0,0,0,,Non sarai stata in grado di restituire il sorriso a una persona a te cara,
 Dialogue: 0,0:19:42.06,0:19:43.48,Tamao Suzumi,,0,0,0,,però,
 Dialogue: 0,0:19:43.48,0:19:48.12,Tamao Suzumi,,0,0,0,,il tuo sorriso ha contagiato tutte le altre.
 Dialogue: 0,0:19:50.45,0:19:52.47,Tamao Suzumi,,0,0,0,,Per favore, tirati su.
